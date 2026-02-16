@@ -1,0 +1,561 @@
+# =============================================================================
+# Topic 3: Internal Analysis and Strategy Types — Figure Data
+# =============================================================================
+
+rbv_io_comparison:
+  style: versus
+  center_label: "VS"
+  columns:
+    - header: "Resource-Based View (RBV)"
+      color: teal
+      items:
+        - "Competitive advantage comes from internal resources"
+        - "Focus on unique capabilities"
+        - "Resources must be valuable, rare, inimitable, organized"
+        - "Firm-specific advantages"
+        - "Inside-out perspective"
+        - "Sustained advantage through resource barriers"
+    - header: "Industrial Organization (I/O)"
+      color: navy
+      items:
+        - "Competitive advantage comes from industry positioning"
+        - "Focus on external market structure"
+        - "Five Forces determine profitability"
+        - "Industry-level advantages"
+        - "Outside-in perspective"
+        - "Sustained advantage through entry barriers"
+
+vrio_tree:
+  orientation: vertical
+  nodes:
+    - id: resource
+      label: "Resource or Capability"
+      color: navy
+      level: 0
+      col: 2
+      shape: oval
+    - id: valuable
+      label: "Valuable?"
+      color: gold
+      level: 1
+      col: 2
+      shape: diamond
+    - id: rare
+      label: "Rare?"
+      color: gold
+      level: 2
+      col: 2
+      shape: diamond
+    - id: inimitable
+      label: "Costly to Imitate?"
+      color: gold
+      level: 3
+      col: 2
+      shape: diamond
+    - id: organized
+      label: "Organized to Capture?"
+      color: gold
+      level: 4
+      col: 2
+      shape: diamond
+    - id: disadvantage
+      label: "Competitive\nDisadvantage"
+      color: red
+      level: 2
+      col: 4
+    - id: parity
+      label: "Competitive\nParity"
+      color: steel_blue
+      level: 3
+      col: 4
+    - id: temporary
+      label: "Temporary\nAdvantage"
+      color: orange
+      level: 4
+      col: 4
+    - id: sustained
+      label: "Sustained\nAdvantage"
+      color: teal
+      level: 5
+      col: 2
+      shape: oval
+  connections:
+    - from: resource
+      to: valuable
+    - from: valuable
+      to: disadvantage
+      label: "No"
+    - from: valuable
+      to: rare
+      label: "Yes"
+    - from: rare
+      to: parity
+      label: "No"
+    - from: rare
+      to: inimitable
+      label: "Yes"
+    - from: inimitable
+      to: temporary
+      label: "No"
+    - from: inimitable
+      to: organized
+      label: "Yes"
+    - from: organized
+      to: sustained
+      label: "Yes"
+
+value_chain:
+  style: value_chain
+  support_bar:
+    label: "Support Activities"
+    color: steel_blue
+    items:
+      - "Firm Infrastructure"
+      - "Human Resources"
+      - "Technology Development"
+      - "Procurement"
+  steps:
+    - label: "Inbound\nLogistics"
+      color: navy
+      items:
+        - "Receiving"
+        - "Warehousing"
+        - "Inventory"
+    - label: "Operations"
+      color: navy
+      items:
+        - "Manufacturing"
+        - "Assembly"
+        - "Quality control"
+    - label: "Outbound\nLogistics"
+      color: navy
+      items:
+        - "Distribution"
+        - "Delivery"
+        - "Order processing"
+    - label: "Marketing\n& Sales"
+      color: steel_blue
+      items:
+        - "Advertising"
+        - "Pricing"
+        - "Channel mgmt"
+    - label: "Service"
+      color: teal
+      items:
+        - "Installation"
+        - "Repair"
+        - "Customer support"
+
+ife_process:
+  orientation: horizontal
+  nodes:
+    - id: identify
+      label: "Identify Key Internal Factors"
+      color: navy
+      level: 0
+      col: 0
+    - id: weight
+      label: "Assign Weights (0.0 to 1.0)"
+      color: steel_blue
+      level: 0
+      col: 1
+    - id: rate
+      label: "Rate Factors (1 to 4)"
+      color: steel_blue
+      level: 0
+      col: 2
+    - id: multiply
+      label: "Calculate Weighted Scores"
+      color: teal
+      level: 0
+      col: 3
+    - id: total
+      label: "Sum Total Weighted Score"
+      color: gold
+      level: 0
+      col: 4
+  connections:
+    - from: identify
+      to: weight
+    - from: weight
+      to: rate
+    - from: rate
+      to: multiply
+    - from: multiply
+      to: total
+
+functional_audit_areas:
+  style: radial
+  center:
+    label: "Internal\nAudit"
+    color: navy
+  spokes:
+    - label: "Management"
+      color: steel_blue
+      items:
+        - "Planning"
+        - "Organizing"
+        - "Leading"
+    - label: "Marketing"
+      color: teal
+      items:
+        - "Segmentation"
+        - "Pricing"
+        - "Distribution"
+    - label: "Finance"
+      color: gold
+      items:
+        - "Liquidity"
+        - "Leverage"
+        - "Profitability"
+    - label: "Production"
+      color: orange
+      items:
+        - "Capacity"
+        - "Quality"
+        - "Efficiency"
+    - label: "R&D"
+      color: "#3D5A80"
+      items:
+        - "Innovation"
+        - "Patents"
+        - "Technology"
+    - label: "MIS"
+      color: red
+      items:
+        - "Data systems"
+        - "IT security"
+        - "Analytics"
+
+financial_ratios:
+  style: category_grid
+  columns: 3
+  categories:
+    - header: "Liquidity"
+      color: navy
+      items:
+        - "Current ratio"
+        - "Quick ratio"
+        - "Working capital"
+    - header: "Leverage"
+      color: steel_blue
+      items:
+        - "Debt-to-equity"
+        - "Debt-to-assets"
+        - "Interest coverage"
+    - header: "Activity"
+      color: teal
+      items:
+        - "Inventory turnover"
+        - "Asset turnover"
+        - "Receivables turnover"
+    - header: "Profitability"
+      color: gold
+      items:
+        - "Gross margin"
+        - "Net profit margin"
+        - "Return on assets"
+    - header: "Growth"
+      color: orange
+      items:
+        - "Revenue growth"
+        - "EPS growth"
+        - "Dividend growth"
+
+strategy_types_tree:
+  style: tree
+  nodes:
+    - id: root
+      label: "Strategy Types"
+      color: navy
+      level: 0
+    - id: integration
+      label: "Integration"
+      color: steel_blue
+      level: 1
+      parent: root
+    - id: intensive
+      label: "Intensive"
+      color: teal
+      level: 1
+      parent: root
+    - id: diversification
+      label: "Diversification"
+      color: gold
+      level: 1
+      parent: root
+    - id: defensive
+      label: "Defensive"
+      color: red
+      level: 1
+      parent: root
+    - id: forward
+      label: "Forward"
+      color: steel_blue
+      level: 2
+      parent: integration
+    - id: backward
+      label: "Backward"
+      color: steel_blue
+      level: 2
+      parent: integration
+    - id: horizontal
+      label: "Horizontal"
+      color: steel_blue
+      level: 2
+      parent: integration
+    - id: penetration
+      label: "Market\nPenetration"
+      color: teal
+      level: 2
+      parent: intensive
+    - id: mkt_dev
+      label: "Market\nDevelopment"
+      color: teal
+      level: 2
+      parent: intensive
+    - id: prod_dev
+      label: "Product\nDevelopment"
+      color: teal
+      level: 2
+      parent: intensive
+    - id: related
+      label: "Related"
+      color: gold
+      level: 2
+      parent: diversification
+    - id: unrelated
+      label: "Unrelated"
+      color: gold
+      level: 2
+      parent: diversification
+    - id: retrench
+      label: "Retrenchment"
+      color: red
+      level: 2
+      parent: defensive
+    - id: divest
+      label: "Divestiture"
+      color: red
+      level: 2
+      parent: defensive
+    - id: liquidate
+      label: "Liquidation"
+      color: red
+      level: 2
+      parent: defensive
+
+integration_strategies:
+  style: chevrons
+  steps:
+    - label: "Forward\nIntegration"
+      color: navy
+      items:
+        - "Control distributors"
+        - "Own retail outlets"
+    - label: "Backward\nIntegration"
+      color: steel_blue
+      items:
+        - "Control suppliers"
+        - "Own raw materials"
+    - label: "Horizontal\nIntegration"
+      color: teal
+      items:
+        - "Acquire competitors"
+        - "Increase market share"
+
+intensive_strategies:
+  style: category_grid
+  columns: 3
+  categories:
+    - header: "Market Penetration"
+      color: navy
+      items:
+        - "Increase market share"
+        - "Current products, current markets"
+        - "More advertising"
+        - "Better pricing"
+    - header: "Market Development"
+      color: steel_blue
+      items:
+        - "New geographic areas"
+        - "Current products, new markets"
+        - "New distribution channels"
+        - "New market segments"
+    - header: "Product Development"
+      color: teal
+      items:
+        - "New or improved products"
+        - "New products, current markets"
+        - "R&D investment"
+        - "Quality improvements"
+
+diversification_types:
+  style: versus
+  center_label: "VS"
+  columns:
+    - header: "Related Diversification"
+      color: teal
+      items:
+        - "Value chain synergies exist"
+        - "Transfer competencies across units"
+        - "Share resources and capabilities"
+        - "Economies of scope"
+        - "Example: Disney theme parks and movies"
+    - header: "Unrelated Diversification"
+      color: orange
+      items:
+        - "No value chain linkages"
+        - "Financial synergies only"
+        - "Portfolio risk reduction"
+        - "Capital allocation flexibility"
+        - "Example: Berkshire Hathaway holdings"
+
+defensive_strategies:
+  orientation: vertical
+  nodes:
+    - id: distress
+      label: "Competitive Distress"
+      color: navy
+      level: 0
+      col: 0
+      shape: oval
+    - id: retrench
+      label: "Retrenchment"
+      color: orange
+      level: 1
+      col: 0
+    - id: divest
+      label: "Divestiture"
+      color: red
+      level: 2
+      col: 0
+    - id: liquidate
+      label: "Liquidation"
+      color: "#8B0000"
+      level: 3
+      col: 0
+    - id: r_desc
+      label: "Cut costs, sell assets,\nreduce operations"
+      color: "#E9ECEF"
+      level: 1
+      col: 1
+    - id: d_desc
+      label: "Sell a division or\npart of the organization"
+      color: "#E9ECEF"
+      level: 2
+      col: 1
+    - id: l_desc
+      label: "Sell all assets for\ntangible net worth"
+      color: "#E9ECEF"
+      level: 3
+      col: 1
+  connections:
+    - from: distress
+      to: retrench
+      label: "First resort"
+    - from: retrench
+      to: divest
+      label: "If insufficient"
+    - from: divest
+      to: liquidate
+      label: "Last resort"
+    - from: retrench
+      to: r_desc
+    - from: divest
+      to: d_desc
+    - from: liquidate
+      to: l_desc
+
+porter_generic:
+  x_label: "Source of Competitive Advantage"
+  y_label: "Competitive Scope"
+  x_low_label: "Lower Cost"
+  x_high_label: "Differentiation"
+  y_high_label: "Broad"
+  y_low_label: "Narrow"
+  quadrants:
+    - name: "Cost Leadership"
+      color: navy
+      items:
+        - "Economies of scale"
+        - "Process efficiency"
+        - "Cost control"
+    - name: "Differentiation"
+      color: teal
+      items:
+        - "Unique products"
+        - "Brand premium"
+        - "Innovation"
+    - name: "Focused Cost\nLeadership"
+      color: steel_blue
+      items:
+        - "Niche market"
+        - "Low-cost position"
+    - name: "Focused\nDifferentiation"
+      color: gold
+      items:
+        - "Niche market"
+        - "Unique offering"
+
+organic_vs_acquisition:
+  style: table
+  columns:
+    - header: "Organic Growth"
+      color: teal
+    - header: "Acquisition Growth"
+      color: navy
+  rows:
+    - category: "Speed"
+      values: ["Slow, incremental", "Rapid market entry"]
+    - category: "Risk"
+      values: ["Lower financial risk", "Higher integration risk"]
+    - category: "Cost"
+      values: ["Lower upfront cost", "High acquisition premium"]
+    - category: "Control"
+      values: ["Full control from start", "Integration challenges"]
+    - category: "Culture"
+      values: ["Organic culture fit", "Cultural clash risk"]
+    - category: "Capabilities"
+      values: ["Build internally", "Acquire existing talent"]
+
+long_term_objectives:
+  style: category_grid
+  columns: 2
+  categories:
+    - header: "Quantitative"
+      color: navy
+      items:
+        - "Measurable with numbers"
+        - "Revenue or profit targets"
+        - "Market share goals"
+    - header: "Measurable"
+      color: steel_blue
+      items:
+        - "Clear metrics defined"
+        - "Progress trackable"
+        - "Benchmarks established"
+    - header: "Realistic"
+      color: teal
+      items:
+        - "Achievable with resources"
+        - "Stretch but not impossible"
+        - "Based on analysis"
+    - header: "Understandable"
+      color: gold
+      items:
+        - "Clear to all stakeholders"
+        - "Simply stated"
+        - "No ambiguity"
+    - header: "Challenging"
+      color: orange
+      items:
+        - "Require effort"
+        - "Drive improvement"
+        - "Motivate performance"
+    - header: "Obtainable"
+      color: steel_blue
+      items:
+        - "Feasible timeline"
+        - "Adequate resources"
+        - "Organizational capacity"

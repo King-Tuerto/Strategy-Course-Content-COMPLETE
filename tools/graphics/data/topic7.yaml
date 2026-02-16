@@ -1,0 +1,283 @@
+# =============================================================================
+# Topic 7: Finance and Accounting in Strategy Implementation — Figure Data
+# =============================================================================
+
+eps_ebit_chart:
+  style: eps_ebit
+  x_label: "EBIT ($000s)"
+  y_label: "EPS ($)"
+  y_format: currency
+  x_values: [0, 100, 200, 300, 400, 500, 600, 700, 800]
+  datasets:
+    - label: "100% Debt Financing"
+      color: navy
+      style: solid
+      values: [-2.50, -1.25, 0.00, 1.25, 2.50, 3.75, 5.00, 6.25, 7.50]
+    - label: "100% Equity Financing"
+      color: teal
+      style: dashed
+      values: [-1.00, -0.25, 0.50, 1.25, 2.00, 2.75, 3.50, 4.25, 5.00]
+  crossover:
+    x: 300
+    y: 1.25
+    label: "Crossover Point\n($300K EBIT)"
+  show_legend: true
+  show_grid: true
+
+budget_hierarchy:
+  style: pyramid
+  levels:
+    - label: "Master Budget"
+      color: navy
+      items:
+        - "Integrates all budgets"
+        - "Company-wide overview"
+    - label: "Capital Budget"
+      color: steel_blue
+      items:
+        - "Long-term investments"
+        - "Plant, equipment, R&D"
+    - label: "Operating Budget"
+      color: teal
+      items:
+        - "Revenue projections"
+        - "Day-to-day expenses"
+    - label: "Cash Budget"
+      color: gold
+      items:
+        - "Cash inflows/outflows"
+        - "Liquidity management"
+    - label: "Sales & Profit Budgets"
+      color: orange
+      items:
+        - "Revenue forecasts"
+        - "Target margins"
+
+valuation_methods:
+  style: table
+  columns:
+    - header: "Net Worth"
+      color: navy
+    - header: "Market Cap"
+      color: steel_blue
+    - header: "P/E Ratio"
+      color: teal
+    - header: "DCF"
+      color: gold
+  rows:
+    - category: "Basis"
+      values: ["Book value", "Share price", "Earnings multiple", "Future cash flows"]
+    - category: "Formula"
+      values: ["Assets - Liabilities", "Price x Shares", "EPS x Industry P/E", "PV of future CF"]
+    - category: "Strength"
+      values: ["Simple, tangible", "Market-based", "Industry comparable", "Forward-looking"]
+    - category: "Weakness"
+      values: ["Ignores intangibles", "Volatile", "Sensitive to P/E", "Projection dependent"]
+    - category: "Best For"
+      values: ["Asset-heavy firms", "Public companies", "Quick comparison", "Any company"]
+
+pro_forma_process:
+  orientation: vertical
+  title_box:
+    label: "Pro Forma Development"
+    color: navy
+  nodes:
+    - id: prior
+      label: "Prior Year Financial Statements"
+      color: navy
+      level: 0
+      col: 0
+    - id: revenue
+      label: "Project Revenue Growth"
+      color: steel_blue
+      level: 1
+      col: 0
+    - id: cogs
+      label: "Estimate COGS %"
+      color: steel_blue
+      level: 2
+      col: 0
+    - id: expenses
+      label: "Project Operating Expenses"
+      color: steel_blue
+      level: 3
+      col: 0
+    - id: income
+      label: "Pro Forma Income Statement"
+      color: teal
+      level: 4
+      col: 0
+    - id: assets
+      label: "Project Asset Changes"
+      color: gold
+      level: 3
+      col: 1
+    - id: balance
+      label: "Pro Forma Balance Sheet"
+      color: teal
+      level: 4
+      col: 1
+    - id: analysis
+      label: "Financial Ratio Analysis"
+      color: orange
+      level: 5
+      col: 0
+  connections:
+    - from: prior
+      to: revenue
+    - from: revenue
+      to: cogs
+    - from: cogs
+      to: expenses
+    - from: expenses
+      to: income
+    - from: prior
+      to: assets
+    - from: assets
+      to: balance
+    - from: income
+      to: analysis
+    - from: balance
+      to: analysis
+
+capital_structure:
+  style: versus
+  center_label: "VS"
+  columns:
+    - header: "Debt Financing"
+      color: navy
+      items:
+        - "Tax-deductible interest"
+        - "No ownership dilution"
+        - "Fixed obligation"
+        - "Leverages returns in good times"
+        - "Higher EPS above crossover"
+        - "Risk of default if EBIT falls"
+    - header: "Equity Financing"
+      color: teal
+      items:
+        - "No fixed obligations"
+        - "No default risk"
+        - "Ownership dilution"
+        - "More conservative approach"
+        - "Higher EPS below crossover"
+        - "Dividend expectations but not required"
+
+financial_ratios_implementation:
+  style: category_grid
+  columns: 2
+  categories:
+    - header: "Liquidity Monitoring"
+      color: navy
+      items:
+        - "Current ratio trend"
+        - "Quick ratio adequacy"
+        - "Working capital sufficiency"
+    - header: "Leverage Monitoring"
+      color: steel_blue
+      items:
+        - "Debt-to-equity target"
+        - "Interest coverage safety"
+        - "Debt capacity remaining"
+    - header: "Profitability Tracking"
+      color: teal
+      items:
+        - "Gross margin stability"
+        - "Operating margin trend"
+        - "ROA and ROE targets"
+    - header: "Activity Metrics"
+      color: gold
+      items:
+        - "Inventory turnover"
+        - "Receivables collection"
+        - "Asset utilization"
+
+dividend_decisions:
+  style: radial
+  center:
+    label: "Dividend\nDecision"
+    color: navy
+  spokes:
+    - label: "Cash Availability"
+      color: teal
+      items:
+        - "Free cash flow"
+        - "Working capital needs"
+    - label: "Growth Needs"
+      color: steel_blue
+      items:
+        - "Investment pipeline"
+        - "R&D requirements"
+    - label: "Tax Implications"
+      color: gold
+      items:
+        - "Dividend tax rates"
+        - "Capital gains rates"
+    - label: "Market Signal"
+      color: orange
+      items:
+        - "Investor expectations"
+        - "Stock price impact"
+    - label: "Debt Covenants"
+      color: red
+      items:
+        - "Payout restrictions"
+        - "Retained earnings requirements"
+
+financial_integration:
+  orientation: vertical
+  nodes:
+    - id: strategy
+      label: "Strategic Decision"
+      color: navy
+      level: 0
+      col: 1
+      shape: oval
+    - id: proforma
+      label: "Pro Forma Analysis"
+      color: steel_blue
+      level: 1
+      col: 0
+    - id: epseb
+      label: "EPS/EBIT Analysis"
+      color: steel_blue
+      level: 1
+      col: 1
+    - id: valuation
+      label: "Valuation Impact"
+      color: steel_blue
+      level: 1
+      col: 2
+    - id: capital
+      label: "Capital Structure Decision"
+      color: teal
+      level: 2
+      col: 1
+    - id: budget
+      label: "Budget Allocation"
+      color: gold
+      level: 3
+      col: 1
+    - id: implement
+      label: "Implementation"
+      color: teal
+      level: 4
+      col: 1
+      shape: oval
+  connections:
+    - from: strategy
+      to: proforma
+    - from: strategy
+      to: epseb
+    - from: strategy
+      to: valuation
+    - from: proforma
+      to: capital
+    - from: epseb
+      to: capital
+    - from: valuation
+      to: capital
+    - from: capital
+      to: budget
+    - from: budget
+      to: implement

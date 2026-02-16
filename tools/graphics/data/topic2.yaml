@@ -1,0 +1,207 @@
+# =============================================================================
+# Topic 2: External Analysis and International Strategy — Figure Data
+# =============================================================================
+
+efe_process:
+  orientation: horizontal
+  nodes:
+    - id: identify
+      label: "Identify Key External Factors"
+      color: navy
+      level: 0
+      col: 0
+    - id: weight
+      label: "Assign Weights (0.0 to 1.0)"
+      color: steel_blue
+      level: 0
+      col: 1
+    - id: rate
+      label: "Rate Factors (1 to 4)"
+      color: steel_blue
+      level: 0
+      col: 2
+    - id: multiply
+      label: "Calculate Weighted Scores"
+      color: teal
+      level: 0
+      col: 3
+    - id: total
+      label: "Sum Total Weighted Score"
+      color: gold
+      level: 0
+      col: 4
+  connections:
+    - from: identify
+      to: weight
+    - from: weight
+      to: rate
+    - from: rate
+      to: multiply
+    - from: multiply
+      to: total
+
+five_forces:
+  style: five_forces
+  center:
+    label: "Industry\nRivalry"
+    color: navy
+    items:
+      - "Number of competitors"
+      - "Industry growth rate"
+      - "Exit barriers"
+  forces:
+    - label: "Threat of\nNew Entrants"
+      color: steel_blue
+      items:
+        - "Capital requirements"
+        - "Economies of scale"
+        - "Brand loyalty"
+    - label: "Bargaining Power\nof Buyers"
+      color: teal
+      items:
+        - "Buyer concentration"
+        - "Switching costs"
+        - "Price sensitivity"
+    - label: "Threat of\nSubstitutes"
+      color: orange
+      items:
+        - "Availability of substitutes"
+        - "Price-performance ratio"
+        - "Switching costs"
+    - label: "Bargaining Power\nof Suppliers"
+      color: gold
+      items:
+        - "Supplier concentration"
+        - "Input differentiation"
+        - "Forward integration threat"
+
+pestel_framework:
+  style: hexagon
+  center:
+    label: "External\nEnvironment"
+    color: navy
+  hexagons:
+    - label: "Political"
+      color: steel_blue
+      items:
+        - "Government stability"
+        - "Tax policy"
+        - "Trade regulations"
+    - label: "Economic"
+      color: teal
+      items:
+        - "GDP growth"
+        - "Interest rates"
+        - "Exchange rates"
+    - label: "Social"
+      color: gold
+      items:
+        - "Demographics"
+        - "Cultural trends"
+        - "Health awareness"
+    - label: "Technological"
+      color: orange
+      items:
+        - "R&D activity"
+        - "Automation"
+        - "Digital disruption"
+    - label: "Environmental"
+      color: "#2A9D8F"
+      items:
+        - "Climate change"
+        - "Sustainability"
+        - "Waste management"
+    - label: "Legal"
+      color: red
+      items:
+        - "Employment law"
+        - "Consumer protection"
+        - "Antitrust"
+
+cpm_overview:
+  style: table
+  columns:
+    - header: "Company A"
+      color: navy
+    - header: "Company B"
+      color: steel_blue
+    - header: "Company C"
+      color: teal
+  rows:
+    - category: "Market Share"
+      values: ["Rating: 4", "Rating: 2", "Rating: 3"]
+    - category: "Price Competitiveness"
+      values: ["Rating: 3", "Rating: 4", "Rating: 2"]
+    - category: "Product Quality"
+      values: ["Rating: 3", "Rating: 3", "Rating: 4"]
+    - category: "Customer Loyalty"
+      values: ["Rating: 4", "Rating: 2", "Rating: 3"]
+    - category: "Financial Position"
+      values: ["Rating: 3", "Rating: 3", "Rating: 3"]
+    - category: "Global Expansion"
+      values: ["Rating: 2", "Rating: 4", "Rating: 3"]
+
+integration_responsiveness:
+  x_label: "Pressure for Local Responsiveness"
+  y_label: "Pressure for Global Integration"
+  x_high_label: "High"
+  x_low_label: "Low"
+  y_high_label: "High"
+  y_low_label: "Low"
+  quadrants:
+    - name: "Global Strategy"
+      color: navy
+      subtitle: "Standardize worldwide"
+      items:
+        - "Cost leadership"
+        - "Centralized operations"
+    - name: "Transnational Strategy"
+      color: teal
+      subtitle: "Optimize both"
+      items:
+        - "Flexible coordination"
+        - "Shared learning"
+    - name: "International Strategy"
+      color: gold
+      subtitle: "Export domestic model"
+      items:
+        - "Limited adaptation"
+        - "Headquarters-driven"
+    - name: "Multidomestic Strategy"
+      color: steel_blue
+      subtitle: "Customize locally"
+      items:
+        - "Decentralized decisions"
+        - "Local responsiveness"
+
+entry_modes_spectrum:
+  style: spectrum
+  spectrum_labels:
+    left: "Low Risk / Low Control"
+    right: "High Risk / High Control"
+  steps:
+    - label: "Exporting"
+      color: teal
+      items:
+        - "Lowest commitment"
+        - "Limited learning"
+    - label: "Licensing"
+      color: steel_blue
+      items:
+        - "IP transfer"
+        - "Royalty income"
+    - label: "Joint Venture"
+      color: gold
+      items:
+        - "Shared risk"
+        - "Local partner"
+    - label: "Acquisition"
+      color: orange
+      items:
+        - "Rapid entry"
+        - "Full control"
+    - label: "Greenfield"
+      color: red
+      items:
+        - "Maximum control"
+        - "Highest investment"

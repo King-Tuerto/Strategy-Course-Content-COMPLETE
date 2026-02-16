@@ -1,0 +1,601 @@
+# =============================================================================
+# MASTER GRAPHICS MANIFEST
+# =============================================================================
+# Every figure in the course is registered here.
+# The generate_graphics.py CLI uses this file to know what to build.
+#
+# Fields:
+#   id            – unique snake_case identifier
+#   figure_number – display number (e.g., "1.1", "TG.3")
+#   topic         – topic number (1-7) or "TG" for tool guides
+#   title         – figure title (italic, no period)
+#   filename      – output PNG filename
+#   renderer      – which renderer module to use
+#   data_file     – YAML file containing figure-specific parameters
+#   alt_text      – accessibility description (GCU required)
+# =============================================================================
+
+figures:
+
+  # ─── Topic 1: Foundations of Strategic Management ─────────────────────
+  - id: sm_model
+    figure_number: "1.1"
+    topic: 1
+    title: "Comprehensive Strategic Management Model"
+    filename: fig-1-1-sm-model.png
+    renderer: flowchart
+    data_file: topic1.yaml
+    alt_text: "Flowchart showing the three stages of strategic management: formulation, implementation, and evaluation with feedback loops"
+
+  - id: vision_mission_cascade
+    figure_number: "1.2"
+    topic: 1
+    title: "From Vision to Competitive Advantage"
+    filename: fig-1-2-vision-cascade.png
+    renderer: flowchart
+    data_file: topic1.yaml
+    alt_text: "Cascade diagram showing vision flowing through mission, objectives, strategies, and policies to competitive advantage"
+
+  - id: triple_bottom_line
+    figure_number: "1.3"
+    topic: 1
+    title: "The Triple Bottom Line Framework"
+    filename: fig-1-3-triple-bottom-line.png
+    renderer: reference
+    data_file: topic1.yaml
+    alt_text: "Three overlapping circles showing profit, people, and planet dimensions of sustainability"
+
+  - id: strategy_benefits
+    figure_number: "1.4"
+    topic: 1
+    title: "Financial and Nonfinancial Benefits of Strategic Management"
+    filename: fig-1-4-strategy-benefits.png
+    renderer: comparison
+    data_file: topic1.yaml
+    alt_text: "Side-by-side comparison of financial benefits and nonfinancial benefits of strategic management"
+
+  - id: ethics_decision_framework
+    figure_number: "1.5"
+    topic: 1
+    title: "Business Ethics Decision Framework"
+    filename: fig-1-5-ethics-framework.png
+    renderer: flowchart
+    data_file: topic1.yaml
+    alt_text: "Decision tree showing ethical analysis process for strategic decisions"
+
+  # ─── Topic 2: External Analysis and International Strategy ────────────
+  - id: efe_process
+    figure_number: "2.1"
+    topic: 2
+    title: "External Factor Evaluation Process"
+    filename: fig-2-1-efe-process.png
+    renderer: flowchart
+    data_file: topic2.yaml
+    alt_text: "Flowchart showing the five steps of constructing an EFE Matrix"
+
+  - id: five_forces
+    figure_number: "2.2"
+    topic: 2
+    title: "Porter's Five Forces Model"
+    filename: fig-2-2-five-forces.png
+    renderer: reference
+    data_file: topic2.yaml
+    alt_text: "Diagram showing five competitive forces: rivalry, new entrants, substitutes, buyer power, and supplier power"
+
+  - id: pestel_framework
+    figure_number: "2.3"
+    topic: 2
+    title: "PESTEL Analysis Framework"
+    filename: fig-2-3-pestel.png
+    renderer: reference
+    data_file: topic2.yaml
+    alt_text: "Hexagonal diagram showing six PESTEL factors: political, economic, social, technological, environmental, and legal"
+
+  - id: cpm_overview
+    figure_number: "2.4"
+    topic: 2
+    title: "Competitive Profile Matrix Overview"
+    filename: fig-2-4-cpm-overview.png
+    renderer: comparison
+    data_file: topic2.yaml
+    alt_text: "Table showing CPM structure with critical success factors, weights, ratings, and scores for multiple competitors"
+
+  - id: integration_responsiveness
+    figure_number: "2.5"
+    topic: 2
+    title: "Integration-Responsiveness Framework"
+    filename: fig-2-5-integration-responsiveness.png
+    renderer: matrix_2x2
+    data_file: topic2.yaml
+    alt_text: "Two-by-two matrix showing four international strategies based on global integration and local responsiveness"
+
+  - id: entry_modes_spectrum
+    figure_number: "2.6"
+    topic: 2
+    title: "International Market Entry Modes"
+    filename: fig-2-6-entry-modes.png
+    renderer: linear_flow
+    data_file: topic2.yaml
+    alt_text: "Spectrum showing market entry modes from low to high commitment: exporting, licensing, joint ventures, acquisition, greenfield"
+
+  # ─── Topic 3: Internal Analysis and Strategy Types ────────────────────
+  - id: rbv_io_comparison
+    figure_number: "3.1"
+    topic: 3
+    title: "Resource-Based View versus Industrial Organization View"
+    filename: fig-3-1-rbv-vs-io.png
+    renderer: comparison
+    data_file: topic3.yaml
+    alt_text: "Side-by-side comparison of RBV and IO perspectives on competitive advantage"
+
+  - id: vrio_tree
+    figure_number: "3.2"
+    topic: 3
+    title: "VRIO Decision Tree"
+    filename: fig-3-2-vrio-tree.png
+    renderer: flowchart
+    data_file: topic3.yaml
+    alt_text: "Decision tree showing VRIO analysis with four sequential tests leading to competitive outcomes"
+
+  - id: value_chain
+    figure_number: "3.3"
+    topic: 3
+    title: "Porter's Value Chain"
+    filename: fig-3-3-value-chain.png
+    renderer: linear_flow
+    data_file: topic3.yaml
+    alt_text: "Value chain showing five primary activities and four support activities leading to profit margin"
+
+  - id: ife_process
+    figure_number: "3.4"
+    topic: 3
+    title: "Internal Factor Evaluation Process"
+    filename: fig-3-4-ife-process.png
+    renderer: flowchart
+    data_file: topic3.yaml
+    alt_text: "Flowchart showing the five steps of constructing an IFE Matrix"
+
+  - id: functional_audit_areas
+    figure_number: "3.5"
+    topic: 3
+    title: "Six Functional Areas for Internal Audit"
+    filename: fig-3-5-functional-areas.png
+    renderer: reference
+    data_file: topic3.yaml
+    alt_text: "Radial diagram showing six functional audit areas: management, marketing, finance, production, research, and information systems"
+
+  - id: financial_ratios
+    figure_number: "3.6"
+    topic: 3
+    title: "Five Categories of Financial Ratios"
+    filename: fig-3-6-financial-ratios.png
+    renderer: reference
+    data_file: topic3.yaml
+    alt_text: "Category grid showing five financial ratio categories with example ratios for each"
+
+  - id: strategy_types_tree
+    figure_number: "3.7"
+    topic: 3
+    title: "Strategy Types and Alternatives"
+    filename: fig-3-7-strategy-types.png
+    renderer: hierarchy
+    data_file: topic3.yaml
+    alt_text: "Hierarchical tree showing four strategy categories and their specific alternatives"
+
+  - id: integration_strategies
+    figure_number: "3.8"
+    topic: 3
+    title: "Integration Strategies Spectrum"
+    filename: fig-3-8-integration-strategies.png
+    renderer: linear_flow
+    data_file: topic3.yaml
+    alt_text: "Spectrum showing forward, backward, and horizontal integration strategies with examples"
+
+  - id: intensive_strategies
+    figure_number: "3.9"
+    topic: 3
+    title: "Intensive Growth Strategies"
+    filename: fig-3-9-intensive-strategies.png
+    renderer: reference
+    data_file: topic3.yaml
+    alt_text: "Category grid showing three intensive strategies: market penetration, market development, and product development"
+
+  - id: diversification_types
+    figure_number: "3.10"
+    topic: 3
+    title: "Related versus Unrelated Diversification"
+    filename: fig-3-10-diversification.png
+    renderer: comparison
+    data_file: topic3.yaml
+    alt_text: "Comparison of related and unrelated diversification strategies with characteristics and examples"
+
+  - id: defensive_strategies
+    figure_number: "3.11"
+    topic: 3
+    title: "Defensive Strategy Cascade"
+    filename: fig-3-11-defensive-strategies.png
+    renderer: flowchart
+    data_file: topic3.yaml
+    alt_text: "Cascade showing retrenchment, divestiture, and liquidation as escalating defensive strategies"
+
+  - id: porter_generic
+    figure_number: "3.12"
+    topic: 3
+    title: "Porter's Generic Strategies"
+    filename: fig-3-12-porter-generic.png
+    renderer: matrix_2x2
+    data_file: topic3.yaml
+    alt_text: "Two-by-two matrix showing four generic strategies based on competitive scope and source of advantage"
+
+  - id: organic_vs_acquisition
+    figure_number: "3.13"
+    topic: 3
+    title: "Organic Growth versus Acquisition Growth"
+    filename: fig-3-13-organic-vs-acquisition.png
+    renderer: comparison
+    data_file: topic3.yaml
+    alt_text: "Comparison table of organic growth and acquisition growth approaches"
+
+  - id: long_term_objectives
+    figure_number: "3.14"
+    topic: 3
+    title: "Seven Characteristics of Long-Term Objectives"
+    filename: fig-3-14-objectives-characteristics.png
+    renderer: reference
+    data_file: topic3.yaml
+    alt_text: "Category grid listing seven desirable characteristics of long-term strategic objectives"
+
+  # ─── Topic 4: Strategy Analysis and Implementation ────────────────────
+  - id: formulation_framework
+    figure_number: "4.1"
+    topic: 4
+    title: "Strategy Formulation Analytical Framework"
+    filename: fig-4-1-formulation-framework.png
+    renderer: hierarchy
+    data_file: topic4.yaml
+    alt_text: "Three-tier framework showing Input Stage, Matching Stage, and Decision Stage of strategy formulation"
+
+  - id: swot_matrix
+    figure_number: "4.2"
+    topic: 4
+    title: "SWOT Matrix with Strategy Combinations"
+    filename: fig-4-2-swot-matrix.png
+    renderer: matrix_grid
+    data_file: topic4.yaml
+    alt_text: "Four-quadrant SWOT matrix showing SO, WO, ST, and WT strategy combinations"
+
+  - id: space_matrix
+    figure_number: "4.3"
+    topic: 4
+    title: "SPACE Matrix with Four Strategic Postures"
+    filename: fig-4-3-space-matrix.png
+    renderer: axis_quadrant
+    data_file: topic4.yaml
+    alt_text: "Four-quadrant axis diagram showing aggressive, conservative, defensive, and competitive postures"
+
+  - id: bcg_matrix
+    figure_number: "4.4"
+    topic: 4
+    title: "BCG Growth-Share Matrix"
+    filename: fig-4-4-bcg-matrix.png
+    renderer: matrix_2x2
+    data_file: topic4.yaml
+    alt_text: "Two-by-two matrix showing Stars, Question Marks, Cash Cows, and Dogs based on growth rate and market share"
+
+  - id: ie_matrix
+    figure_number: "4.5"
+    topic: 4
+    title: "Internal-External Matrix"
+    filename: fig-4-5-ie-matrix.png
+    renderer: matrix_grid
+    data_file: topic4.yaml
+    alt_text: "Three-by-three grid showing grow-build, hold-maintain, and harvest-divest regions based on IFE and EFE scores"
+
+  - id: grand_strategy_matrix
+    figure_number: "4.6"
+    topic: 4
+    title: "Grand Strategy Matrix"
+    filename: fig-4-6-grand-strategy.png
+    renderer: matrix_2x2
+    data_file: topic4.yaml
+    alt_text: "Two-by-two matrix showing four quadrants based on competitive position and market growth"
+
+  - id: qspm_overview
+    figure_number: "4.7"
+    topic: 4
+    title: "QSPM Decision Matrix Overview"
+    filename: fig-4-7-qspm-overview.png
+    renderer: comparison
+    data_file: topic4.yaml
+    alt_text: "Table showing QSPM structure with key factors, weights, and attractiveness scores for strategy alternatives"
+
+  - id: formulation_vs_implementation
+    figure_number: "4.8"
+    topic: 4
+    title: "Strategy Formulation versus Strategy Implementation"
+    filename: fig-4-8-formulation-vs-implementation.png
+    renderer: comparison
+    data_file: topic4.yaml
+    alt_text: "Side-by-side comparison of strategy formulation and strategy implementation characteristics"
+
+  - id: org_structures
+    figure_number: "4.9"
+    topic: 4
+    title: "Organizational Structure Types"
+    filename: fig-4-9-org-structures.png
+    renderer: comparison
+    data_file: topic4.yaml
+    alt_text: "Comparison of four organizational structure types: functional, divisional, matrix, and SBU"
+
+  - id: structure_follows_strategy
+    figure_number: "4.10"
+    topic: 4
+    title: "Structure Follows Strategy Model"
+    filename: fig-4-10-structure-strategy.png
+    renderer: flowchart
+    data_file: topic4.yaml
+    alt_text: "Flowchart showing how new strategy leads to new administrative problems and then new organizational structure"
+
+  - id: annual_objectives_cascade
+    figure_number: "4.11"
+    topic: 4
+    title: "From Long-Term Objectives to Annual Objectives"
+    filename: fig-4-11-objectives-cascade.png
+    renderer: flowchart
+    data_file: topic4.yaml
+    alt_text: "Cascade showing long-term objectives breaking down into divisional and departmental annual objectives"
+
+  - id: resistance_management
+    figure_number: "4.12"
+    topic: 4
+    title: "Force Field Analysis for Managing Change"
+    filename: fig-4-12-force-field.png
+    renderer: comparison
+    data_file: topic4.yaml
+    alt_text: "Force field diagram showing driving forces and restraining forces in strategy implementation"
+
+  - id: marketing_4ps
+    figure_number: "4.13"
+    topic: 4
+    title: "Marketing Implementation Framework"
+    filename: fig-4-13-marketing-4ps.png
+    renderer: reference
+    data_file: topic4.yaml
+    alt_text: "Diagram showing market segmentation, product positioning, and the marketing mix (4Ps)"
+
+  - id: restructuring_comparison
+    figure_number: "4.14"
+    topic: 4
+    title: "Restructuring, Reengineering, and E-Commerce"
+    filename: fig-4-14-restructuring.png
+    renderer: comparison
+    data_file: topic4.yaml
+    alt_text: "Comparison of restructuring, reengineering, and e-commerce as implementation approaches"
+
+  # ─── Topic 6: Strategy Evaluation and Control ─────────────────────────
+  - id: evaluation_framework
+    figure_number: "6.1"
+    topic: 6
+    title: "Strategy Evaluation Framework"
+    filename: fig-6-1-evaluation-framework.png
+    renderer: flowchart
+    data_file: topic6.yaml
+    alt_text: "Flowchart showing the three activities of strategy evaluation: reviewing bases, measuring performance, and taking corrective actions"
+
+  - id: rumelt_criteria
+    figure_number: "6.2"
+    topic: 6
+    title: "Rumelt's Four Criteria for Strategy Evaluation"
+    filename: fig-6-2-rumelt-criteria.png
+    renderer: reference
+    data_file: topic6.yaml
+    alt_text: "Category grid showing Rumelt's four evaluation criteria: consistency, consonance, feasibility, and advantage"
+
+  - id: balanced_scorecard
+    figure_number: "6.3"
+    topic: 6
+    title: "The Balanced Scorecard"
+    filename: fig-6-3-balanced-scorecard.png
+    renderer: reference
+    data_file: topic6.yaml
+    alt_text: "Four-perspective Balanced Scorecard with financial, customer, internal process, and learning/growth dimensions"
+
+  - id: evaluation_characteristics
+    figure_number: "6.4"
+    topic: 6
+    title: "Characteristics of an Effective Evaluation System"
+    filename: fig-6-4-evaluation-characteristics.png
+    renderer: reference
+    data_file: topic6.yaml
+    alt_text: "Category grid listing key characteristics of effective strategy evaluation systems"
+
+  - id: contingency_planning
+    figure_number: "6.5"
+    topic: 6
+    title: "Contingency Planning Process"
+    filename: fig-6-5-contingency-planning.png
+    renderer: flowchart
+    data_file: topic6.yaml
+    alt_text: "Flowchart showing the contingency planning process from identifying trigger events to activating alternative strategies"
+
+  - id: corrective_actions_flow
+    figure_number: "6.6"
+    topic: 6
+    title: "Taking Corrective Actions Decision Flow"
+    filename: fig-6-6-corrective-actions.png
+    renderer: flowchart
+    data_file: topic6.yaml
+    alt_text: "Decision tree for determining appropriate corrective actions based on evaluation findings"
+
+  - id: evaluation_difficulty
+    figure_number: "6.7"
+    topic: 6
+    title: "Why Strategy Evaluation Is Increasingly Difficult"
+    filename: fig-6-7-evaluation-difficulty.png
+    renderer: reference
+    data_file: topic6.yaml
+    alt_text: "Category grid showing factors that make strategy evaluation more challenging in modern business"
+
+  # ─── Topic 7: Finance and Accounting in Strategy Implementation ───────
+  - id: eps_ebit_chart
+    figure_number: "7.1"
+    topic: 7
+    title: "EPS/EBIT Analysis Chart"
+    filename: fig-7-1-eps-ebit.png
+    renderer: chart
+    data_file: topic7.yaml
+    alt_text: "Line chart comparing earnings per share under debt and equity financing across EBIT levels with crossover point"
+
+  - id: budget_hierarchy
+    figure_number: "7.2"
+    topic: 7
+    title: "Financial Budget Hierarchy"
+    filename: fig-7-2-budget-hierarchy.png
+    renderer: hierarchy
+    data_file: topic7.yaml
+    alt_text: "Pyramid showing budget hierarchy from master budget down through capital, operating, cash, sales, and profit budgets"
+
+  - id: valuation_methods
+    figure_number: "7.3"
+    topic: 7
+    title: "Four Business Valuation Methods"
+    filename: fig-7-3-valuation-methods.png
+    renderer: comparison
+    data_file: topic7.yaml
+    alt_text: "Comparison of four valuation methods: net worth, market capitalization, P/E ratio, and discounted cash flow"
+
+  - id: pro_forma_process
+    figure_number: "7.4"
+    topic: 7
+    title: "Pro Forma Financial Statement Process"
+    filename: fig-7-4-pro-forma.png
+    renderer: flowchart
+    data_file: topic7.yaml
+    alt_text: "Flowchart showing the process of creating pro forma income statements and balance sheets"
+
+  - id: capital_structure
+    figure_number: "7.5"
+    topic: 7
+    title: "Capital Structure Decision Framework"
+    filename: fig-7-5-capital-structure.png
+    renderer: comparison
+    data_file: topic7.yaml
+    alt_text: "Comparison of debt and equity financing with advantages, disadvantages, and considerations"
+
+  - id: financial_ratios_implementation
+    figure_number: "7.6"
+    topic: 7
+    title: "Financial Ratio Monitoring in Implementation"
+    filename: fig-7-6-ratio-monitoring.png
+    renderer: reference
+    data_file: topic7.yaml
+    alt_text: "Category grid showing key financial ratios monitored during strategy implementation"
+
+  - id: dividend_decisions
+    figure_number: "7.7"
+    topic: 7
+    title: "Dividend and Stock Buyback Decision Factors"
+    filename: fig-7-7-dividend-decisions.png
+    renderer: reference
+    data_file: topic7.yaml
+    alt_text: "Radial diagram showing factors influencing dividend and stock buyback decisions"
+
+  - id: financial_integration
+    figure_number: "7.8"
+    topic: 7
+    title: "Integrating Financial Analysis with Strategy"
+    filename: fig-7-8-financial-integration.png
+    renderer: flowchart
+    data_file: topic7.yaml
+    alt_text: "Flowchart showing how financial analysis integrates with strategic recommendations"
+
+  # ─── Tool Guides: Worked Examples ─────────────────────────────────────
+  - id: tg_bcg_example
+    figure_number: "TG.1"
+    topic: TG
+    title: "BCG Matrix Worked Example"
+    filename: fig-tg-1-bcg-example.png
+    renderer: matrix_2x2
+    data_file: tool_guides.yaml
+    alt_text: "BCG Matrix example showing four product divisions plotted in Stars, Question Marks, Cash Cows, and Dogs quadrants"
+
+  - id: tg_efe_example
+    figure_number: "TG.2"
+    topic: TG
+    title: "EFE Matrix Construction Example"
+    filename: fig-tg-2-efe-example.png
+    renderer: comparison
+    data_file: tool_guides.yaml
+    alt_text: "Table showing completed EFE Matrix example with opportunities, threats, weights, ratings, and weighted scores"
+
+  - id: tg_ife_example
+    figure_number: "TG.3"
+    topic: TG
+    title: "IFE Matrix Construction Example"
+    filename: fig-tg-3-ife-example.png
+    renderer: comparison
+    data_file: tool_guides.yaml
+    alt_text: "Table showing completed IFE Matrix example with strengths, weaknesses, weights, ratings, and weighted scores"
+
+  - id: tg_cpm_example
+    figure_number: "TG.4"
+    topic: TG
+    title: "Competitive Profile Matrix Example"
+    filename: fig-tg-4-cpm-example.png
+    renderer: comparison
+    data_file: tool_guides.yaml
+    alt_text: "Table showing CPM example comparing three competitors across critical success factors"
+
+  - id: tg_swot_example
+    figure_number: "TG.5"
+    topic: TG
+    title: "SWOT Matrix Strategy Development Example"
+    filename: fig-tg-5-swot-example.png
+    renderer: matrix_grid
+    data_file: tool_guides.yaml
+    alt_text: "Completed SWOT Matrix showing SO, WO, ST, and WT strategies developed from SWOT factors"
+
+  - id: tg_space_example
+    figure_number: "TG.6"
+    topic: TG
+    title: "SPACE Matrix Plotting Example"
+    filename: fig-tg-6-space-example.png
+    renderer: axis_quadrant
+    data_file: tool_guides.yaml
+    alt_text: "SPACE Matrix example with directional vector plotted from dimension scores"
+
+  - id: tg_ie_example
+    figure_number: "TG.7"
+    topic: TG
+    title: "IE Matrix Positioning Example"
+    filename: fig-tg-7-ie-example.png
+    renderer: matrix_grid
+    data_file: tool_guides.yaml
+    alt_text: "IE Matrix example showing division positioning based on IFE and EFE total weighted scores"
+
+  - id: tg_grand_strategy_example
+    figure_number: "TG.8"
+    topic: TG
+    title: "Grand Strategy Matrix Application Example"
+    filename: fig-tg-8-grand-strategy-example.png
+    renderer: matrix_2x2
+    data_file: tool_guides.yaml
+    alt_text: "Grand Strategy Matrix example showing company positioning based on competitive position and market growth"
+
+  - id: tg_qspm_example
+    figure_number: "TG.9"
+    topic: TG
+    title: "QSPM Decision Analysis Example"
+    filename: fig-tg-9-qspm-example.png
+    renderer: comparison
+    data_file: tool_guides.yaml
+    alt_text: "QSPM example showing attractiveness scores for two strategy alternatives across key factors"
+
+  - id: tg_perceptual_map_example
+    figure_number: "TG.10"
+    topic: TG
+    title: "Perceptual Map Construction Example"
+    filename: fig-tg-10-perceptual-map-example.png
+    renderer: axis_quadrant
+    data_file: tool_guides.yaml
+    alt_text: "Perceptual map example showing competitor positioning on two strategic dimensions"

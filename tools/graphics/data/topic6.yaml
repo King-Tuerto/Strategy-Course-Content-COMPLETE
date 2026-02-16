@@ -1,0 +1,292 @@
+# =============================================================================
+# Topic 6: Strategy Evaluation and Control — Figure Data
+# =============================================================================
+
+evaluation_framework:
+  orientation: vertical
+  title_box:
+    label: "Strategy Evaluation Process"
+    color: navy
+  nodes:
+    - id: review
+      label: "Activity 1:\nReview Underlying Bases"
+      color: navy
+      level: 0
+      col: 0
+    - id: measure
+      label: "Activity 2:\nMeasure Organizational Performance"
+      color: steel_blue
+      level: 1
+      col: 0
+    - id: correct
+      label: "Activity 3:\nTake Corrective Actions"
+      color: teal
+      level: 2
+      col: 0
+    - id: review_ext
+      label: "External\nChanges"
+      color: "#E9ECEF"
+      level: 0
+      col: 1
+    - id: review_int
+      label: "Internal\nChanges"
+      color: "#E9ECEF"
+      level: 0
+      col: 2
+    - id: quantitative
+      label: "Quantitative\nMetrics"
+      color: "#E9ECEF"
+      level: 1
+      col: 1
+    - id: qualitative
+      label: "Qualitative\nAssessment"
+      color: "#E9ECEF"
+      level: 1
+      col: 2
+  connections:
+    - from: review
+      to: measure
+    - from: measure
+      to: correct
+    - from: review
+      to: review_ext
+    - from: review
+      to: review_int
+    - from: measure
+      to: quantitative
+    - from: measure
+      to: qualitative
+
+rumelt_criteria:
+  style: category_grid
+  columns: 2
+  categories:
+    - header: "Consistency"
+      color: navy
+      items:
+        - "Goals and policies are mutually achievable"
+        - "No internal contradictions"
+        - "Policies support objectives"
+        - "Interdepartmental conflicts signal inconsistency"
+    - header: "Consonance"
+      color: steel_blue
+      items:
+        - "Strategy matches external environment"
+        - "Adaptive response to trends"
+        - "Addresses critical economic foundation"
+        - "Neither too early nor too late"
+    - header: "Feasibility"
+      color: teal
+      items:
+        - "Strategy is achievable with available resources"
+        - "Does not create unsolvable problems"
+        - "Financial, physical, and human capacity"
+        - "Organization has necessary competencies"
+    - header: "Advantage"
+      color: gold
+      items:
+        - "Creates or maintains competitive advantage"
+        - "Superiority in resources, skills, or position"
+        - "Advantage is sustainable over time"
+        - "Not easily replicated by competitors"
+
+balanced_scorecard:
+  style: balanced_scorecard
+  center:
+    label: "Vision &\nStrategy"
+    color: navy
+  perspectives:
+    - name: "Financial Perspective"
+      color: teal
+      measures:
+        - "Revenue growth"
+        - "Profit margin"
+        - "Return on equity"
+        - "Cash flow"
+    - name: "Customer Perspective"
+      color: steel_blue
+      measures:
+        - "Customer satisfaction"
+        - "Market share"
+        - "Customer retention"
+        - "New customer acquisition"
+    - name: "Internal Process"
+      color: gold
+      measures:
+        - "Cycle time"
+        - "Quality metrics"
+        - "Productivity"
+        - "Process innovation"
+    - name: "Learning & Growth"
+      color: orange
+      measures:
+        - "Employee satisfaction"
+        - "Training hours"
+        - "Employee retention"
+        - "Information system capability"
+
+evaluation_characteristics:
+  style: category_grid
+  columns: 2
+  categories:
+    - header: "Economical"
+      color: navy
+      items:
+        - "Not too elaborate or costly"
+        - "Benefits exceed costs"
+        - "Appropriate scope"
+    - header: "Meaningful"
+      color: steel_blue
+      items:
+        - "Relates to firm objectives"
+        - "Provides useful information"
+        - "Informs decisions"
+    - header: "Timely"
+      color: teal
+      items:
+        - "Information available when needed"
+        - "Frequent enough for action"
+        - "Not after-the-fact only"
+    - header: "Simple"
+      color: gold
+      items:
+        - "Easy to understand"
+        - "Not overly complex"
+        - "Clear communication"
+
+contingency_planning:
+  orientation: vertical
+  nodes:
+    - id: identify
+      label: "Identify Beneficial & Unfavorable Events"
+      color: navy
+      level: 0
+      col: 0
+    - id: trigger
+      label: "Specify Trigger Points"
+      color: steel_blue
+      level: 1
+      col: 0
+    - id: assess
+      label: "Assess Impact of Each Event"
+      color: steel_blue
+      level: 2
+      col: 0
+    - id: develop
+      label: "Develop Contingency Plans"
+      color: teal
+      level: 3
+      col: 0
+    - id: monitor
+      label: "Monitor Trigger Points"
+      color: gold
+      level: 4
+      col: 0
+      shape: oval
+    - id: activate
+      label: "Activate Plan\nWhen Triggered"
+      color: orange
+      level: 4
+      col: 1
+  connections:
+    - from: identify
+      to: trigger
+    - from: trigger
+      to: assess
+    - from: assess
+      to: develop
+    - from: develop
+      to: monitor
+    - from: monitor
+      to: activate
+      label: "Trigger hit"
+
+corrective_actions_flow:
+  orientation: vertical
+  nodes:
+    - id: eval_results
+      label: "Evaluation Results"
+      color: navy
+      level: 0
+      col: 1
+      shape: oval
+    - id: significant
+      label: "Significant\nDeviation?"
+      color: gold
+      level: 1
+      col: 1
+      shape: diamond
+    - id: continue
+      label: "Continue Current\nStrategy"
+      color: teal
+      level: 2
+      col: 0
+      shape: oval
+    - id: external
+      label: "External or\nInternal Cause?"
+      color: gold
+      level: 2
+      col: 2
+      shape: diamond
+    - id: revise_strat
+      label: "Revise Strategy"
+      color: orange
+      level: 3
+      col: 1
+    - id: revise_obj
+      label: "Revise Objectives"
+      color: orange
+      level: 3
+      col: 2
+    - id: revise_impl
+      label: "Revise\nImplementation"
+      color: steel_blue
+      level: 3
+      col: 3
+  connections:
+    - from: eval_results
+      to: significant
+    - from: significant
+      to: continue
+      label: "No"
+    - from: significant
+      to: external
+      label: "Yes"
+    - from: external
+      to: revise_strat
+      label: "External"
+    - from: external
+      to: revise_obj
+      label: "Goals wrong"
+    - from: external
+      to: revise_impl
+      label: "Execution"
+
+evaluation_difficulty:
+  style: category_grid
+  columns: 2
+  categories:
+    - header: "Increasing Complexity"
+      color: navy
+      items:
+        - "Domestic and global environments"
+        - "Difficulty forecasting with accuracy"
+        - "Growing number of variables"
+    - header: "Faster Change"
+      color: steel_blue
+      items:
+        - "Product life cycles shortening"
+        - "Technological disruption"
+        - "Rapid competitive moves"
+    - header: "Time Lag Problems"
+      color: orange
+      items:
+        - "Results not immediately visible"
+        - "Cause-effect hard to isolate"
+        - "Short-term vs long-term conflict"
+    - header: "Measurement Limitations"
+      color: red
+      items:
+        - "Qualitative factors resist measurement"
+        - "Past metrics may not predict future"
+        - "Multiple valid interpretations"

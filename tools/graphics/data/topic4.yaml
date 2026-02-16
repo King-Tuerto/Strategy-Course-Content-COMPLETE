@@ -1,0 +1,465 @@
+# =============================================================================
+# Topic 4: Strategy Analysis and Implementation — Figure Data
+# =============================================================================
+
+formulation_framework:
+  style: tiers
+  tiers:
+    - label: "Stage 1: Input"
+      color: navy
+      items:
+        - "EFE Matrix"
+        - "IFE Matrix"
+        - "CPM"
+      columns: 3
+    - label: "Stage 2: Matching"
+      color: steel_blue
+      items:
+        - "SWOT Matrix"
+        - "SPACE Matrix"
+        - "BCG Matrix"
+        - "IE Matrix"
+        - "Grand Strategy Matrix"
+      columns: 3
+    - label: "Stage 3: Decision"
+      color: teal
+      items:
+        - "QSPM"
+      columns: 1
+
+swot_matrix:
+  rows: 2
+  cols: 2
+  style: swot
+  col_labels: ["Strengths (S)", "Weaknesses (W)"]
+  row_labels: ["Opportunities (O)", "Threats (T)"]
+  header_colors:
+    col: navy
+    row: steel_blue
+  cells:
+    - row: 0
+      col: 0
+      label: "SO Strategies"
+      color: teal
+      items:
+        - "Use strengths to"
+        - "capitalize on opportunities"
+        - "Most aggressive strategies"
+    - row: 0
+      col: 1
+      label: "WO Strategies"
+      color: gold
+      items:
+        - "Overcome weaknesses by"
+        - "exploiting opportunities"
+        - "Improvement strategies"
+    - row: 1
+      col: 0
+      label: "ST Strategies"
+      color: orange
+      items:
+        - "Use strengths to"
+        - "avoid threats"
+        - "Defensive leverage"
+    - row: 1
+      col: 1
+      label: "WT Strategies"
+      color: red
+      items:
+        - "Minimize weaknesses"
+        - "and avoid threats"
+        - "Most defensive strategies"
+
+space_matrix:
+  x_label: ""
+  y_label: ""
+  x_pos_label: "Industry Strength (IS)"
+  x_neg_label: "Competitive Advantage (CA)"
+  y_pos_label: "Financial Strength (FS)"
+  y_neg_label: "Environmental Stability (ES)"
+  axis_range: 7
+  show_grid: true
+  scale_labels: true
+  quadrants:
+    - name: "Aggressive"
+      color: teal
+      items:
+        - "Market penetration"
+        - "Market development"
+        - "Product development"
+        - "Integration"
+        - "Diversification"
+    - name: "Conservative"
+      color: steel_blue
+      items:
+        - "Market penetration"
+        - "Market development"
+        - "Product development"
+        - "Related diversification"
+    - name: "Defensive"
+      color: red
+      items:
+        - "Retrenchment"
+        - "Divestiture"
+        - "Liquidation"
+        - "Related diversification"
+    - name: "Competitive"
+      color: orange
+      items:
+        - "Integration"
+        - "Market penetration"
+        - "Market development"
+        - "Product development"
+
+bcg_matrix:
+  x_label: "Relative Market Share"
+  y_label: "Industry Growth Rate"
+  x_high_label: "High"
+  x_low_label: "Low"
+  y_high_label: "High"
+  y_low_label: "Low"
+  axis_reversed: true
+  quadrants:
+    - name: "Stars"
+      color: teal
+      subtitle: "High Growth / High Share"
+      items:
+        - "Invest to maintain position"
+        - "Future cash cows"
+    - name: "Question Marks"
+      color: orange
+      subtitle: "High Growth / Low Share"
+      items:
+        - "Invest or divest"
+        - "Requires strategic decision"
+    - name: "Cash Cows"
+      color: gold
+      subtitle: "Low Growth / High Share"
+      items:
+        - "Generate excess cash"
+        - "Fund other divisions"
+    - name: "Dogs"
+      color: red
+      subtitle: "Low Growth / Low Share"
+      items:
+        - "Divest or liquidate"
+        - "Minimal investment"
+
+ie_matrix:
+  rows: 3
+  cols: 3
+  x_label: "IFE Total Weighted Score"
+  y_label: "EFE Total Weighted Score"
+  col_labels: ["Strong (3.0-4.0)", "Average (2.0-2.99)", "Weak (1.0-1.99)"]
+  row_labels: ["High (3.0-4.0)", "Medium (2.0-2.99)", "Low (1.0-1.99)"]
+  header_colors:
+    col: navy
+    row: navy
+  cells:
+    - row: 0
+      col: 0
+      label: "I"
+      region: grow
+    - row: 0
+      col: 1
+      label: "II"
+      region: grow
+    - row: 0
+      col: 2
+      label: "III"
+      region: hold
+    - row: 1
+      col: 0
+      label: "IV"
+      region: grow
+    - row: 1
+      col: 1
+      label: "V"
+      region: hold
+    - row: 1
+      col: 2
+      label: "VI"
+      region: harvest
+    - row: 2
+      col: 0
+      label: "VII"
+      region: hold
+    - row: 2
+      col: 1
+      label: "VIII"
+      region: harvest
+    - row: 2
+      col: 2
+      label: "IX"
+      region: harvest
+
+grand_strategy_matrix:
+  x_label: "Competitive Position"
+  y_label: "Market Growth"
+  x_low_label: "Weak"
+  x_high_label: "Strong"
+  y_high_label: "Rapid"
+  y_low_label: "Slow"
+  quadrants:
+    - name: "Quadrant II"
+      color: steel_blue
+      items:
+        - "Market development"
+        - "Market penetration"
+        - "Product development"
+        - "Horizontal integration"
+    - name: "Quadrant I"
+      color: teal
+      items:
+        - "Market development"
+        - "Market penetration"
+        - "Product development"
+        - "Integration strategies"
+    - name: "Quadrant III"
+      color: red
+      items:
+        - "Retrenchment"
+        - "Related diversification"
+        - "Unrelated diversification"
+        - "Divestiture"
+    - name: "Quadrant IV"
+      color: gold
+      items:
+        - "Related diversification"
+        - "Unrelated diversification"
+        - "Joint ventures"
+
+qspm_overview:
+  style: table
+  columns:
+    - header: "Strategy A"
+      color: teal
+    - header: "Strategy B"
+      color: navy
+  rows:
+    - category: "Key Factors"
+      values: ["AS Score", "AS Score"]
+    - category: "Opportunity 1"
+      values: ["Weight x AS", "Weight x AS"]
+    - category: "Opportunity 2"
+      values: ["Weight x AS", "Weight x AS"]
+    - category: "Threat 1"
+      values: ["Weight x AS", "Weight x AS"]
+    - category: "Strength 1"
+      values: ["Weight x AS", "Weight x AS"]
+    - category: "Weakness 1"
+      values: ["Weight x AS", "Weight x AS"]
+    - category: "Total AS"
+      values: ["Sum of TAS", "Sum of TAS"]
+
+formulation_vs_implementation:
+  style: versus
+  center_label: "VS"
+  columns:
+    - header: "Strategy Formulation"
+      color: navy
+      items:
+        - "Position forces before action"
+        - "Focus on effectiveness"
+        - "Primarily intellectual process"
+        - "Requires good analytical skills"
+        - "Coordination among few individuals"
+        - "Strategic concepts are clear"
+    - header: "Strategy Implementation"
+      color: teal
+      items:
+        - "Manage forces during action"
+        - "Focus on efficiency"
+        - "Primarily operational process"
+        - "Requires motivation and leadership"
+        - "Coordination among many people"
+        - "Details can be difficult"
+
+org_structures:
+  style: table
+  columns:
+    - header: "Functional"
+      color: navy
+    - header: "Divisional"
+      color: steel_blue
+    - header: "Matrix"
+      color: teal
+    - header: "SBU"
+      color: gold
+  rows:
+    - category: "Best For"
+      values: ["Single product", "Multiple products", "Complex projects", "Large firms"]
+    - category: "Grouping"
+      values: ["By function", "By product/region", "Dual reporting", "By business unit"]
+    - category: "Advantage"
+      values: ["Specialization", "Accountability", "Flexibility", "Strategic focus"]
+    - category: "Disadvantage"
+      values: ["Silos", "Duplication", "Confusion", "Overhead"]
+
+structure_follows_strategy:
+  orientation: horizontal
+  nodes:
+    - id: new_strategy
+      label: "New Strategy"
+      color: navy
+      level: 0
+      col: 0
+    - id: admin_problems
+      label: "New Administrative Problems"
+      color: orange
+      level: 0
+      col: 1
+    - id: performance_decline
+      label: "Performance Decline"
+      color: red
+      level: 0
+      col: 2
+    - id: new_structure
+      label: "New Organizational Structure"
+      color: teal
+      level: 0
+      col: 3
+    - id: performance_improve
+      label: "Performance Improvement"
+      color: teal
+      level: 0
+      col: 4
+  connections:
+    - from: new_strategy
+      to: admin_problems
+    - from: admin_problems
+      to: performance_decline
+    - from: performance_decline
+      to: new_structure
+    - from: new_structure
+      to: performance_improve
+
+annual_objectives_cascade:
+  orientation: vertical
+  title_box:
+    label: "Objectives Hierarchy"
+    color: navy
+  nodes:
+    - id: lt_obj
+      label: "Long-Term Objective"
+      color: navy
+      level: 0
+      col: 1
+    - id: div_a
+      label: "Division A\nAnnual Objective"
+      color: steel_blue
+      level: 1
+      col: 0
+    - id: div_b
+      label: "Division B\nAnnual Objective"
+      color: steel_blue
+      level: 1
+      col: 2
+    - id: dept_a1
+      label: "Marketing\nDept Goal"
+      color: teal
+      level: 2
+      col: 0
+    - id: dept_a2
+      label: "Operations\nDept Goal"
+      color: teal
+      level: 2
+      col: 1
+    - id: dept_b1
+      label: "Finance\nDept Goal"
+      color: teal
+      level: 2
+      col: 2
+    - id: dept_b2
+      label: "HR\nDept Goal"
+      color: teal
+      level: 2
+      col: 3
+  connections:
+    - from: lt_obj
+      to: div_a
+    - from: lt_obj
+      to: div_b
+    - from: div_a
+      to: dept_a1
+    - from: div_a
+      to: dept_a2
+    - from: div_b
+      to: dept_b1
+    - from: div_b
+      to: dept_b2
+
+resistance_management:
+  style: versus
+  center_label: ""
+  columns:
+    - header: "Driving Forces"
+      color: teal
+      items:
+        - "New strategy mandate"
+        - "Competitive pressure"
+        - "Leadership vision"
+        - "Market opportunity"
+        - "Customer demand"
+        - "Technology advancement"
+    - header: "Restraining Forces"
+      color: red
+      items:
+        - "Fear of the unknown"
+        - "Loss of comfort zone"
+        - "Self-interest protection"
+        - "Cultural inertia"
+        - "Resource constraints"
+        - "Mistrust of leadership"
+
+marketing_4ps:
+  style: radial
+  center:
+    label: "Target\nMarket"
+    color: navy
+  spokes:
+    - label: "Product"
+      color: teal
+      items:
+        - "Features"
+        - "Quality"
+        - "Brand"
+    - label: "Price"
+      color: steel_blue
+      items:
+        - "List price"
+        - "Discounts"
+        - "Terms"
+    - label: "Place"
+      color: gold
+      items:
+        - "Channels"
+        - "Coverage"
+        - "Locations"
+    - label: "Promotion"
+      color: orange
+      items:
+        - "Advertising"
+        - "Sales force"
+        - "PR"
+
+restructuring_comparison:
+  style: table
+  columns:
+    - header: "Restructuring"
+      color: navy
+    - header: "Reengineering"
+      color: steel_blue
+    - header: "E-Commerce"
+      color: teal
+  rows:
+    - category: "Focus"
+      values: ["Reduce size/cost", "Redesign processes", "Digital channels"]
+    - category: "Method"
+      values: ["Layoffs, closures", "Process redesign", "Technology platforms"]
+    - category: "Timeline"
+      values: ["Immediate impact", "Medium-term", "Ongoing evolution"]
+    - category: "Risk"
+      values: ["Morale decline", "Disruption", "Security concerns"]
+    - category: "Goal"
+      values: ["Efficiency", "Effectiveness", "Market reach"]

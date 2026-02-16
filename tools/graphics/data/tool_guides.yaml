@@ -1,0 +1,370 @@
+# =============================================================================
+# Tool Guides: Worked Example Figures — Figure Data
+# =============================================================================
+
+tg_bcg_example:
+  x_label: "Relative Market Share Position"
+  y_label: "Industry Sales Growth Rate (%)"
+  x_high_label: "High (1.0)"
+  x_low_label: "Low (0.0)"
+  y_high_label: "High (+20%)"
+  y_low_label: "Low (-20%)"
+  axis_reversed: true
+  quadrants:
+    - name: "Stars"
+      color: teal
+      subtitle: "Division 1"
+      items:
+        - "Revenue: $120M"
+        - "Profit: $18M"
+        - "Market share: 65%"
+    - name: "Question Marks"
+      color: orange
+      subtitle: "Division 3"
+      items:
+        - "Revenue: $40M"
+        - "Profit: $2M"
+        - "Market share: 12%"
+    - name: "Cash Cows"
+      color: gold
+      subtitle: "Division 2"
+      items:
+        - "Revenue: $200M"
+        - "Profit: $50M"
+        - "Market share: 80%"
+    - name: "Dogs"
+      color: red
+      subtitle: "Division 4"
+      items:
+        - "Revenue: $15M"
+        - "Profit: -$3M"
+        - "Market share: 5%"
+
+tg_efe_example:
+  style: table
+  columns:
+    - header: "Weight"
+      color: steel_blue
+    - header: "Rating"
+      color: teal
+    - header: "Weighted Score"
+      color: navy
+  rows:
+    - category: "Opp: Market growth"
+      values: ["0.15", "4", "0.60"]
+    - category: "Opp: Tech trends"
+      values: ["0.10", "3", "0.30"]
+    - category: "Opp: New segments"
+      values: ["0.10", "2", "0.20"]
+    - category: "Opp: Global demand"
+      values: ["0.08", "3", "0.24"]
+    - category: "Opp: Digital shift"
+      values: ["0.07", "3", "0.21"]
+    - category: "Threat: Competition"
+      values: ["0.15", "2", "0.30"]
+    - category: "Threat: Regulation"
+      values: ["0.10", "3", "0.30"]
+    - category: "Threat: Economic"
+      values: ["0.10", "1", "0.10"]
+    - category: "Threat: Disruption"
+      values: ["0.08", "2", "0.16"]
+    - category: "Threat: Supply chain"
+      values: ["0.07", "2", "0.14"]
+    - category: "TOTAL"
+      values: ["1.00", "", "2.55"]
+
+tg_ife_example:
+  style: table
+  columns:
+    - header: "Weight"
+      color: steel_blue
+    - header: "Rating"
+      color: teal
+    - header: "Weighted Score"
+      color: navy
+  rows:
+    - category: "Str: Brand equity"
+      values: ["0.14", "4", "0.56"]
+    - category: "Str: R&D capability"
+      values: ["0.12", "4", "0.48"]
+    - category: "Str: Distribution"
+      values: ["0.10", "3", "0.30"]
+    - category: "Str: Cash position"
+      values: ["0.08", "3", "0.24"]
+    - category: "Str: Employee talent"
+      values: ["0.06", "3", "0.18"]
+    - category: "Wk: Aging facilities"
+      values: ["0.12", "1", "0.12"]
+    - category: "Wk: Debt level"
+      values: ["0.10", "2", "0.20"]
+    - category: "Wk: Market share loss"
+      values: ["0.10", "1", "0.10"]
+    - category: "Wk: Slow innovation"
+      values: ["0.10", "2", "0.20"]
+    - category: "Wk: IT systems"
+      values: ["0.08", "2", "0.16"]
+    - category: "TOTAL"
+      values: ["1.00", "", "2.54"]
+
+tg_cpm_example:
+  style: table
+  columns:
+    - header: "Acme Corp"
+      color: navy
+    - header: "Beta Inc"
+      color: steel_blue
+    - header: "Gamma Ltd"
+      color: teal
+  rows:
+    - category: "Market Share (0.20)"
+      values: ["4 = 0.80", "2 = 0.40", "3 = 0.60"]
+    - category: "Product Quality (0.15)"
+      values: ["3 = 0.45", "4 = 0.60", "3 = 0.45"]
+    - category: "Price (0.15)"
+      values: ["2 = 0.30", "3 = 0.45", "4 = 0.60"]
+    - category: "Financial Position (0.12)"
+      values: ["4 = 0.48", "3 = 0.36", "2 = 0.24"]
+    - category: "Customer Loyalty (0.12)"
+      values: ["3 = 0.36", "2 = 0.24", "4 = 0.48"]
+    - category: "Global Reach (0.10)"
+      values: ["2 = 0.20", "4 = 0.40", "3 = 0.30"]
+    - category: "Innovation (0.08)"
+      values: ["4 = 0.32", "3 = 0.24", "2 = 0.16"]
+    - category: "E-Commerce (0.08)"
+      values: ["3 = 0.24", "3 = 0.24", "3 = 0.24"]
+    - category: "TOTAL (1.00)"
+      values: ["3.15", "2.93", "3.07"]
+
+tg_swot_example:
+  rows: 2
+  cols: 2
+  style: swot
+  col_labels: ["Strengths", "Weaknesses"]
+  row_labels: ["Opportunities", "Threats"]
+  header_colors:
+    col: navy
+    row: steel_blue
+  cells:
+    - row: 0
+      col: 0
+      label: "SO Strategies"
+      color: teal
+      items:
+        - "Leverage brand (S1) for"
+        - "market expansion (O1)"
+        - "Use R&D (S2) to capture"
+        - "tech trends (O2)"
+    - row: 0
+      col: 1
+      label: "WO Strategies"
+      color: gold
+      items:
+        - "Upgrade facilities (W1)"
+        - "to meet demand (O1)"
+        - "Invest in IT (W5) to"
+        - "capture digital shift (O5)"
+    - row: 1
+      col: 0
+      label: "ST Strategies"
+      color: orange
+      items:
+        - "Use brand (S1) to"
+        - "defend against rivals (T1)"
+        - "Use cash (S4) to weather"
+        - "economic threats (T3)"
+    - row: 1
+      col: 1
+      label: "WT Strategies"
+      color: red
+      items:
+        - "Reduce debt (W2) to"
+        - "survive downturn (T3)"
+        - "Address market share (W3)"
+        - "before disruption (T4)"
+
+tg_space_example:
+  x_label: ""
+  y_label: ""
+  x_pos_label: "Industry Strength (IS) = +4.2"
+  x_neg_label: "Competitive Advantage (CA) = -2.8"
+  y_pos_label: "Financial Strength (FS) = +5.0"
+  y_neg_label: "Environmental Stability (ES) = -3.5"
+  axis_range: 7
+  show_grid: true
+  scale_labels: true
+  quadrants:
+    - name: "Aggressive"
+      color: teal
+    - name: "Conservative"
+      color: steel_blue
+    - name: "Defensive"
+      color: red
+    - name: "Competitive"
+      color: orange
+  vector:
+    x: 1.4
+    y: 1.5
+    label: "Aggressive Posture"
+
+tg_ie_example:
+  rows: 3
+  cols: 3
+  x_label: "IFE Total Weighted Score"
+  y_label: "EFE Total Weighted Score"
+  col_labels: ["Strong (3.0-4.0)", "Average (2.0-2.99)", "Weak (1.0-1.99)"]
+  row_labels: ["High (3.0-4.0)", "Medium (2.0-2.99)", "Low (1.0-1.99)"]
+  header_colors:
+    col: navy
+    row: navy
+  cells:
+    - row: 0
+      col: 0
+      label: "I\nGrow & Build"
+      region: grow
+    - row: 0
+      col: 1
+      label: "II\nGrow & Build"
+      region: grow
+    - row: 0
+      col: 2
+      label: "III\nHold & Maintain"
+      region: hold
+    - row: 1
+      col: 0
+      label: "IV\nGrow & Build"
+      region: grow
+    - row: 1
+      col: 1
+      label: "V\nHold & Maintain"
+      region: hold
+    - row: 1
+      col: 2
+      label: "VI\nHarvest/Divest"
+      region: harvest
+    - row: 2
+      col: 0
+      label: "VII\nHold & Maintain"
+      region: hold
+    - row: 2
+      col: 1
+      label: "VIII\nHarvest/Divest"
+      region: harvest
+    - row: 2
+      col: 2
+      label: "IX\nHarvest/Divest"
+      region: harvest
+
+tg_grand_strategy_example:
+  x_label: "Competitive Position"
+  y_label: "Market Growth"
+  x_low_label: "Weak"
+  x_high_label: "Strong"
+  y_high_label: "Rapid"
+  y_low_label: "Slow"
+  quadrants:
+    - name: "Quadrant II"
+      color: steel_blue
+      subtitle: "Weak + Rapid Growth"
+      items:
+        - "Market development"
+        - "Market penetration"
+        - "Product development"
+    - name: "Quadrant I"
+      color: teal
+      subtitle: "Strong + Rapid Growth"
+      items:
+        - "Concentrated growth"
+        - "Market development"
+        - "Product development"
+    - name: "Quadrant III"
+      color: red
+      subtitle: "Weak + Slow Growth"
+      items:
+        - "Retrenchment"
+        - "Diversification"
+        - "Divestiture"
+    - name: "Quadrant IV"
+      color: gold
+      subtitle: "Strong + Slow Growth"
+      items:
+        - "Related diversification"
+        - "Unrelated diversification"
+        - "Joint ventures"
+
+tg_qspm_example:
+  style: table
+  columns:
+    - header: "Strategy A: Expand Online"
+      color: teal
+    - header: "Strategy B: New Markets"
+      color: navy
+  rows:
+    - category: "Opp: Digital growth (0.15)"
+      values: ["AS=4  TAS=0.60", "AS=2  TAS=0.30"]
+    - category: "Opp: Market demand (0.12)"
+      values: ["AS=3  TAS=0.36", "AS=4  TAS=0.48"]
+    - category: "Threat: Competition (0.12)"
+      values: ["AS=3  TAS=0.36", "AS=2  TAS=0.24"]
+    - category: "Threat: Regulation (0.08)"
+      values: ["AS=2  TAS=0.16", "AS=3  TAS=0.24"]
+    - category: "Str: Brand equity (0.14)"
+      values: ["AS=4  TAS=0.56", "AS=3  TAS=0.42"]
+    - category: "Str: R&D (0.10)"
+      values: ["AS=4  TAS=0.40", "AS=2  TAS=0.20"]
+    - category: "Wk: Debt level (0.10)"
+      values: ["AS=2  TAS=0.20", "AS=1  TAS=0.10"]
+    - category: "Wk: Aging facilities (0.09)"
+      values: ["AS=1  TAS=0.09", "AS=3  TAS=0.27"]
+    - category: "TOTAL TAS"
+      values: ["2.73", "2.25"]
+
+tg_perceptual_map_example:
+  x_label: "Price Level"
+  y_label: "Quality Level"
+  x_pos_label: "High Price"
+  x_neg_label: "Low Price"
+  y_pos_label: "High Quality"
+  y_neg_label: "Low Quality"
+  axis_range: 5
+  show_grid: true
+  scale_labels: false
+  quadrants:
+    - name: "Premium"
+      color: teal
+    - name: "Overpriced"
+      color: orange
+    - name: "Budget"
+      color: steel_blue
+    - name: "Bargain"
+      color: gold
+  points:
+    - x: 3.5
+      y: 4.0
+      label: "Brand A"
+      color: navy
+      size: 120
+    - x: -2.0
+      y: -1.5
+      label: "Brand B"
+      color: steel_blue
+      size: 100
+    - x: 1.0
+      y: 3.0
+      label: "Brand C"
+      color: teal
+      size: 90
+    - x: -3.0
+      y: 2.5
+      label: "Brand D"
+      color: gold
+      size: 110
+    - x: 2.5
+      y: -2.0
+      label: "Brand E"
+      color: orange
+      size: 80
+    - x: 0.0
+      y: 0.5
+      label: "Your Firm"
+      color: red
+      size: 150

@@ -1,3 +1,4 @@
+<!-- CWV: 5 -->
 # Topic 1: Foundations of Strategic Management
 
 Essential Questions
@@ -151,6 +152,8 @@ The critical insight for strategic management practitioners is that competitive 
 A **vision statement** answers the question: What do we want to become? It describes the organization's desired future state — a short, aspirational declaration of what the organization is striving toward over a defined time horizon. The vision creates directional pull, aligning organizational energy toward a shared aspiration rather than allowing individual business units or functional areas to pursue divergent objectives.
 
 Effective vision statements are developed collaboratively rather than imposed by a single leader. They are broad enough to accommodate multiple strategic paths but specific enough to provide meaningful direction. They are future-oriented, describing what the organization aspires to become rather than what it currently is. The vision serves as the foundation upon which the mission statement builds.
+
+The importance of vision in organizational life is not a modern management invention. Proverbs 29:18 observes that "where there is no vision, the people perish" — a principle that translates directly into strategic practice. Organizations without a compelling vision do not simply stagnate; they fragment. Individual leaders pursue competing priorities, resources scatter across uncoordinated initiatives, and the organization loses the directional coherence that separates strategic movement from organizational drift.
 
 ### Mission Statements
 

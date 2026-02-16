@@ -1,0 +1,259 @@
+# =============================================================================
+# Topic 1: Foundations of Strategic Management — Figure Data
+# =============================================================================
+
+sm_model:
+  orientation: vertical
+  title_box:
+    label: "Strategic Management Model"
+    color: navy
+  nodes:
+    - id: formulation
+      label: "Strategy Formulation"
+      color: navy
+      level: 0
+      col: 1
+    - id: vision
+      label: "Develop Vision & Mission"
+      color: steel_blue
+      level: 1
+      col: 0
+    - id: external
+      label: "External Audit"
+      color: steel_blue
+      level: 1
+      col: 1
+    - id: internal
+      label: "Internal Audit"
+      color: steel_blue
+      level: 1
+      col: 2
+    - id: objectives
+      label: "Establish Long-Term Objectives"
+      color: steel_blue
+      level: 2
+      col: 1
+    - id: strategies
+      label: "Generate, Evaluate, Select Strategies"
+      color: steel_blue
+      level: 3
+      col: 1
+    - id: implementation
+      label: "Strategy Implementation"
+      color: teal
+      level: 4
+      col: 1
+    - id: impl_mgmt
+      label: "Management & Operations"
+      color: teal
+      level: 5
+      col: 0
+    - id: impl_mkt
+      label: "Marketing & Finance"
+      color: teal
+      level: 5
+      col: 1
+    - id: impl_acct
+      label: "Accounting & R&D"
+      color: teal
+      level: 5
+      col: 2
+    - id: evaluation
+      label: "Strategy Evaluation"
+      color: gold
+      level: 6
+      col: 1
+    - id: eval_review
+      label: "Review, Measure, Correct"
+      color: gold
+      level: 7
+      col: 1
+  connections:
+    - from: formulation
+      to: vision
+    - from: formulation
+      to: external
+    - from: formulation
+      to: internal
+    - from: vision
+      to: objectives
+    - from: external
+      to: objectives
+    - from: internal
+      to: objectives
+    - from: objectives
+      to: strategies
+    - from: strategies
+      to: implementation
+    - from: implementation
+      to: impl_mgmt
+    - from: implementation
+      to: impl_mkt
+    - from: implementation
+      to: impl_acct
+    - from: impl_mgmt
+      to: evaluation
+    - from: impl_mkt
+      to: evaluation
+    - from: impl_acct
+      to: evaluation
+    - from: evaluation
+      to: eval_review
+
+vision_mission_cascade:
+  orientation: vertical
+  nodes:
+    - id: vision
+      label: "Vision Statement"
+      color: navy
+      level: 0
+      col: 0
+      shape: oval
+    - id: mission
+      label: "Mission Statement"
+      color: navy
+      level: 1
+      col: 0
+    - id: objectives
+      label: "Long-Term Objectives"
+      color: steel_blue
+      level: 2
+      col: 0
+    - id: strategies
+      label: "Strategies"
+      color: teal
+      level: 3
+      col: 0
+    - id: policies
+      label: "Policies"
+      color: teal
+      level: 4
+      col: 0
+    - id: advantage
+      label: "Competitive Advantage"
+      color: gold
+      level: 5
+      col: 0
+      shape: oval
+  connections:
+    - from: vision
+      to: mission
+      label: "Defines purpose"
+    - from: mission
+      to: objectives
+      label: "Sets direction"
+    - from: objectives
+      to: strategies
+      label: "Guides choices"
+    - from: strategies
+      to: policies
+      label: "Enables action"
+    - from: policies
+      to: advantage
+      label: "Creates value"
+
+triple_bottom_line:
+  style: radial
+  center:
+    label: "Sustainability"
+    color: navy
+  spokes:
+    - label: "Profit"
+      color: teal
+      items:
+        - "Revenue growth"
+        - "Cost efficiency"
+        - "Shareholder returns"
+    - label: "People"
+      color: steel_blue
+      items:
+        - "Employee welfare"
+        - "Community impact"
+        - "Diversity & inclusion"
+    - label: "Planet"
+      color: gold
+      items:
+        - "Carbon footprint"
+        - "Resource stewardship"
+        - "Environmental compliance"
+
+strategy_benefits:
+  style: side_by_side
+  columns:
+    - header: "Financial Benefits"
+      color: teal
+      items:
+        - "Higher revenue and profitability"
+        - "Better resource allocation"
+        - "Improved return on investment"
+        - "Stronger market positioning"
+        - "Sustainable competitive advantage"
+    - header: "Nonfinancial Benefits"
+      color: steel_blue
+      items:
+        - "Enhanced awareness of threats"
+        - "Better understanding of competitors"
+        - "Increased employee productivity"
+        - "Reduced resistance to change"
+        - "Clearer sense of direction"
+
+ethics_decision_framework:
+  orientation: vertical
+  nodes:
+    - id: situation
+      label: "Strategic Decision"
+      color: navy
+      level: 0
+      col: 0
+      shape: oval
+    - id: legal
+      label: "Is it legal?"
+      color: gold
+      level: 1
+      col: 0
+      shape: diamond
+    - id: fair
+      label: "Is it fair to all stakeholders?"
+      color: gold
+      level: 2
+      col: 0
+      shape: diamond
+    - id: right
+      label: "Does it feel right?"
+      color: gold
+      level: 3
+      col: 0
+      shape: diamond
+    - id: proceed
+      label: "Proceed"
+      color: teal
+      level: 4
+      col: 0
+      shape: oval
+    - id: stop
+      label: "Stop / Revise"
+      color: red
+      level: 2
+      col: 1
+      shape: oval
+  connections:
+    - from: situation
+      to: legal
+    - from: legal
+      to: fair
+      label: "Yes"
+    - from: legal
+      to: stop
+      label: "No"
+    - from: fair
+      to: right
+      label: "Yes"
+    - from: fair
+      to: stop
+      label: "No"
+    - from: right
+      to: proceed
+      label: "Yes"
+    - from: right
+      to: stop
+      label: "No"
