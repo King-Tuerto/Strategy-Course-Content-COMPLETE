@@ -17,7 +17,7 @@ flesch_kincaid_level: 16-18
 mc_question_count: 3
 blooms_level: analyze
 critical_thinking_count: 1
-biblical_integration: natural
+cwv_level: 4  # 0-10 scale. See VOICE.md for full CWV scale definitions.
 ```
 
 ### Chapter Defaults
@@ -28,7 +28,7 @@ flesch_kincaid_level: 16-18
 mc_question_count: 10
 blooms_level: analyze
 critical_thinking_count: 2
-biblical_integration: natural
+cwv_level: 4  # 0-10 scale. See VOICE.md for full CWV scale definitions.
 ```
 
 ### Case Study Defaults
@@ -39,7 +39,7 @@ flesch_kincaid_level: 16-18
 mc_question_count: 0
 blooms_level: analyze
 critical_thinking_count: 2
-biblical_integration: natural
+cwv_level: 4  # 0-10 scale. See VOICE.md for full CWV scale definitions.
 ```
 
 **To update these:** Use SETTINGS_MANAGER.md
@@ -61,7 +61,7 @@ The following `.md` files need to be built based on the specifications in this d
 content_type: [tool_guide | chapter | case_study | handout]
 sections_required: [varies by type - see below]
 flesch_kincaid_target: 12-14  # inherit from FLESCH_KINCAID.md
-biblical_integration: natural  # per VOICE.md guidelines
+cwv_level: 4  # 0-10 scale. See VOICE.md for full CWV scale definitions.  # per VOICE.md guidelines
 ```
 
 **Tool Guide Structure (for tool explications):**
@@ -509,6 +509,25 @@ Topic: [Strategic challenge]
 Tools to apply: IFE, SWOT
 Include ethical dimension
 ```
+
+---
+
+## Post-Writing: Content Scorecard
+
+**After completing ANY content piece (chapter, tool guide, case study, handout), run the scorecard tool:**
+
+```
+python tools/content_scorecard.py
+```
+
+This automatically scans all content in `output/` and generates `output/SCORECARD.md` with:
+- Body word count (excluding Key Terms, Knowledge Check, and References)
+- Flesch-Kincaid Grade Level and Reading Ease
+- F-K target compliance status
+- Scripture references used (with duplicate detection)
+- Summary statistics across all content
+
+The scorecard ensures consistency, tracks scripture diversity, and flags readability issues before they accumulate.
 
 ---
 

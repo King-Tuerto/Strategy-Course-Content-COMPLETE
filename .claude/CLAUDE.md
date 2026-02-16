@@ -45,7 +45,8 @@ Use AskUserQuestion to collect ALL of the following before writing. Do not start
 3. **Topic:** "What is the specific topic? (e.g., Chapter 3: Internal Analysis, Tool Guide: SPACE Matrix)"
 4. **Company Examples:** "Which companies should I use as application examples, or should I choose?"
 5. **Framework/Model:** "Any specific framework or textbook model to use — or avoid?"
-6. **Special Instructions:** "Anything else specific to this piece? (word count override, extra sections, specific emphasis, etc.)"
+6. **CWV Level:** "Christian Worldview level (0-10)? Default is 4. (0 = no faith content, 4 = natural executive voice with one scripture reference, 10 = pervasive biblical integration). See VOICE.md for full scale."
+7. **Special Instructions:** "Anything else specific to this piece? (word count override, extra sections, specific emphasis, etc.)"
 
 ### Step 2 — Read These Files
 
@@ -70,7 +71,7 @@ flesch_kincaid_target: 16-18
 mc_question_count: 4
 blooms_level: analyze
 critical_thinking_count: 1
-biblical_integration: natural  # where it fits, not forced
+cwv_level: 4  # 0-10 scale. 0=secular, 4=natural executive voice (default), 10=pervasive. See VOICE.md for full scale.
 ```
 
 Change these in the relevant `.md` files as needed.
