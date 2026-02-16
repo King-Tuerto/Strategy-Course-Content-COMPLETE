@@ -137,18 +137,18 @@ MBAs learn by doing, not by reading about doing. Every piece of content must be 
 - Skip theological debates
 - If it feels forced, skip it
 
-**Preferred Sources:**
-- Proverbs (wisdom)
-- Ecclesiastes (limits, uncertainty)
-- Paul on leadership (Philippians, 1 Timothy)
-- Stewardship parables
-- James on integrity
+**Preferred Sources — Use the full Scripture Reference Bank in VOICE.md:**
+
+A diverse bank of 35+ passages is organized by strategic theme in VOICE.md under "Scripture Reference Bank." Themes include: Stewardship and Resource Allocation, Honest Assessment, Wisdom and Decision-Making, Leadership and Organizational Character, Competition and Ethics, Purpose Beyond Profit, and Perseverance and Long-Term Thinking.
+
+**ANTI-REPETITION RULE:** Before selecting a scripture reference, check all previously completed content in `output/` to confirm the passage has not already been used. Never repeat the same verse or parable across two pieces of content. Select a different passage from the relevant theme category each time.
 
 **Avoid:**
 - Obscure OT passages
 - Revelation/apocalyptic
 - Denominationally divisive passages
 - Proof-texting
+- Reusing any passage already used in another piece of content
 
 ---
 

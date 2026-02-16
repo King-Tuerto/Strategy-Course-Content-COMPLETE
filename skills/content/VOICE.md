@@ -120,14 +120,60 @@ Don't shoehorn scripture into every section. If a biblical principle doesn't gen
 
 These are gimmicks. Students see through them. When in doubt, leave it out.
 
-### Appropriate Scriptural References
+### Scripture Reference Bank
 
-**Use these types of passages:**
-- Proverbs (wisdom for decision-making)
-- Ecclesiastes (acknowledging limits and uncertainty)
-- Pauline letters on leadership and character (Philippians, 1 Timothy)
-- Parables on stewardship (talents, faithful servant)
-- James on integrity and wisdom
+To prevent repetition across content, draw from this diverse bank of passages organized by strategic theme. Do NOT reuse the same passage across multiple pieces of content. Track which references have already been used in prior tool guides, chapters, and cases, and select a different one each time.
+
+**ANTI-REPETITION RULE:** Before selecting a scripture reference, check what has already been used in other completed content in `output/`. Never repeat the same verse or parable across two pieces of content. If a passage has been used, pick another from the same theme category below.
+
+**Stewardship and Resource Allocation**
+- Matthew 25:14-30 — Parable of the Talents (deploy resources for greatest return)
+- Luke 16:10-12 — Faithfulness in small things qualifies you for greater responsibility
+- Luke 12:48 — To whom much is given, much is required
+- 1 Peter 4:10 — Each one should use whatever gift they have received to serve others
+- 1 Corinthians 4:2 — Stewards must be found faithful
+
+**Honest Assessment and Self-Awareness**
+- Proverbs 28:13 — Concealing failures leads nowhere; confession leads to mercy
+- Proverbs 27:23 — Know well the condition of your flocks
+- Galatians 6:3-4 — Test your own work rather than comparing to others
+- Jeremiah 17:9 — The heart is deceitful; honest self-examination matters
+- James 1:22-25 — Be doers of the word, not just hearers who deceive themselves
+
+**Wisdom and Decision-Making Under Uncertainty**
+- Proverbs 15:22 — Plans fail for lack of counsel; many advisers bring success
+- Proverbs 16:9 — A person plans their course, but the Lord determines their steps
+- James 1:5 — If any of you lacks wisdom, ask God
+- Ecclesiastes 11:1-6 — Act despite uncertainty; you do not know what will succeed
+- Proverbs 3:5-6 — Trust in the Lord and do not lean on your own understanding
+
+**Leadership and Organizational Character**
+- 1 Timothy 3:1-7 — Qualifications for leadership (self-control, good reputation, not greedy)
+- Philippians 2:3-4 — Do nothing from selfish ambition; consider others' interests
+- Proverbs 29:18 — Without vision the people perish
+- Micah 6:8 — Act justly, love mercy, walk humbly
+- Titus 1:7-9 — A leader must be blameless, disciplined, holding firm to the trustworthy word
+
+**Competition, Ethics, and Rivals**
+- Matthew 7:12 — The Golden Rule applied to competitive practice
+- Romans 12:17-21 — Do not repay evil for evil; overcome evil with good
+- Proverbs 11:1 — The Lord detests dishonest scales; accurate weights find his favor
+- Philippians 1:27 — Conduct yourselves in a manner worthy of the gospel
+- Leviticus 19:35-36 — Use honest standards in business measurement
+
+**Purpose Beyond Profit**
+- Colossians 3:23-24 — Whatever you do, work at it with all your heart, as for the Lord
+- Ecclesiastes 2:22-24 — What do people gain from their toil? Finding meaning in work itself
+- Matthew 6:19-21 — Store up treasures in heaven; where your treasure is, your heart follows
+- Deuteronomy 8:17-18 — Remember who gave you the ability to produce wealth
+- 1 Timothy 6:17-19 — Command the rich to be generous and willing to share
+
+**Perseverance and Long-Term Thinking**
+- Galatians 6:9 — Do not grow weary of doing good; in due season you will reap
+- Hebrews 12:1-2 — Run with endurance the race set before you
+- Ecclesiastes 3:1-8 — There is a time for every activity under the heavens
+- Isaiah 40:31 — Those who wait on the Lord will renew their strength
+- Proverbs 21:5 — The plans of the diligent lead to profit; haste leads to poverty
 
 **Avoid:**
 - Obscure Old Testament passages requiring theological explanation
