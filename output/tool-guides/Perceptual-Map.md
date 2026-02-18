@@ -2,11 +2,11 @@
 
 ## What This Tool Does
 
-The **Perceptual Map** (also called a **positioning map** or **strategic group map** when applied at the industry level) plots competitors on a two-dimensional grid based on two strategic variables that drive customer choice or competitive differentiation in an industry. The result is a visual representation of how firms are positioned relative to each other in the minds of customers or along dimensions that define competitive space. The map answers questions that numerical matrices cannot: Where is the competitive crowding? Where are the open spaces? And does your position match the position you think you occupy?
+The **Perceptual Map** (also called a **positioning map** or **strategic group map** when applied at the industry level) plots competitors on a two-dimensional grid based on two strategic variables that drive customer choice or competitive differentiation in an industry (Porter, 1980). The result is a visual representation of how firms are positioned relative to each other in the minds of customers (Ries & Trout, 2001) or along dimensions that define competitive space. The map answers questions that numerical matrices cannot: Where is the competitive crowding? Where are the open spaces? And does your position match the position you think you occupy?
 
 ## When to Use It
 
-Use the Perceptual Map during the strategy formulation stage, typically during or after external and competitive analysis. It complements the CPM by showing relative positioning visually rather than numerically. The Perceptual Map is particularly useful when an organization needs to understand competitive clustering (which competitors occupy similar positions), identify underserved market space (gaps on the map where no competitor currently sits), evaluate whether a repositioning strategy is feasible, or assess whether the firm's intended position matches how the market actually perceives it. It can be applied to an entire industry (strategic group mapping) or to a specific product category (product positioning).
+Use the Perceptual Map during the strategy formulation stage, typically during or after external and competitive analysis. It complements the CPM by showing relative positioning visually rather than numerically. The Perceptual Map is particularly useful when an organization needs to understand competitive clustering (which competitors occupy similar positions), identify underserved market space (gaps on the map where no competitor currently sits), evaluate whether a **repositioning** strategy is feasible, or assess whether the firm's intended position matches how the market actually perceives it. It can be applied to an entire industry (**strategic group** mapping) or to a specific product category (product positioning).
 
 ## Before You Start
 
@@ -23,7 +23,7 @@ Use the Perceptual Map during the strategy formulation stage, typically during o
 
 ### Step 1: Select the Two Axes
 
-Choose two strategic variables that represent the most important dimensions of competition or customer decision-making in the industry. The axes must be independent of each other — if they are highly correlated (e.g., price and quality often move together), the map will show a diagonal line rather than a meaningful distribution, and you lose analytical value.
+Choose two **strategic variables** that represent the most important dimensions of competition or customer decision-making in the industry. The axes must be independent of each other — if they are highly correlated (e.g., price and quality often move together), the map will show a diagonal line rather than a meaningful distribution, and you lose analytical value.
 
 Strong axis combinations reveal competitive structure:
 - Price vs. product breadth (works in retail, consumer goods)
@@ -50,7 +50,7 @@ Plot your own firm on the same map using the same criteria. The discipline of pl
 
 ### Step 4: Identify Competitive Clusters
 
-Examine the map for groups of competitors that occupy similar positions. These clusters represent **strategic groups** — sets of firms that compete most directly with each other because they offer similar value propositions on the dimensions mapped. Firms within a cluster face their most intense competition from each other. Firms in different clusters may compete less directly because they serve different customer preferences or employ different strategic approaches.
+Examine the map for **competitive clusters** — groups of competitors that occupy similar positions. These clusters represent **strategic groups** — sets of firms that compete most directly with each other because they offer similar value propositions on the dimensions mapped. Firms within a cluster face their most intense competition from each other. Firms in different clusters may compete less directly because they serve different customer preferences or employ different strategic approaches.
 
 ### Step 5: Identify Gaps and White Space
 
@@ -60,7 +60,7 @@ Look for areas of the map where no competitors are currently positioned. These g
 
 Evaluate your firm's position in the context of the full map. Consider:
 - Are you in a crowded cluster with many direct competitors, or in a more differentiated position?
-- Does your position align with your intended strategy? (If you aim to be the premium provider but the map shows you positioned in the middle of the pack, your strategy is not translating to market perception.)
+- Does your position align with your intended strategy? (If you aim to be the premium provider but the map shows you positioned in the middle of the pack, your strategy is not translating to **market perception**.)
 - Are you close to a gap that represents an attractive repositioning opportunity?
 - Is your current position defensible, or are competitors encroaching?
 
@@ -118,7 +118,7 @@ Strategic response: Close the gap between intention and perception. This may req
 Consider the U.S. quick-service and fast-casual restaurant industry in the late 2010s, mapped on two axes: average meal price (low to high) and menu customization and ingredient quality (low to high).
 
 **Table 2**
-*Perceptual Map Positioning of U.S. Restaurant Chains (Illustrative, Late 2010s)*
+*Perceptual Map **Positioning** of U.S. Restaurant Chains (Illustrative, Late 2010s)*
 
 | Restaurant Chain | Price Position | Customization/Quality Position |
 |---|---|---|
@@ -135,7 +135,7 @@ Consider the U.S. quick-service and fast-casual restaurant industry in the late 
 
 The map reveals several distinct patterns.
 
-A dense cluster of traditional quick-service chains occupies the lower-left region: McDonald's, Burger King, and Taco Bell compete in a crowded space defined by low prices and limited customization. Differentiation within this cluster is difficult, and competition is fought primarily on convenience, marketing, and promotional pricing.
+A dense cluster of traditional quick-service chains occupies the lower-left region: McDonald's, Burger King, and Taco Bell compete in a crowded space defined by low prices and limited customization. **Differentiation** within this cluster is difficult, and competition is fought primarily on convenience, marketing, and promotional pricing.
 
 A fast-casual cluster occupies the upper-right region: Chipotle, Panera, Shake Shack, and Sweetgreen offer higher customization and ingredient quality at higher prices. This cluster was the growth segment of the industry during this period, attracting customers willing to pay more for perceived quality and transparency.
 
@@ -168,7 +168,7 @@ A Perceptual Map is a snapshot. Competitors reposition, customer preferences shi
 
 ## A Note on Seeing Yourself Clearly
 
-The hardest part of constructing a Perceptual Map is not plotting competitors. It is plotting yourself honestly. Every leadership team has a mental image of where the firm sits in competitive space, and that image is almost always more flattering than reality. Customers see the firm differently than the firm sees itself. Competitors occupy positions that leadership may not want to acknowledge. The Perceptual Map works only when the people building it are willing to confront the gap between self-image and market reality. Paul's letter to the Galatians addresses this disposition directly: "If anyone thinks they are something when they are not, they deceive themselves. Each one should test their own actions" (Galatians 6:3-4). The counsel is not to ignore ambition or stop striving for better positioning. It is to ground your strategic assessment in evidence rather than aspiration. Test your position against actual customer perception, actual competitive benchmarks, and actual market data. The gap between where you think you are and where the market places you is the most valuable strategic insight the Perceptual Map can produce — but only if you are willing to see it.
+The hardest part of constructing a Perceptual Map is not plotting competitors. It is plotting yourself honestly. Every leadership team has a mental image of where the firm sits in competitive space, and that image is almost always more flattering than reality. Customers see the firm differently than the firm sees itself. Competitors occupy positions that leadership may not want to acknowledge. The Perceptual Map works only when the people building it are willing to confront the gap between self-image and market reality. Paul's letter to the Galatians addresses this disposition directly: "If anyone thinks they are something when they are not, they deceive themselves. Each one should test their own actions" (Galatians 6:3-4, NIV). The counsel is not to ignore ambition or stop striving for better positioning. It is to ground your strategic assessment in evidence rather than aspiration. Test your position against actual customer perception, actual competitive benchmarks, and actual market data. The gap between where you think you are and where the market places you is the most valuable strategic insight the Perceptual Map can produce — but only if you are willing to see it.
 
 ---
 
@@ -197,7 +197,7 @@ Ries, A., & Trout, J. (2001). *Positioning: The battle for your mind* (20th anni
 
 Thompson, A. A., Peteraf, M. A., Gamble, J. E., & Strickland, A. J. (2022). *Crafting and executing strategy: The quest for competitive advantage* (23rd ed.). McGraw-Hill Education.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 

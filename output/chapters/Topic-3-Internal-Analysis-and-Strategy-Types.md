@@ -1,6 +1,13 @@
-<!-- CWV: 5 -->
-
 # Topic 3: Internal Analysis and Strategy Types
+
+Essential Questions
+
+- How does an honest internal assessment of capabilities and weaknesses determine which strategies an organization can credibly pursue, and why does self-knowledge matter as much as market knowledge in strategic management?
+- What makes a resource or capability a source of sustained competitive advantage rather than temporary advantage or mere parity, and how do the Resource-Based View and VRIO framework provide the diagnostic rigor to distinguish between them?
+- How do the categories of strategic alternatives — integration, intensive, diversification, and defensive — represent a coherent spectrum of options rather than an arbitrary list, and what internal and external conditions determine when each category is appropriate?
+- Why must organizational culture and structure align with the chosen strategy, and how does misalignment between what an organization is and what its strategy requires undermine even analytically sound strategic choices?
+
+---
 
 ## Opening
 
@@ -32,7 +39,7 @@ By the end of this topic, you will be able to:
 12. Identify and explain intensive strategies: market penetration, market development, and product development
 13. Identify and explain diversification strategies: related and unrelated
 14. Identify and explain defensive strategies: retrenchment, divestiture, and liquidation
-15. Describe Porter's three generic strategies and their implications
+15. Describe Porter's (1980, 1985) three generic strategies and their implications
 16. Explain means for achieving strategies including joint ventures, mergers, acquisitions, leveraged buyouts, and first-mover advantages
 17. Apply guidelines for when each strategy type is most appropriate
 18. Classify strategies by level: corporate, divisional, and functional
@@ -54,11 +61,17 @@ Effective internal assessment is participatory. It should involve managers and e
 
 A comprehensive internal audit examines six **functional areas** that together represent the full scope of organizational capability. Each area contributes to the organization's overall strategic position, and weaknesses in any one area can undermine strengths in others.
 
+
+**Figure 3.5**
+*Six Functional Areas for Internal Audit*
+
+![Radial diagram showing six functional audit areas: management, marketing, finance, production, research, and information systems](../graphics/topic-3/fig-3-5-functional-areas.png)
+
 **Management** encompasses the five basic functions: planning, organizing, motivating, staffing, and controlling. The management audit asks whether the organization has clear objectives, whether the structure supports the strategy, whether employees are motivated and competent, and whether control systems provide timely and accurate feedback. Poor management can neutralize every other strength an organization possesses. A company with superior products, talented engineers, and a growing market will still fail if its management cannot coordinate, allocate resources, or retain talent.
 
 **Marketing** examines customer analysis, product and service planning, pricing, distribution, and market research. The marketing audit asks fundamental questions: Do we understand our customers? Are we reaching them effectively? Is our pricing strategy sustainable? Are our distribution channels efficient? Marketing capability determines whether an organization can convert internal strengths into revenue. Companies with excellent products but weak marketing capabilities consistently underperform competitors who deliver adequate products through superior marketing channels.
 
-**Finance and Accounting** provides the quantitative foundation for internal assessment. Financial condition is frequently the single most important factor in determining competitive position and overall attractiveness to investors. The finance audit examines liquidity, leverage, profitability, activity, and growth metrics through **financial ratio analysis**, which will be examined in detail later in this chapter.
+**Finance and Accounting** provides the quantitative foundation for internal assessment. Financial condition is frequently the single most important factor in determining competitive position and overall attractiveness to investors. The finance audit examines liquidity, leverage, profitability, activity, and growth metrics through financial ratio analysis, which will be examined in detail later in this chapter.
 
 **Production and Operations** covers all activities that transform inputs into outputs, whether the organization produces physical goods or delivers services. This functional area examines process efficiency, capacity utilization, quality control, supply chain management, and workforce productivity. In manufacturing firms, this is often where the largest portion of assets and employees are concentrated, making operational efficiency a critical determinant of competitive advantage.
 
@@ -68,7 +81,13 @@ A comprehensive internal audit examines six **functional areas** that together r
 
 ### The Resource-Based View
 
-While the functional area approach examines the organization department by department, the **Resource-Based View (RBV)** offers a complementary perspective that focuses on the organization's unique bundle of resources and capabilities as the primary source of competitive advantage. The RBV argues that internal resources and capabilities are more important than external factors in determining competitive position. This stands in deliberate contrast to the industrial organization (I/O) view examined in Topic 2, which emphasizes industry structure and competitive positioning relative to external forces.
+While the functional area approach examines the organization department by department, the **Resource-Based View (RBV)** (Barney, 1991) offers a complementary perspective that focuses on the organization's unique bundle of resources and capabilities as the primary source of competitive advantage. The RBV argues that internal resources and capabilities are more important than external factors in determining competitive position. This stands in deliberate contrast to the industrial organization (I/O) view examined in Topic 2, which emphasizes industry structure and competitive positioning relative to external forces.
+
+
+**Figure 3.1**
+*Resource-Based View versus Industrial Organization View*
+
+![Side-by-side comparison of RBV and IO perspectives on competitive advantage](../graphics/topic-3/fig-3-1-rbv-vs-io.png)
 
 These two perspectives are not competing theories. They are complementary lenses. The I/O view tells you where to position yourself in the competitive landscape. The RBV tells you what makes you capable of occupying that position. Smart strategists use both.
 
@@ -80,23 +99,35 @@ A resource becomes a **distinctive competence** when it represents a strength th
 
 The **VRIO framework** provides a systematic test for determining whether a resource or capability actually provides sustained competitive advantage. VRIO stands for Valuable, Rare, costly to Imitate, and Organized, and each criterion must be met sequentially. A resource that fails any one criterion produces a different competitive outcome.
 
+
+**Figure 3.2**
+*VRIO Decision Tree*
+
+![Decision tree showing VRIO analysis with four sequential tests leading to competitive outcomes](../graphics/topic-3/fig-3-2-vrio-tree.png)
+
 **Valuable** asks whether the resource enables the organization to exploit opportunities or neutralize threats. A resource that does not contribute to the organization's ability to create value for customers or reduce costs is not strategically relevant, regardless of how unique or expensive it might be. Resistance to this criterion is common. Executives often become emotionally attached to resources — legacy systems, proprietary processes, long-tenured teams — that no longer create meaningful value. The VRIO framework forces the honest question: does this resource actually help us compete?
 
 **Rare** asks whether few competitors possess the resource. A resource that is valuable but widely held across the industry produces competitive parity, not competitive advantage. Parity is not failure — it means you are keeping up — but it does not differentiate. If every airline has a loyalty program, the loyalty program is valuable but not rare. It is a cost of competing, not a source of advantage.
 
-**Costly to Imitate** asks whether competitors who lack the resource face significant cost disadvantages in obtaining it. Resources become costly to imitate for several reasons: unique historical conditions (you were in the right place at the right time), causal ambiguity (competitors cannot identify exactly what makes your resource work), or social complexity (the resource is embedded in organizational culture, relationships, or trust that cannot be purchased). The most durable competitive advantages typically come from socially complex resources because they resist both imitation and substitution.
+Costly to Imitate asks whether competitors who lack the resource face significant cost disadvantages in obtaining it. Resources become costly to imitate for several reasons: unique historical conditions (you were in the right place at the right time), causal ambiguity (competitors cannot identify exactly what makes your resource work), or social complexity (the resource is embedded in organizational culture, relationships, or trust that cannot be purchased). The most durable competitive advantages typically come from socially complex resources because they resist both imitation and substitution.
 
 **Organized** asks whether the organization's systems, policies, and processes are structured to exploit the resource fully. An organization can possess a valuable, rare, and costly-to-imitate resource and still fail to gain sustained competitive advantage if its structure, incentives, and management systems do not support exploitation of that resource. Talented employees who are poorly managed, proprietary technology that is poorly integrated into operations, and strong brands that are poorly marketed all represent failures of organization rather than failures of the resource itself.
 
-When a resource passes all four VRIO criteria, it provides **sustained competitive advantage**. When it fails at different stages, the outcomes range from competitive disadvantage (not valuable) to competitive parity (valuable but not rare) to temporary competitive advantage (valuable and rare but imitable).
+When a resource passes all four VRIO criteria, it provides sustained competitive advantage. When it fails at different stages, the outcomes range from competitive disadvantage (not valuable) to competitive parity (valuable but not rare) to temporary competitive advantage (valuable and rare but imitable).
 
 ### Value Chain Analysis
 
-**Value chain analysis**, developed by Michael Porter, provides a framework for examining exactly where within the organization's operations value is created and where costs are incurred. The value chain divides the organization's activities into **primary activities** and **support activities**, and the margin between total value created and total cost of performing all activities determines the organization's profitability.
+**Value chain analysis**, developed by Michael Porter (Porter, 1985), provides a framework for examining exactly where within the organization's operations value is created and where costs are incurred. The value chain divides the organization's activities into **primary activities** and **support activities**, and the margin between total value created and total cost of performing all activities determines the organization's profitability.
 
-The five primary activities follow the flow of creating and delivering a product or service. **Inbound logistics** involves receiving, storing, and distributing inputs. **Operations** transforms inputs into finished products or services. **Outbound logistics** collects, stores, and distributes the output to buyers. **Marketing and sales** provides the means by which buyers are made aware of and can purchase the product. **Service** enhances or maintains the product's value after the sale.
 
-The four support activities cut across all primary activities. **Firm infrastructure** includes general management, planning, finance, accounting, legal, and government affairs. **Human resource management** encompasses recruiting, hiring, training, development, and compensation across the entire organization. **Technology development** involves research, product design, process improvement, and equipment design. **Procurement** is the function of purchasing inputs used across the entire value chain, not just the inputs that become part of the final product.
+**Figure 3.3**
+*Porter's Value Chain*
+
+![Value chain showing five primary activities and four support activities leading to profit margin](../graphics/topic-3/fig-3-3-value-chain.png)
+
+The five primary activities follow the flow of creating and delivering a product or service. **Inbound logistics** involves receiving, storing, and distributing inputs. **Operations** transforms inputs into finished products or services. **Outbound logistics** collects, stores, and distributes the output to buyers. Marketing and sales provides the means by which buyers are made aware of and can purchase the product. **Service** enhances or maintains the product's value after the sale.
+
+The four support activities cut across all primary activities. **Firm infrastructure** includes general management, planning, finance, accounting, legal, and government affairs. Human resource management encompasses recruiting, hiring, training, development, and compensation across the entire organization. **Technology development** involves research, product design, process improvement, and equipment design. **Procurement** is the function of purchasing inputs used across the entire value chain, not just the inputs that become part of the final product.
 
 The strategic value of this framework lies in its ability to identify specific activities where the organization creates disproportionate value or incurs disproportionate cost. An organization might discover that its outbound logistics create significant competitive advantage through speed and reliability, while its inbound logistics are a weakness that erodes margin. Without value chain analysis, the organization might invest resources in the wrong activities, strengthening areas that are already adequate while neglecting areas that are actively destroying value.
 
@@ -104,13 +135,19 @@ The strategic value of this framework lies in its ability to identify specific a
 
 **Financial ratios** provide quantitative measures of organizational performance and health across five categories. They are most meaningful when compared against industry averages, key competitors, and the organization's own historical performance. A ratio in isolation tells you very little. A ratio in context tells you a great deal.
 
+
+**Figure 3.6**
+*Five Categories of Financial Ratios*
+
+![Category grid showing five financial ratio categories with example ratios for each](../graphics/topic-3/fig-3-6-financial-ratios.png)
+
 **Liquidity ratios** measure the organization's ability to meet short-term obligations. The **current ratio** (current assets divided by current liabilities) indicates whether the organization can pay its bills over the next twelve months. The **quick ratio** (current assets minus inventory, divided by current liabilities) provides a more conservative measure by excluding inventory, which may not be quickly convertible to cash. A declining liquidity trend signals potential cash flow problems even if the absolute ratios remain technically adequate.
 
 **Leverage ratios** measure the extent to which the organization is financed by debt. The **debt-to-equity ratio** compares total debt to shareholders' equity, indicating how much of the organization's financing comes from creditors versus owners. The **debt-to-total-assets ratio** shows what percentage of total assets are financed through borrowing. Higher leverage amplifies both returns and risk. An organization with high leverage will outperform when times are good and suffer disproportionately when times are difficult.
 
 **Activity ratios** measure how effectively the organization uses its resources. Inventory turnover, total asset turnover, and accounts receivable turnover indicate whether resources are being deployed efficiently or sitting idle. Low turnover ratios in a capital-intensive industry suggest that significant resources are generating inadequate returns.
 
-**Profitability ratios** measure management's effectiveness in generating returns. **Return on assets (ROA)** indicates how efficiently assets are deployed to generate profit. **Return on equity (ROE)** measures the return generated for shareholders. **Net profit margin** shows how much of each revenue dollar becomes profit after all expenses. These ratios provide the most direct measure of whether the organization's strategy is producing financial results.
+**Profitability ratios** measure management's effectiveness in generating returns. **Return on assets (ROA)** indicates how efficiently assets are deployed to generate profit. **Return on equity (ROE)** measures the return generated for shareholders. Net profit margin shows how much of each revenue dollar becomes profit after all expenses. These ratios provide the most direct measure of whether the organization's strategy is producing financial results.
 
 **Growth ratios** measure the organization's ability to maintain its economic position. Revenue growth, earnings growth, and dividend growth indicate whether the organization is expanding, stagnating, or contracting. Growth must be evaluated in the context of industry growth rates. A company growing at five percent in an industry growing at twelve percent is actually losing ground despite nominal growth.
 
@@ -121,6 +158,12 @@ The strategic value of this framework lies in its ability to identify specific a
 Culture's influence on strategy operates in both directions. A strong culture that values innovation will support a product development strategy but may resist a cost leadership strategy that requires standardization and efficiency over creativity. A strong culture that values stability and risk avoidance will support a retrenchment strategy but may actively undermine an aggressive growth strategy that requires experimentation and tolerance for failure.
 
 The relationship between organizational structure and culture matters for internal assessment. Structure determines who reports to whom, how decisions are made, and how information flows. When structure and culture align, the organization functions smoothly. When they conflict, the formal structure says one thing while the informal culture does another. New strategies frequently require structural changes that disrupt existing cultural norms, creating resistance that strategists must anticipate and manage rather than ignore.
+
+
+**Figure 3.4**
+*Internal Factor Evaluation Process*
+
+![Flowchart showing the five steps of constructing an **IFE Matrix**](../graphics/topic-3/fig-3-4-ife-process.png)
 
 ### Connecting Internal and External Assessment
 
@@ -134,7 +177,19 @@ The combined picture from internal and external analysis provides the foundation
 
 ### Long-Term Objectives
 
+
+**Figure 3.7**
+*Strategy Types and Alternatives*
+
+![Hierarchical tree showing four strategy categories and their specific alternatives](../graphics/topic-3/fig-3-7-strategy-types.png)
+
 Before examining specific strategy types, the concept of **long-term objectives** requires attention. Long-term objectives are specific, multi-year results that the organization seeks to achieve in pursuing its mission. They provide direction, allow synergy across business units, establish priorities, reduce uncertainty, minimize conflict, and provide the basis for effective organizational design.
+
+
+**Figure 3.14**
+*Seven Characteristics of Long-Term Objectives*
+
+![Category grid listing seven desirable characteristics of long-term strategic objectives](../graphics/topic-3/fig-3-14-objectives-characteristics.png)
 
 Effective long-term objectives share specific characteristics. They must be quantitative, measurable, realistic, understandable, challenging, hierarchical, obtainable, and congruent across the organization. Vague aspirations like "improve profitability" or "grow market share" are not objectives. They are wishes. An objective states exactly how much, by when, and measured how: "Increase net profit margin from 8.2% to 11.5% by fiscal year 2027, measured quarterly against audited financial statements." The specificity creates accountability. The timeline creates urgency. The measurement creates clarity about whether the objective was achieved.
 
@@ -144,15 +199,27 @@ Objectives must also be hierarchical, meaning corporate objectives cascade into 
 
 **Integration strategies** involve expanding the organization's scope within its existing value chain, either by moving upstream toward suppliers, downstream toward distributors and retailers, or horizontally toward competitors.
 
+
+**Figure 3.8**
+*Integration Strategies Spectrum*
+
+![Spectrum showing forward, backward, and horizontal integration strategies with examples](../graphics/topic-3/fig-3-8-integration-strategies.png)
+
 **Forward integration** involves gaining ownership or increased control over distributors or retailers. A manufacturer that opens its own retail stores or a producer that bypasses wholesalers to sell directly to consumers is pursuing forward integration. This strategy is most appropriate when existing distributors are unreliable, when the availability of quality distributors is limited, when the organization competes in a growing industry and can manage the additional complexity of distribution, or when the advantages of stable production are particularly high.
 
 **Backward integration** involves gaining ownership or increased control over suppliers. A restaurant chain that purchases farms, a computer manufacturer that acquires a chip fabrication facility, or a retailer that develops its own private-label manufacturing capability is pursuing backward integration. This strategy is most appropriate when current suppliers are unreliable, too costly, or incapable of meeting the organization's needs, when the number of suppliers is limited and the number of competitors is large, when the organization has the resources and capability to manage a new supply operation, or when the advantages of stable pricing are particularly important.
 
-**Horizontal integration** involves gaining ownership or increased control over competitors. This is one of the most common strategies in contemporary business, executed through mergers, acquisitions, and hostile takeovers. Horizontal integration increases market share, achieves economies of scale, and transfers resources and competencies between combined entities. This strategy is most appropriate when the organization competes in a growing industry, when increased economies of scale provide major competitive advantages, when the organization has both the capital and talent to manage an expanded operation, or when competitors are struggling due to resource limitations.
+**Horizontal integration** involves gaining ownership or increased control over competitors. This is one of the most common strategies in contemporary business, executed through mergers, **acquisition**, and hostile takeovers. Horizontal integration increases market share, achieves economies of scale, and transfers resources and competencies between combined entities. This strategy is most appropriate when the organization competes in a growing industry, when increased economies of scale provide major competitive advantages, when the organization has both the capital and talent to manage an expanded operation, or when competitors are struggling due to resource limitations.
 
 ### Intensive Strategies
 
 **Intensive strategies** require intensive effort to improve an organization's competitive position with existing products or in markets closely related to existing ones. The three intensive strategies represent increasing levels of departure from the organization's current activities.
+
+
+**Figure 3.9**
+*Intensive Growth Strategies*
+
+![Category grid showing three intensive strategies: market penetration, market development, and product development](../graphics/topic-3/fig-3-9-intensive-strategies.png)
 
 **Market penetration** seeks to increase market share for existing products in existing markets through greater marketing efforts. This is the least risky intensive strategy because it works with known products in known markets. Tactics include increasing advertising, offering promotions, increasing sales force activity, and expanding distribution within current geographic markets. Market penetration is most appropriate when current markets are not saturated, when usage rates among existing customers can be increased, when competitors' market share has been declining while industry sales have been increasing, or when the correlation between marketing expenditures and sales has historically been high.
 
@@ -166,6 +233,12 @@ Students frequently confuse these three strategies, particularly market developm
 
 **Diversification strategies** take the organization into new products and new markets simultaneously, representing the highest-risk category of growth strategies.
 
+
+**Figure 3.10**
+*Related versus Unrelated Diversification*
+
+![Comparison of related and unrelated diversification strategies with characteristics and examples](../graphics/topic-3/fig-3-10-diversification.png)
+
 **Related diversification** adds new but related products or services to the organization's portfolio. "Related" means the new products share meaningful commonalities with existing products in terms of markets, technology, distribution channels, or competencies. A computer manufacturer that begins producing printers, or an automobile company that enters the motorcycle market, is pursuing related diversification. The strategic logic is that the organization can leverage existing competencies, brand reputation, distribution networks, or technological capabilities in the new product area, reducing risk relative to unrelated diversification. Related diversification is most appropriate when the organization competes in a no-growth or slow-growth industry, when adding related products would enhance the sales of current products, when related products can be offered at highly competitive prices, or when related products have seasonal sales patterns that counterbalance the organization's existing peaks and valleys.
 
 **Unrelated diversification** adds new products or services that have no meaningful relationship to the organization's existing lines of business. A steel company that acquires a restaurant chain, or a technology firm that enters the insurance business, is pursuing unrelated diversification. This is sometimes called conglomerate diversification. The strategic logic is portfolio risk reduction: if the organization's businesses are unrelated, a downturn in one industry will not affect the others. However, unrelated diversification carries the highest risk of any growth strategy because the organization is simultaneously entering unfamiliar markets with unfamiliar products using capabilities it may not possess. Unrelated diversification is most appropriate when revenues from existing products would increase significantly by adding unrelated products, when the organization competes in a highly competitive or no-growth industry, when the organization's existing distribution channels can be used to market new products, or when the organization has the opportunity to purchase an unrelated business that is an attractive investment.
@@ -173,6 +246,12 @@ Students frequently confuse these three strategies, particularly market developm
 ### Defensive Strategies
 
 When growth strategies are inappropriate or when an organization faces declining performance, **defensive strategies** provide options for retrenchment, partial exit, or complete exit from the business.
+
+
+**Figure 3.11**
+*Defensive Strategy Cascade*
+
+![Cascade showing retrenchment, divestiture, and liquidation as escalating defensive strategies](../graphics/topic-3/fig-3-11-defensive-strategies.png)
 
 **Retrenchment** involves cost and asset reduction to reverse declining sales and profits. This is the least drastic defensive strategy and typically the first response when performance deteriorates. Retrenchment may involve selling land and buildings, reducing product lines, closing marginal businesses, closing obsolete factories, automating processes, reducing employees, and implementing expense control systems. Retrenchment is most appropriate when the organization has a distinctive competence but has failed to meet its objectives consistently, when the organization is one of the weakest competitors in the industry, when the organization is plagued by inefficiency and poor profitability, or when the organization has grown so quickly that major internal reorganization is needed. Sometimes called a turnaround strategy, successful retrenchment requires honest acknowledgment that current operations are unsustainable.
 
@@ -186,11 +265,17 @@ The escalation from retrenchment to divestiture to liquidation represents increa
 
 Michael Porter identified three **generic strategies** that organizations can pursue to achieve competitive advantage. These strategies apply at the business unit level and determine the fundamental competitive positioning of the organization within its industry.
 
+
+**Figure 3.12**
+*Porter's Generic Strategies*
+
+![Two-by-two matrix showing four generic strategies based on competitive scope and source of advantage](../graphics/topic-3/fig-3-12-porter-generic.png)
+
 **Cost leadership** emphasizes becoming the lowest-cost producer in the industry. An organization pursuing cost leadership seeks competitive advantage through superior efficiency in procurement, production, distribution, and administration. Cost leadership does not mean offering the cheapest products; it means producing at the lowest cost, which allows the organization to compete on price when necessary while still earning acceptable margins. Organizations pursuing cost leadership typically target a broad market, invest heavily in efficient facilities, pursue economies of scale aggressively, minimize overhead, and use tight cost controls throughout the value chain. Walmart, Southwest Airlines, and IKEA are commonly cited examples.
 
 **Differentiation** emphasizes offering products or services that are perceived as unique across the industry. An organization pursuing differentiation creates value through features, quality, brand image, customer service, technology, or other attributes that customers are willing to pay a premium for. The premium must exceed the additional cost of differentiating. Successful differentiation creates customer loyalty that insulates the organization from competitive rivalry and reduces the threat of substitutes. Apple, Mercedes-Benz, and Nordstrom are commonly cited examples.
 
-**Focus** concentrates on serving a narrow target segment or niche market rather than the industry as a whole. The focus strategy has two variants: **cost focus** (being the lowest-cost producer in the narrow segment) and **differentiation focus** (offering unique products in the narrow segment). The focus strategy assumes that the organization can serve its narrow target more effectively than competitors who compete broadly. Rolls-Royce (differentiation focus in luxury automobiles) and regional airlines serving small markets (cost focus in limited routes) are examples.
+**Focus** concentrates on serving a narrow target segment or niche market rather than the industry as a whole. The **focus strategy** has two variants: **cost focus** (being the lowest-cost producer in the narrow segment) and **differentiation focus** (offering unique products in the narrow segment). The focus strategy assumes that the organization can serve its narrow target more effectively than competitors who compete broadly. Rolls-Royce (differentiation focus in luxury automobiles) and regional airlines serving small markets (cost focus in limited routes) are examples.
 
 Porter warned that organizations must commit to one generic strategy and avoid being "stuck in the middle" — attempting both cost leadership and differentiation without excelling at either. Organizations stuck in the middle typically earn below-average returns because they cannot compete on price against cost leaders, cannot command premium prices against differentiators, and lack the focused expertise of niche competitors. While some contemporary scholars have challenged the rigidity of this prescription, the underlying principle remains sound: strategic clarity about how you compete is essential. Trying to be everything to everyone typically results in being nothing distinctive to anyone.
 
@@ -198,13 +283,13 @@ Porter warned that organizations must commit to one generic strategy and avoid b
 
 Strategies can be implemented through various means, each with different risk, cost, and control characteristics.
 
-**Joint ventures** are temporary partnerships in which two or more firms form a separate entity and share ownership, resources, and risk. Joint ventures allow organizations to share costs and risks, gain access to new markets or technologies, and combine complementary strengths without full merger. They are particularly common in international markets where local knowledge is essential and in industries where the capital requirements of new ventures exceed what any single firm can bear.
+**Joint ventures** are temporary partnerships in which two or more firms form a separate entity and share ownership, resources, and risk. Joint ventures allow organizations to share costs and risks, gain access to new markets or technologies, and combine complementary strengths without full **merger**. They are particularly common in international markets where local knowledge is essential and in industries where the capital requirements of new ventures exceed what any single firm can bear.
 
 **Mergers** occur when two organizations of roughly equal size combine to form a single new entity. In practice, true mergers of equals are rare because cultural differences, power dynamics, and operational integration challenges almost always result in one organization's systems and culture dominating the combined entity.
 
 **Acquisitions** occur when one organization purchases another. The acquiring firm absorbs the target and the target ceases to exist as an independent entity. Acquisitions allow rapid entry into new markets, immediate access to new products or technologies, elimination of a competitor, and acquisition of resources and capabilities that would take years to develop organically.
 
-**Leveraged buyouts (LBOs)** occur when a group (often including management) purchases all of a company's shares using significant borrowed money, taking the company private. The acquired company's assets typically serve as collateral for the loans. LBOs are often followed by aggressive cost-cutting and asset sales to service the debt, which can generate substantial returns for the buyers but may damage the organization's long-term competitive position.
+Leveraged buyouts (LBOs) occur when a group (often including management) purchases all of a company's shares using significant borrowed money, taking the company private. The acquired company's assets typically serve as collateral for the loans. LBOs are often followed by aggressive cost-cutting and asset sales to service the debt, which can generate substantial returns for the buyers but may damage the organization's long-term competitive position.
 
 **First-mover advantages** accrue to organizations that are first to enter a market or introduce a product. First movers can capture market share before competitors respond, establish brand recognition, build switching costs, and secure advantageous relationships with suppliers and distributors. However, first-mover advantages are not automatic. First movers also bear the full cost of market education, face technology uncertainty, and risk being overtaken by later entrants who learn from the first mover's mistakes. The second mover advantage is real: letting someone else make the expensive mistakes and then entering with a superior offering.
 
@@ -214,13 +299,19 @@ Strategies operate at three distinct levels, and understanding these levels prev
 
 **Corporate-level strategy** addresses the fundamental question: "What businesses should we be in?" Corporate strategy involves decisions about diversification, acquisition, divestiture, and resource allocation across business units. In a single-business firm, corporate strategy and business strategy are identical. In a diversified firm, corporate strategy determines the composition of the portfolio while business strategy determines how each unit competes within its industry.
 
-**Business-level (divisional) strategy** addresses the question: "How should we compete in this particular industry?" This is where Porter's generic strategies apply. Each business unit must determine whether it will pursue cost leadership, differentiation, or focus, and how it will position itself relative to competitors within its specific industry.
+Business-level (divisional) strategy addresses the question: "How should we compete in this particular industry?" This is where Porter's generic strategies apply. Each business unit must determine whether it will pursue cost leadership, differentiation, or focus, and how it will position itself relative to competitors within its specific industry.
 
 **Functional-level strategy** addresses the question: "How should each functional area support the business strategy?" Functional strategies in marketing, finance, operations, R&D, and human resources must align with and support the chosen business strategy. A business unit pursuing cost leadership needs functional strategies emphasizing efficiency, standardization, and cost control. A business unit pursuing differentiation needs functional strategies emphasizing innovation, quality, and customer responsiveness.
 
 ### Organic Growth Versus Growth Through Acquisition
 
 Organizations face a fundamental choice in how they grow. **Organic growth** means expanding through internal development — building new products, entering new markets, and developing new capabilities from within. **Growth through acquisition** means expanding by purchasing other firms. Each approach carries distinct advantages and risks.
+
+
+**Figure 3.13**
+*Organic Growth versus Acquisition Growth*
+
+![Comparison table of organic growth and acquisition growth approaches](../graphics/topic-3/fig-3-13-organic-vs-acquisition.png)
 
 Organic growth is slower but cheaper, preserves organizational culture, builds capabilities incrementally, and avoids integration challenges. The risk is that competitors may outpace the organization while it develops capabilities that could have been acquired.
 
@@ -260,11 +351,17 @@ GE's experience validates two critical principles. First, internal capabilities 
 
 The strategies examined in this topic carry significant ethical weight beyond their financial implications. Retrenchment strategies affect employees and communities. Acquisition strategies reshape industries and determine which competitors survive. Cost leadership strategies that reduce prices for consumers may simultaneously pressure suppliers and workers. The strategist does not operate in a moral vacuum.
 
-1 Peter 4:10 instructs that "each one should use whatever gift they have received to serve others, as faithful stewards of God's grace in its various forms." This principle reframes internal analysis. An organization's capabilities are not merely assets to be exploited for maximum return. They are resources entrusted to the organization's leadership with a responsibility to deploy them wisely and ethically. The internal audit, viewed through this lens, is not just an inventory of competitive weapons. It is an accounting of stewardship: what has this organization been given, and how faithfully is it being deployed?
+1 Peter 4:10 (NIV) instructs that "each one should use whatever gift they have received to serve others, as faithful stewards of God's grace in its various forms." This principle reframes internal analysis. An organization's capabilities are not merely assets to be exploited for maximum return. They are resources entrusted to the organization's leadership with a responsibility to deploy them wisely and ethically. The internal audit, viewed through this lens, is not just an inventory of competitive weapons. It is an accounting of stewardship: what has this organization been given, and how faithfully is it being deployed?
 
 This stewardship perspective has practical implications for strategy selection. A retrenchment strategy that eliminates jobs should be pursued only after genuinely exploring alternatives and should be executed with dignity and support for affected employees. An acquisition strategy should consider the welfare of both organizations' stakeholders, not just the financial return to shareholders. A cost leadership strategy should not be built on supplier exploitation or labor practices that sacrifice human welfare for margin improvement.
 
-Colossians 3:23-24 adds another dimension: "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving." This passage reframes the purpose of strategic work itself. The strategist who conducts a thorough internal audit, selects an appropriate strategy, and executes with excellence is not merely serving shareholders or advancing a career. There is a deeper purpose in doing work well — a recognition that excellence in professional practice has intrinsic value beyond its economic outcomes. The quality of the analysis matters. The honesty of the assessment matters. The integrity of the strategic choice matters, not because the market always rewards integrity (it does not), but because the work itself is a form of service.
+Colossians 3:23-24 (NIV) adds another dimension:
+
+> Whatever you do, work at it with all your heart, as working for the Lord, not
+> for human masters, since you know that you will receive an inheritance from
+> the Lord as a reward. It is the Lord Christ you are serving.
+
+This passage reframes the purpose of strategic work itself. The strategist who conducts a thorough internal audit, selects an appropriate strategy, and executes with excellence is not merely serving shareholders or advancing a career. There is a deeper purpose in doing work well — a recognition that excellence in professional practice has intrinsic value beyond its economic outcomes. The quality of the analysis matters. The honesty of the assessment matters. The integrity of the strategic choice matters, not because the market always rewards integrity (it does not), but because the work itself is a form of service.
 
 ---
 
@@ -533,3 +630,5 @@ Barney, J. B., & Hesterly, W. S. (2019). *Strategic management and competitive a
 Wernerfelt, B. (1984). A resource-based view of the firm. *Strategic Management Journal*, *5*(2), 171-180.
 
 Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. *Harvard Business Review*, *68*(3), 79-91.
+
+New International Version Bible. (2011). Zondervan. (Original work published 1978)

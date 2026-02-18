@@ -2,7 +2,7 @@
 
 ## What This Tool Does
 
-The **SWOT Matrix** (also called the **Threats-Opportunities-Weaknesses-Strengths Matrix** or **TOWS Matrix**) generates specific, actionable strategies by systematically matching internal factors (strengths and weaknesses) with external factors (opportunities and threats). Unlike a simple SWOT list that merely categorizes factors into four boxes, the SWOT Matrix creates four types of strategies by pairing each internal category with each external category. The result is not a description of the firm's situation but a set of concrete strategic alternatives that exploit the situation. The SWOT Matrix is where analysis becomes action.
+The **SWOT Matrix** (David & David, 2017), also called the **Threats-Opportunities-Weaknesses-Strengths Matrix** or **TOWS Matrix**, generates specific, actionable strategies by systematically **matching** internal factors (strengths and weaknesses) with external factors (opportunities and threats). Unlike a simple SWOT list that merely categorizes factors into four boxes, the SWOT Matrix creates four types of strategies by pairing each internal category with each external category. The result is not a description of the firm's situation but a set of concrete strategic alternatives that exploit the situation. The SWOT Matrix is where analysis becomes action.
 
 ## When to Use It
 
@@ -40,7 +40,7 @@ Next to or below the opportunities across the top, list the firm's key external 
 
 In the cell where strengths and opportunities intersect, develop strategies that use internal strengths to capitalize on external opportunities. SO strategies are the most aggressive — they leverage what the firm does best to pursue the most attractive external conditions.
 
-Each SO strategy should explicitly reference the specific strengths and opportunities it connects. For example: "Use strong R&D capability (S3) and brand recognition (S1) to launch a premium product line in the growing Asian market (O2)."
+Each **SO strategy** should explicitly reference the specific strengths and opportunities it connects. For example: "Use strong R&D capability (S3) and brand recognition (S1) to launch a premium product line in the growing Asian market (O2)."
 
 This specificity is what separates a useful SWOT Matrix from a vague one. A strategy that says "grow internationally" is not an SO strategy. A strategy that says "leverage existing distribution partnerships in Southeast Asia (S5) to capture growing demand for premium health products (O3)" is.
 
@@ -50,7 +50,7 @@ In the cell where weaknesses and opportunities intersect, develop strategies tha
 
 For example: "Address limited e-commerce capability (W2) by partnering with an established online marketplace (O4) to reach digital-first customers without building the platform from scratch."
 
-WO strategies often involve partnerships, acquisitions, hiring, or investment in capability development — they require spending resources to fix weaknesses because the external opportunity justifies the investment.
+WO strategies often involve partnerships, acquisitions, hiring, or investment in capability development — they require spending resources to fix weaknesses because the external **opportunity** justifies the investment.
 
 ### Step 7: Generate ST Strategies (Strengths-Threats)
 
@@ -103,66 +103,66 @@ The SWOT Matrix does not produce numerical scores. Its output is a set of strate
 
 The SWOT Matrix produces strategies, not a single score or recommendation. Interpretation involves evaluating the full set of strategies and identifying patterns.
 
-**When SO strategies dominate:** If the most compelling strategies are in the SO quadrant, the firm is in a favorable position — strong internally and facing attractive external conditions. This aligns with an aggressive posture on the SPACE Matrix and a Grow and Build recommendation on the IE Matrix. The firm should prioritize SO strategies while maintaining awareness that the other quadrants still contain risks.
+When SO strategies dominate: If the most compelling strategies are in the SO quadrant, the firm is in a favorable position — strong internally and facing attractive external conditions. This aligns with an aggressive posture on the SPACE Matrix and a Grow and Build recommendation on the IE Matrix. The firm should prioritize SO strategies while maintaining awareness that the other quadrants still contain risks.
 
-**When WO strategies are most critical:** If the best opportunities require the firm to address internal weaknesses first, the WO quadrant becomes the strategic priority. This often corresponds to a Quadrant II position on the Grand Strategy Matrix (rapid market growth, weak competitive position). The firm must invest in capability before it can capture the opportunity.
+When WO strategies are most critical: If the best opportunities require the firm to address internal weaknesses first, the WO quadrant becomes the strategic priority. This often corresponds to a Quadrant II position on the Grand Strategy Matrix (rapid market growth, weak competitive position). The firm must invest in capability before it can capture the opportunity.
 
-**When ST strategies are essential:** If the primary strategic need is to defend against external threats using existing strengths, the firm is in a protective mode. This aligns with a competitive or conservative posture. ST strategies keep the firm viable while the external environment remains hostile or volatile.
+When ST strategies are essential: If the primary strategic need is to defend against external threats using existing strengths, the firm is in a protective mode. This aligns with a competitive or conservative posture. ST strategies keep the firm viable while the external environment remains hostile or volatile.
 
-**When WT strategies cannot be avoided:** If the SWOT Matrix reveals that the firm faces serious threats in areas where it is already weak, the WT quadrant demands attention regardless of what the other quadrants contain. Ignoring WT vulnerabilities because the SO quadrant looks more attractive is one of the most common and costly strategic errors. The WT quadrant does not go away because you prefer to focus elsewhere.
+When WT strategies cannot be avoided: If the SWOT Matrix reveals that the firm faces serious threats in areas where it is already weak, the WT quadrant demands attention regardless of what the other quadrants contain. Ignoring WT vulnerabilities because the SO quadrant looks more attractive is one of the most common and costly strategic errors. The WT quadrant does not go away because you prefer to focus elsewhere.
 
-**The most important pattern:** Look at where the highest-weighted IFE and EFE factors appear across the four quadrants. If the most important external opportunity (by weight) intersects with the firm's greatest strength, the SO strategy connecting them deserves the highest priority. If the most heavily weighted threat intersects with the firm's most critical weakness, the WT strategy addressing that intersection may be the most urgent action in the entire matrix, even if it is less exciting than the SO alternatives.
+The most important pattern: Look at where the highest-weighted IFE and EFE factors appear across the four quadrants. If the most important external opportunity (by weight) intersects with the firm's greatest **strength**, the SO strategy connecting them deserves the highest priority. If the most heavily weighted **threat** intersects with the firm's most critical **weakness**, the **WT strategy** addressing that intersection may be the most urgent action in the entire matrix, even if it is less exciting than the SO alternatives.
 
 ---
 
 ## Real-World Example
 
-Consider Microsoft in the mid-2010s, during the strategic transformation under CEO Satya Nadella. Microsoft was shifting from a Windows-centric business model toward cloud computing, subscriptions, and cross-platform services.
+Consider Microsoft in the mid-2010s, during the strategic transformation under CEO Satya Nadella (Nadella, 2017). Microsoft was shifting from a Windows-centric business model toward cloud computing, subscriptions, and cross-platform services.
 
 **Table 3**
 *Abbreviated SWOT Matrix for Microsoft (Illustrative, Mid-2010s)*
 
-**Key Strengths:**
+Key **Strength**s:
 - S1: Dominant enterprise customer base with deep organizational relationships
 - S2: Azure cloud platform with rapidly growing market share
 - S3: Office 365 subscription model generating recurring revenue
 - S4: Massive cash reserves and strong balance sheet
 - S5: Extensive developer ecosystem and tools (Visual Studio, GitHub)
 
-**Key Weaknesses:**
+Key **Weakness**es:
 - W1: Declining Windows market relevance as computing shifts to mobile and cloud
 - W2: Weak position in mobile devices and consumer hardware
 - W3: Legacy organizational culture resistant to open-source and cross-platform approaches
 - W4: Lagging in artificial intelligence research relative to Google
 
-**Key Opportunities:**
+Key Opportunities:
 - O1: Explosive growth in enterprise cloud computing adoption
 - O2: Increasing demand for AI and machine learning integration in business software
 - O3: Remote work trend accelerating demand for collaboration and productivity tools
 - O4: Growing developer community adoption of open-source platforms
 
-**Key Threats:**
+Key **Threat**s:
 - T1: Amazon AWS dominance in cloud infrastructure market
 - T2: Google expansion into enterprise productivity and cloud services
 - T3: Antitrust scrutiny and regulatory pressure on large technology platforms
 - T4: Cybersecurity threats increasing costs and risks for cloud providers
 
-**SO Strategies (Use strengths to capitalize on opportunities):**
+SO Strategies (Use strengths to capitalize on opportunities):
 - SO1: Leverage enterprise customer relationships (S1) and Azure platform (S2) to capture enterprise cloud migration spending (O1)
 - SO2: Use Office 365 recurring revenue base (S3) and developer ecosystem (S5) to integrate AI capabilities into existing enterprise productivity tools (O2)
 - SO3: Expand Microsoft Teams as the enterprise collaboration platform, leveraging Office 365 integration (S3) to capture remote work demand (O3)
 
-**WO Strategies (Overcome weaknesses by exploiting opportunities):**
+WO Strategies (Overcome weaknesses by exploiting opportunities):
 - WO1: Address cultural resistance to open-source (W3) by acquiring GitHub and embracing the open-source developer community (O4) to reposition Microsoft as developer-friendly
 - WO2: Close the AI research gap (W4) by investing in strategic AI partnerships and acquisitions to integrate AI into Azure and Office products (O2)
 - WO3: Reduce dependence on Windows revenue (W1) by accelerating the shift to cloud-based subscription models that are platform-agnostic (O1)
 
-**ST Strategies (Use strengths to mitigate threats):**
+ST Strategies (Use strengths to mitigate threats):
 - ST1: Use enterprise customer lock-in (S1) and integrated product ecosystem (S3, S5) to defend against Google's enterprise expansion (T2)
 - ST2: Deploy cash reserves (S4) to invest in advanced cybersecurity capabilities for Azure, turning the cybersecurity threat (T4) into a competitive differentiator
 - ST3: Leverage deep government and regulated-industry relationships (S1) to position Azure as the compliance-friendly cloud alternative to AWS (T1, T3)
 
-**WT Strategies (Minimize weaknesses and avoid threats):**
+WT Strategies (Minimize weaknesses and avoid threats):
 - WT1: Accept the mobile device market loss (W2) rather than continuing to invest in a hardware battle against Apple and Google, redirecting resources to cloud and AI where competitive position is stronger (T2)
 - WT2: Proactively engage with regulators on data privacy and competition issues (T3) to address the perception that legacy Windows dominance (W1) represents monopolistic behavior, positioning the cloud transition as evidence of competitive market evolution
 
@@ -191,7 +191,17 @@ A SWOT Matrix that recommends aggressive expansion in the SO quadrant and major 
 
 ## A Note on Naming What Is True
 
-The SWOT Matrix only produces honest strategies if it receives honest inputs. And the hardest inputs to get right are the weaknesses. Every organization has a public narrative about its strengths — the brand, the culture, the innovation, the market position. Few organizations have an equally candid narrative about their weaknesses. Internal politics, ego, and career incentives all conspire to minimize, rationalize, or relabel weaknesses as "areas for development" or "opportunities for improvement." But a weakness mislabeled is a weakness unaddressed. And a weakness unaddressed eventually becomes a crisis. Proverbs 28:13 captures the principle in language that applies as directly to organizations as to individuals: "Whoever conceals their transgressions will not prosper, but whoever confesses and forsakes them will obtain mercy." In organizational terms, the mercy is strategic clarity. The firm that names its weaknesses honestly gains the ability to develop strategies that address them. The firm that conceals them from itself builds a SWOT Matrix on incomplete information and generates strategies that assume capabilities the organization does not possess. The WO and WT quadrants of the SWOT Matrix are acts of organizational confession — they require the firm to say, publicly and specifically, "here is where we are weak, and here is what we are going to do about it." That confession is the beginning of strategic integrity.
+The SWOT Matrix only produces honest strategies if it receives honest inputs. And the hardest inputs to get right are the weaknesses. Every organization has a public narrative about its strengths — the brand, the culture, the innovation, the market position. Few organizations have an equally candid narrative about their weaknesses. Internal politics, ego, and career incentives all conspire to minimize, rationalize, or relabel weaknesses as "areas for development" or "opportunities for improvement." But a weakness mislabeled is a weakness unaddressed. And a weakness unaddressed eventually becomes a crisis. Proverbs 28:13 (NIV) captures the principle in language that applies as directly to organizations as to individuals: "Whoever conceals their transgressions will not prosper, but whoever confesses and forsakes them will obtain mercy.
+
+> In organizational terms, the mercy is strategic clarity. The firm that names
+> its weaknesses honestly gains the ability to develop strategies that address
+> them. The firm that conceals them from itself builds a SWOT Matrix on
+> incomplete information and generates strategies that assume capabilities the
+> organization does not possess. The WO and WT quadrants of the SWOT Matrix are
+> acts of organizational confession — they require the firm to say, publicly and
+> specifically,
+
+here is where we are weak, and here is what we are going to do about it." That confession is the beginning of strategic integrity.
 
 ---
 
@@ -220,7 +230,7 @@ Nadella, S., Shaw, G., & Nichols, J. T. (2017). *Hit refresh: The quest to redis
 
 Weihrich, H. (1982). The TOWS Matrix — A tool for situational analysis. *Long Range Planning*, *15*(2), 54-66.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 
@@ -270,7 +280,14 @@ D) The colleague is incorrect because healthcare companies create demand through
 
 ### Critical Thinking
 
-A mid-sized organic food company completes a SWOT Matrix and finds that its most compelling strategy is an SO strategy: "Leverage our strong organic brand reputation (S1) and established supply chain of certified organic farms (S2) to expand into the rapidly growing European organic food market (O1)." The strategy scores highest when carried forward to the QSPM. However, the WT quadrant of the same SWOT Matrix contains a critical strategy: "Address the company's $45 million debt burden (W3) and limited working capital (W4) in the context of rising interest rates (T2) and increasing commodity price volatility (T3) by restructuring debt, reducing inventory carrying costs, and establishing commodity price hedging before pursuing any capital-intensive expansion."
+A mid-sized organic food company completes a SWOT Matrix and finds that its most compelling strategy is an SO strategy: "Leverage our strong organic brand reputation (S1) and established supply chain of certified organic farms (S2) to expand into the rapidly growing European organic food market (O1)." The strategy scores highest when carried forward to the QSPM. However, the WT quadrant of the same SWOT Matrix contains a critical strategy:
+
+> Address the company's $45 million debt burden (W3) and limited working capital
+> (W4) in the context of rising interest rates (T2) and increasing commodity
+> price volatility (T3) by restructuring debt, reducing inventory carrying
+> costs, and establishing commodity price hedging before pursuing any
+> capital-intensive expansion.
+
 
 The CEO wants to pursue the European expansion immediately. The CFO argues that the WT strategy must be addressed first, warning that expanding internationally while carrying high debt in a rising-rate environment could push the firm into financial distress.
 

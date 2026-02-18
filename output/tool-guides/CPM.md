@@ -2,17 +2,17 @@
 
 ## What This Tool Does
 
-The **Competitive Profile Matrix (CPM)** compares a firm directly against its major competitors on the factors that determine success in their shared industry. Unlike the EFE Matrix, which evaluates only external opportunities and threats, or the IFE Matrix, which evaluates only internal strengths and weaknesses, the CPM places competing firms side by side on the same set of **critical success factors** and produces a total weighted score for each. The result is a clear picture of where your firm leads, where it trails, and where competitive gaps are widest.
+The **Competitive Profile Matrix (CPM)** (David & David, 2017) compares a firm directly against its major competitors on the factors that determine success in their shared industry. Unlike the EFE Matrix, which evaluates only external opportunities and threats, or the IFE Matrix, which evaluates only internal strengths and weaknesses, the CPM places competing firms side by side on the same set of critical success factors and produces a **total weighted score** for each. The result is a clear picture of where your firm leads, where it trails, and where competitive gaps are widest.
 
 ## When to Use It
 
-Use the CPM during the strategy formulation stage, typically alongside or immediately after the EFE and IFE analyses. It is most useful when the organization needs to understand its competitive position relative to specific rivals rather than in isolation. The CPM answers a question that the EFE and IFE cannot answer on their own: compared to the firms we actually compete against, where do we have advantages and where are we vulnerable? It should precede strategic choice tools like the SWOT Matrix or QSPM, because understanding your relative competitive standing informs which strategies are realistic and which are aspirational.
+Use the CPM during the strategy formulation stage (Hitt et al., 2020), typically alongside or immediately after the EFE and IFE analyses. It is most useful when the organization needs to understand its competitive position relative to specific rivals rather than in isolation. The CPM answers a question that the EFE and IFE cannot answer on their own: compared to the firms we actually compete against, where do we have advantages and where are we vulnerable? It should precede strategic choice tools like the SWOT Matrix or QSPM, because understanding your relative competitive standing informs which strategies are realistic and which are aspirational.
 
 ## Before You Start
 
 - Identify two to four direct competitors to include in the analysis (more than four becomes unwieldy without adding proportional insight)
 - Define the critical success factors for the industry — the capabilities and conditions that determine which firms win and which lose in this market
-- Gather competitive intelligence: public financial reports, industry analyses, market share data, customer satisfaction surveys, product reviews, analyst assessments
+- Gather **competitive intelligence**: public financial reports, industry analyses, market share data, customer satisfaction surveys, product reviews, analyst assessments
 - Ensure the team constructing the matrix has enough knowledge of each competitor to rate them credibly — guesswork produces misleading results
 - Understand that the CPM uses the same weighting logic as the EFE and IFE but applies it comparatively across multiple firms
 
@@ -22,7 +22,7 @@ Use the CPM during the strategy formulation stage, typically alongside or immedi
 
 ### Step 1: Identify Critical Success Factors
 
-List 8 to 12 **critical success factors (CSFs)** — the capabilities, resources, and competitive attributes that determine success in this specific industry. These are not the same as the EFE's external factors or the IFE's internal factors, though there may be overlap. CSFs are the things customers care about, the capabilities that drive market share, and the attributes that separate winners from losers in this market.
+List 8 to 12 critical success factors (CSFs) — the capabilities, resources, and competitive attributes that determine success in this specific industry. These are not the same as the EFE's external factors or the IFE's internal factors, though there may be overlap. CSFs are the things customers care about, the capabilities that drive market share, and the attributes that separate winners from losers in this market.
 
 Examples of critical success factors vary by industry: brand recognition, product quality, price competitiveness, market share, financial position, customer loyalty, global expansion, technological capability, distribution effectiveness, e-commerce presence. The factors should be specific to the industry, not generic.
 
@@ -50,7 +50,7 @@ The most important discipline here is honesty about your own firm. The temptatio
 
 ### Step 4: Calculate Weighted Scores
 
-Multiply each factor's weight by each firm's rating on that factor to produce a weighted score for every cell in the matrix. Each firm will have a weighted score for every critical success factor.
+Multiply each factor's weight by each firm's rating on that factor to produce a **weighted score** for every cell in the matrix. Each firm will have a weighted score for every critical success factor.
 
 ### Step 5: Sum the Weighted Scores for Each Firm
 
@@ -58,14 +58,14 @@ Add all weighted scores for each firm to produce a total weighted score per comp
 
 ### Step 6: Analyze the Results Comparatively
 
-The total weighted scores rank the firms, but the real value is in the line-item comparison. Examine where your firm's ratings exceed competitors' ratings (competitive advantages) and where they fall short (competitive vulnerabilities). Pay particular attention to gaps on heavily weighted factors — a one-point rating difference on a factor weighted at 0.15 creates a 0.15 gap in weighted score, which is strategically significant.
+The total weighted scores rank the firms, but the real value is in the line-item comparison. Examine where your firm's ratings exceed competitors' ratings (**competitive advantages**) and where they fall short (competitive vulnerabilities). Pay particular attention to **competitive gaps** on heavily weighted factors — a one-point rating difference on a factor weighted at 0.15 creates a 0.15 gap in weighted score, which is strategically significant.
 
 ---
 
 ## Scoring Guide
 
 **Table 1**
-*CPM Rating Scale*
+*CPM **Rating** Scale*
 
 | Rating | Meaning | Interpretation |
 |---|---|---|
@@ -75,7 +75,7 @@ The total weighted scores rank the firms, but the real value is in the line-item
 | 1 | Major weakness | Significantly deficient, a clear competitive liability |
 
 **Table 2**
-*CPM Weight Guidelines*
+*CPM **Weight** Guidelines*
 
 | Weight Range | Interpretation |
 |---|---|
@@ -90,13 +90,13 @@ The total weighted scores rank the firms, but the real value is in the line-item
 
 The CPM produces a ranked comparison, but interpretation requires more than reading the totals.
 
-**If your firm has the highest total weighted score:** You hold the strongest overall competitive position among the firms analyzed. This does not guarantee success — it means your current capabilities align well with what the industry rewards. Examine where competitors are rated higher than you even in an overall losing position. These are the specific areas where rivals have advantages they could leverage against you.
+If your firm has the highest total weighted score: You hold the strongest overall competitive position among the firms analyzed. This does not guarantee success — it means your current capabilities align well with what the industry rewards. Examine where competitors are rated higher than you even in an overall losing position. These are the specific areas where rivals have advantages they could leverage against you.
 
-**If your firm is in the middle of the pack:** You are competitive but not differentiated. Look at the highest-weighted factors and identify where you are tied or trailing. Middle-of-pack firms face a strategic choice: invest to overtake the leader on key factors, or find a niche where different factors carry more weight than the industry average suggests.
+If your firm is in the middle of the pack: You are competitive but not differentiated. Look at the highest-weighted factors and identify where you are tied or trailing. Middle-of-pack firms face a strategic choice: invest to overtake the leader on key factors, or find a niche where different factors carry more weight than the industry average suggests.
 
-**If your firm has the lowest total weighted score:** You are at a competitive disadvantage on the factors that matter most in this industry. This demands honest assessment: Can you realistically close the gaps on the highest-weighted factors? Or do you need a fundamentally different strategy — perhaps competing in a segment where the success factors differ from the industry mainstream?
+If your firm has the lowest total weighted score: You are at a competitive disadvantage on the factors that matter most in this industry. This demands honest assessment: Can you realistically close the gaps on the highest-weighted factors? Or do you need a fundamentally different strategy — perhaps competing in a segment where the success factors differ from the industry mainstream?
 
-**Regardless of rank, focus on the gaps:** The most actionable insight from the CPM is not the total score but the factor-level comparison. A firm with an overall lead can still have critical vulnerabilities on specific factors. A firm trailing overall may hold decisive advantages on one or two factors that could anchor a differentiation strategy. The matrix shows you where to compete and where to concede.
+Regardless of rank, focus on the gaps: The most actionable insight from the CPM is not the total score but the factor-level comparison. A firm with an overall lead can still have critical vulnerabilities on specific factors. A firm trailing overall may hold decisive advantages on one or two factors that could anchor a differentiation strategy. The matrix shows you where to compete and where to concede.
 
 ---
 
@@ -151,7 +151,7 @@ The total score ranks the firms, but the strategic value lives in the line items
 
 ## A Note on Competition and Character
 
-Competitive analysis changes how you see rivals. It can sharpen your strategy, but it can also distort your perspective. When you spend hours dissecting a competitor's weaknesses, it becomes easy to view them as adversaries to defeat rather than organizations staffed by people pursuing their own legitimate purposes. The CPM is an analytical tool, not a weapon. Philippians 1:27 calls for a distinctive standard of conduct: "Whatever happens, conduct yourselves in a manner worthy of the gospel of Christ." Applied to competitive strategy, the principle is practical. You can analyze competitors rigorously, identify their vulnerabilities, and develop strategies to outperform them — all without resorting to deception, sabotage, or exploitation. The firms you compete against employ people with families. They serve customers who depend on them. They contribute to communities. Winning a market does not require treating rivals as enemies to be destroyed. The best competitive strategies succeed because they create superior value for customers, not because they inflict maximum damage on competitors. Analyze honestly, compete vigorously, and conduct yourself in a way that your character survives the competition intact.
+Competitive analysis changes how you see rivals. It can sharpen your strategy, but it can also distort your perspective. When you spend hours dissecting a competitor's weaknesses, it becomes easy to view them as adversaries to defeat rather than organizations staffed by people pursuing their own legitimate purposes. The CPM is an analytical tool, not a weapon. Philippians 1:27 (NIV) calls for a distinctive standard of conduct: "Whatever happens, conduct yourselves in a manner worthy of the gospel of Christ." Applied to competitive strategy, the principle is practical. You can analyze competitors rigorously, identify their vulnerabilities, and develop strategies to outperform them — all without resorting to deception, sabotage, or exploitation. The firms you compete against employ people with families. They serve customers who depend on them. They contribute to communities. Winning a market does not require treating rivals as enemies to be destroyed. The best competitive strategies succeed because they create superior value for customers, not because they inflict maximum damage on competitors. Analyze honestly, compete vigorously, and conduct yourself in a way that your character survives the competition intact.
 
 ---
 
@@ -179,7 +179,7 @@ Porter, M. E. (2008). The five competitive forces that shape strategy. *Harvard 
 
 Thompson, A. A., Peteraf, M. A., Gamble, J. E., & Strickland, A. J. (2022). *Crafting and executing strategy: The quest for competitive advantage* (23rd ed.). McGraw-Hill Education.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 

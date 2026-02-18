@@ -2,7 +2,26 @@
   "permissions": {
     "allow": [
       "Bash(pandoc:*)",
-      "Bash(python -m pip install:*)"
+      "Bash(python -m pip install:*)",
+      "Bash(dir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm view:*)",
+      "Bash(node:*)",
+      "Bash(python:*)",
+      "Bash(powershell -Command \"Expand-Archive -Path ''Boeing-Test2.docx'' -DestinationPath ''docx-inspect'' -Force\")",
+      "Bash(copy:*)",
+      "Bash(powershell:*)",
+      "Bash(cd \"C:\\\\Users\\\\Paul\\\\Desktop\\\\660\\\\Strategy-Case-Writer\\\\strategy-case-writer\"\" && find . -type f -name \"*.js\" -o -name \"*.py \")",
+      "Bash(ls \"C:\\\\Users\\\\Paul\\\\Desktop\\\\660\\\\Strategy-Course-Content-COMPLETE\\\\output\\\\tool-guides\"\" 2>nul || echo \"Directory does not exist \")",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(pip install:*)",
+      "Bash(where:*)",
+      "Bash(cmd.exe /c \"dir /s /b C:\\\\Users\\\\Paul\\\\Desktop\\\\660\\\\Strategy-Course-Content-COMPLETE\\\\output\\\\*.md\")",
+      "Bash(git reset:*)",
+      "Bash(git rm:*)",
+      "Bash(ls:*)"
     ]
   }
 }

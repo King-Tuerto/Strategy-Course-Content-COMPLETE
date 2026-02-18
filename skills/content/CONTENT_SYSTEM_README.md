@@ -307,6 +307,12 @@ How to avoid: [corrective action]
 
 ---
 
+## Key Terms
+
+[List all bolded key terms from this guide in alphabetical order with definitions. Bold each term on first use in the body text above. Per GCU style, a master glossary is compiled separately across all chapters.]
+
+---
+
 ## Knowledge Check
 
 ### Multiple Choice
@@ -331,6 +337,12 @@ D) [Option]
 **Question:** [Open-ended question requiring judgment]
 
 **Rubric:** [Use rubric from ASSESSMENT.md]
+
+---
+
+## References
+
+[APA-formatted references for all sources cited in this guide. All claims, frameworks, and models must cite their original scholarly sources. Per GCU style: when in doubt, cite it.]
 ```
 
 ---
@@ -407,6 +419,18 @@ By the end of this chapter, you will be able to:
 1. [Question requiring application to student's own context]
 2. [Question connecting to earlier chapters]
 3. [Question exploring ethical tensions]
+
+---
+
+## Key Terms
+
+[List all bolded key terms from this chapter in alphabetical order with definitions. Bold each term on first use in the body text above. Per GCU style, a master glossary is compiled separately across all chapters.]
+
+---
+
+## References
+
+[APA-formatted references for all sources cited in this chapter. All claims, frameworks, and models must cite their original scholarly sources. Per GCU style: when in doubt, cite it.]
 ```
 
 ---
@@ -461,6 +485,12 @@ By the end of this chapter, you will be able to:
 **Reflection Questions:**
 7. [Personal: "If you were the CEO, what would keep you up at night?"]
 8. [Learning: "What does this case teach you about [concept]?"]
+
+---
+
+## References
+
+[APA-formatted references for all sources cited in this case study. Company data, industry reports, and academic frameworks must be attributed. Per GCU style: when in doubt, cite it.]
 ```
 
 ---

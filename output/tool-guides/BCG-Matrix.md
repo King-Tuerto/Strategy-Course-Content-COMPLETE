@@ -2,7 +2,7 @@
 
 ## What This Tool Does
 
-The **BCG Growth-Share Matrix** classifies a company's business units or product lines into four categories based on two variables: market growth rate and relative market share. Developed by the Boston Consulting Group in the early 1970s, this tool helps executives answer the most fundamental portfolio question: where should we invest, and where should we pull back? It transforms a sprawling collection of business units into a disciplined investment framework.
+The **BCG Growth-Share Matrix** classifies a company's business units or product lines into four categories based on two variables: **market growth rate** and **relative market share**. Developed by the Boston Consulting Group in the early 1970s, this tool helps executives answer the most fundamental portfolio question: where should we invest, and where should we pull back? It transforms a sprawling collection of business units into a disciplined investment framework.
 
 ## When to Use It
 
@@ -34,7 +34,7 @@ Divide each unit's market share by the market share of its largest competitor. A
 
 ### Step 4: Plot Each Unit on the Matrix
 
-Place each business unit on a two-by-two grid. The vertical axis represents market growth rate (high at top, low at bottom). The horizontal axis represents relative market share (high at left, low at right). Each unit falls into one of four quadrants: Stars (upper left), Question Marks (upper right), Cash Cows (lower left), or Dogs (lower right). Size the circles proportionally to each unit's revenue contribution to make the visual more informative.
+Place each business unit on a two-by-two grid. The vertical axis represents market growth rate (high at top, low at bottom). The horizontal axis represents relative market share (high at left, low at right). Each unit falls into one of four quadrants: **Star**s (upper left), **Question Mark**s (upper right), **Cash Cow**s (lower left), or **Dog**s (lower right). Size the circles proportionally to each unit's revenue contribution to make the visual more informative.
 
 ### Step 5: Classify and Interpret Each Quadrant
 
@@ -86,7 +86,7 @@ The most dangerous portfolio is one that looks balanced on the surface but lacks
 
 ## Real-World Example
 
-Consider Procter & Gamble's product portfolio in the early 2000s, before its major portfolio restructuring under CEO A.G. Lafley and later David Taylor. P&G operated in categories spanning beauty, grooming, health care, fabric and home care, and baby and family care, with over 170 brands.
+Consider Procter & Gamble's product portfolio in the early 2000s, before its major portfolio restructuring under CEO A.G. Lafley (Lafley & Martin, 2013) and later David (David, 2017) Taylor. P&G operated in categories spanning beauty, grooming, health care, fabric and home care, and baby and family care, with over 170 brands.
 
 **Table 2**
 *Illustrative BCG Classification of Select P&G Business Units (Early 2000s)*
@@ -126,7 +126,7 @@ The 10 percent dividing line is a convention, not a law. In a low-growth economy
 
 ## A Note on Stewardship
 
-Portfolio management is stewardship in its most tangible form. When you plot business units on the BCG Matrix, you are deciding how to allocate resources that affect not just shareholders but communities, employees, and customers whose livelihoods depend on those decisions. Luke 12:48 puts it plainly: "From everyone who has been given much, much will be demanded." A corporation with a diversified portfolio has been given much, and the allocation choices it makes carry proportional weight. Funding a Star while divesting a Dog is not inherently wrong, but the executive who makes that decision bears responsibility for understanding the full consequences. A Dog business unit that employs 200 people in a community with no other major employer is not just a quadrant classification. It is a stewardship question that pure financial analysis cannot answer. The matrix gives you clarity. Your values, and your willingness to account for what you have been given, determine what you do with it.
+**Portfolio management** is stewardship in its most tangible form. When you plot business units on the BCG Matrix, you are deciding how to allocate resources that affect not just shareholders but communities, employees, and customers whose livelihoods depend on those decisions. Luke 12:48 (NIV) puts it plainly: "From everyone who has been given much, much will be demanded." A corporation with a diversified portfolio has been given much, and the allocation choices it makes carry proportional weight. Funding a Star while divesting a Dog is not inherently wrong, but the executive who makes that decision bears responsibility for understanding the full consequences. A Dog business unit that employs 200 people in a community with no other major employer is not just a quadrant classification. It is a stewardship question that pure financial analysis cannot answer. The matrix gives you clarity. Your values, and your willingness to account for what you have been given, determine what you do with it.
 
 ---
 
@@ -155,7 +155,7 @@ Lafley, A. G., & Martin, R. L. (2013). *Playing to win: How strategy really work
 
 Procter & Gamble. (2017). *Annual report 2017*. Procter & Gamble Company.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 

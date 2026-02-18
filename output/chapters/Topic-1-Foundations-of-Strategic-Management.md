@@ -1,4 +1,3 @@
-<!-- CWV: 5 -->
 # Topic 1: Foundations of Strategic Management
 
 Essential Questions
@@ -26,7 +25,7 @@ This pattern — possessing every advantage except the discipline to deploy thos
 By the end of this topic, you will be able to:
 
 - Define **strategic management** and explain why it is critical for organizations of all types and sizes
-- Describe the three stages of the **strategic management process** — formulation, implementation, evaluation — and identify the key activities within each stage
+- Describe the three stages of the strategic management process — formulation, implementation, evaluation — and identify the key activities within each stage
 - Explain the **comprehensive strategic management model** and use it as a framework for organizing strategic analysis
 - Define **competitive advantage** and explain how strategic management helps firms achieve and sustain it
 - Identify who **strategists** are within an organization and describe their roles and responsibilities
@@ -89,6 +88,12 @@ This principle of continuous adaptation distinguishes strategic management from 
 
 Research across multiple industries consistently demonstrates that organizations practicing systematic strategic management outperform those that do not, on both financial and non-financial dimensions (David & David, 2017).
 
+
+**Figure 1.4**
+*Financial and Nonfinancial Benefits of Strategic Management*
+
+![Side-by-side comparison of financial benefits and nonfinancial benefits of strategic management](../graphics/topic-1/fig-1-4-strategy-benefits.png)
+
 The financial benefits are measurable: organizations with formal strategic management processes tend to exhibit higher revenue growth, stronger profitability, and more effective resource utilization than comparable organizations without such processes. However, the non-financial benefits are equally significant and arguably more durable. Strategic management enhances communication across organizational levels by creating a shared vocabulary and a common analytical framework for discussing competitive challenges. It deepens understanding of competitive dynamics among managers who might otherwise focus exclusively on their functional responsibilities. It increases commitment to organizational objectives by involving managers in the process of setting those objectives. It strengthens the organization's ability to prevent problems through proactive environmental scanning rather than reactive crisis management.
 
 The process benefits of strategic management — the organizational learning, cross-functional dialogue, and shared situational awareness that emerge from the process itself — are as important as the strategic outcomes the process produces. An organization can derive significant value from a strategic management process even when the resulting strategy proves imperfect, because the process itself builds organizational capability for future strategic challenges.
@@ -104,6 +109,12 @@ Perhaps the most damaging pitfall is the absence of top management support. When
 ## The Comprehensive Strategic Management Model
 
 The **comprehensive strategic management model** provides a visual framework showing the flow from vision and mission development through external and internal analysis, strategy formulation, strategy implementation, and strategy evaluation, with feedback loops connecting each stage to the others. This model serves as the backbone of this course. Every tool, framework, and case analysis you encounter operates within this model's logic.
+
+
+**Figure 1.1**
+*Comprehensive Strategic Management Model*
+
+![Flowchart showing the three stages of **strategic management:** formulation, implementation, and evaluation with feedback loops](../graphics/topic-1/fig-1-1-sm-model.png)
 
 The model illustrates several critical features of the strategic management process. First, it begins with vision and mission — the organization's foundational identity drives everything that follows. Second, external analysis (opportunities and threats) and internal analysis (strengths and weaknesses) feed simultaneously into strategy formulation, ensuring that strategic choices reflect both environmental reality and organizational capability. Third, implementation translates formulated strategies into organizational action through annual objectives, policies, and resource allocation. Fourth, evaluation reviews performance and feeds back into every prior stage, creating a continuous improvement cycle. Fifth, the arrows connecting stages flow in both directions, reflecting the iterative nature of the process.
 
@@ -147,13 +158,19 @@ The critical insight for strategic management practitioners is that competitive 
 
 ## Vision Statements and Mission Statements
 
+
+**Figure 1.2**
+*From Vision to Competitive Advantage*
+
+![Cascade diagram showing vision flowing through mission, objectives, strategies, and policies to competitive advantage](../graphics/topic-1/fig-1-2-vision-cascade.png)
+
 ### Vision Statements
 
 A **vision statement** answers the question: What do we want to become? It describes the organization's desired future state — a short, aspirational declaration of what the organization is striving toward over a defined time horizon. The vision creates directional pull, aligning organizational energy toward a shared aspiration rather than allowing individual business units or functional areas to pursue divergent objectives.
 
 Effective vision statements are developed collaboratively rather than imposed by a single leader. They are broad enough to accommodate multiple strategic paths but specific enough to provide meaningful direction. They are future-oriented, describing what the organization aspires to become rather than what it currently is. The vision serves as the foundation upon which the mission statement builds.
 
-The importance of vision in organizational life is not a modern management invention. Proverbs 29:18 observes that "where there is no vision, the people perish" — a principle that translates directly into strategic practice. Organizations without a compelling vision do not simply stagnate; they fragment. Individual leaders pursue competing priorities, resources scatter across uncoordinated initiatives, and the organization loses the directional coherence that separates strategic movement from organizational drift.
+The importance of vision in organizational life is not a modern management invention. Proverbs 29:18 (NIV) observes that "where there is no vision, the people perish" — a principle that translates directly into strategic practice. Organizations without a compelling vision do not simply stagnate; they fragment. Individual leaders pursue competing priorities, resources scatter across uncoordinated initiatives, and the organization loses the directional coherence that separates strategic movement from organizational drift.
 
 ### Mission Statements
 
@@ -256,6 +273,12 @@ However, a code of ethics is only as effective as the organizational culture tha
 
 The **triple bottom line** framework evaluates organizational success across three dimensions: People, Planet, and Profit. Traditional financial accounting measures only the profit dimension. The triple bottom line argues that long-term organizational viability requires attention to social impact (People) and environmental impact (Planet) alongside financial performance.
 
+
+**Figure 1.3**
+*The Triple Bottom Line Framework*
+
+![Three overlapping circles showing profit, people, and planet dimensions of sustainability](../graphics/topic-1/fig-1-3-triple-bottom-line.png)
+
 Organizations increasingly produce **sustainability reports** that document their performance across **ESG** criteria — Environmental, Social, and Governance factors. ESG reporting has migrated from a voluntary public relations exercise to a strategic requirement, as investors, regulators, and customers use ESG metrics to evaluate organizational risk and commitment to sustainable practices.
 
 ### Ethics Across All Three Stages
@@ -269,6 +292,12 @@ The **Foreign Corrupt Practices Act (FCPA)** is a United States federal law that
 ### Ethical Decision-Making Frameworks
 
 Strategic leaders benefit from structured approaches to ethical reasoning. Three frameworks are commonly applied in business contexts:
+
+
+**Figure 1.5**
+*Business Ethics Decision Framework*
+
+![Decision tree showing ethical analysis process for strategic decisions](../graphics/topic-1/fig-1-5-ethics-framework.png)
 
 **Utilitarianism** evaluates ethical decisions based on consequences: the right action is the one that produces the greatest overall good for the greatest number of people. This framework is intuitive and widely used in business, but it carries a significant limitation — it can justify harm to a minority if that harm produces benefits for a majority.
 
@@ -342,7 +371,7 @@ Strategic management is not a morally neutral discipline. Every strategic decisi
 
 The concept of **stewardship** offers a framework for integrating ethical reasoning into strategic management practice. Stewardship begins with the recognition that organizational resources — financial capital, human talent, market position, community trust, environmental capacity — are entrusted rather than owned. The leader who views organizational resources as personal assets to be exploited for maximum return makes different strategic decisions than the leader who views those same resources as a trust to be managed faithfully on behalf of multiple stakeholders across multiple time horizons.
 
-James 1:5 speaks directly to the posture required for strategic leadership: "If any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him." Strategic management requires wisdom — not merely intelligence, not merely analytical skill, but the capacity to discern what is right when the data is ambiguous, the stakeholders are conflicting, and the consequences are irreversible. The Christian strategic leader operates with the confidence that wisdom is available and the humility to acknowledge that every strategic decision carries moral weight beyond what any matrix or model can capture.
+James 1:5 (NIV) speaks directly to the posture required for strategic leadership: "If any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him." Strategic management requires wisdom — not merely intelligence, not merely analytical skill, but the capacity to discern what is right when the data is ambiguous, the stakeholders are conflicting, and the consequences are irreversible. The Christian strategic leader operates with the confidence that wisdom is available and the humility to acknowledge that every strategic decision carries moral weight beyond what any matrix or model can capture.
 
 This posture does not produce easy answers. It produces leaders who ask harder questions — who interrogate not only whether a strategy will work but whether it should be pursued, who consider not only shareholder return but human consequence, who measure success not only in market share but in faithfulness to the responsibilities entrusted to their care.
 
@@ -643,3 +672,5 @@ Statista. (2023). Nokia's global smartphone market share from 2007 to 2013. *Sta
 Sull, D., Homkes, R., & Sull, C. (2015). Why strategy execution unravels — and what to do about it. *Harvard Business Review, 93*(3), 58-66.
 
 Vuori, T. O., & Huy, Q. N. (2016). Distributed attention and shared emotions in the innovation process: How Nokia lost the smartphone battle. *Administrative Science Quarterly, 61*(1), 9-51.
+
+New International Version Bible. (2011). Zondervan. (Original work published 1978)

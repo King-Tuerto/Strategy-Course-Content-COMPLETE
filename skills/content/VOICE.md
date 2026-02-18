@@ -177,6 +177,17 @@ Don't shoehorn scripture into every section. If a biblical principle doesn't gen
 
 These are gimmicks. Students see through them. When in doubt, leave it out.
 
+### Scripture Citation Format (GCU/APA Requirement)
+
+All scripture quotations must include the translation version (e.g., NIV, ESV) and follow APA formatting for sacred/classical works. The default translation for this project is the **New International Version (NIV)** unless otherwise specified.
+
+**In-text citation format:** (Book Chapter:Verse, Translation)
+- Example: (Proverbs 28:13, New International Version)
+- After first use of the same translation in a piece, abbreviate: (Proverbs 28:13, NIV)
+
+**References entry (include once per piece that quotes scripture):**
+- New International Version Bible. (2011). Zondervan. (Original work published 1978)
+
 ### Scripture Reference Bank
 
 To prevent repetition across content, draw from this diverse bank of passages organized by strategic theme. Do NOT reuse the same passage across multiple pieces of content. Track which references have already been used in prior tool guides, chapters, and cases, and select a different one each time.
@@ -379,6 +390,13 @@ GCU requires content that is "unpretentious yet academic throughout, avoiding ja
 
 - Do not include links to sources outside GCU unless pre-approved
 - Cite external sources in the References section instead of linking
+
+### Block Quotes (GCU/APA Requirement)
+
+- Direct quotations of 40 or more words must appear in a freestanding indented block without quotation marks
+- Start the block on a new line, indented approximately half an inch from the left margin
+- Use block quotes sparingly — the majority of content should be the author's original analysis
+- Include the in-text citation at the end of the block quote
 
 ### GenAI Content Verification (GCU Requirement)
 

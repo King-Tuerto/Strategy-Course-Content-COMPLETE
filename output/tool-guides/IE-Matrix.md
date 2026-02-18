@@ -2,11 +2,11 @@
 
 ## What This Tool Does
 
-The **Internal-External (IE) Matrix** plots a firm's divisions or business units on a nine-cell grid based on two scores already calculated: the IFE total weighted score (horizontal axis) and the EFE total weighted score (vertical axis). Each cell maps to one of three strategic prescriptions — grow and build, hold and maintain, or harvest and divest. The IE Matrix takes the work you have already done in the IFE and EFE and converts it into a strategic direction for each business unit. For a multi-division firm, it provides a portfolio-level view that shows which divisions deserve investment and which should be managed for cash or exited.
+The **Internal-External (IE) Matrix** plots a firm's divisions or business units on a **nine-cell grid** based on two scores already calculated: the IFE total weighted score (horizontal axis) and the EFE total weighted score (vertical axis). Each cell maps to one of three strategic prescriptions — grow and build, hold and maintain, or harvest and divest. The IE Matrix takes the work you have already done in the IFE and EFE and converts it into a strategic direction for each business unit. For a multi-division firm, it provides a portfolio-level view that shows which divisions deserve investment and which should be managed for cash or exited.
 
 ## When to Use It
 
-Use the IE Matrix during the matching stage of strategy formulation, after you have completed both the IFE Matrix and the EFE Matrix for each division or business unit being analyzed. The IE Matrix depends entirely on those two inputs — without completed IFE and EFE scores, you cannot plot anything. It is typically used alongside the SWOT Matrix and Grand Strategy Matrix as a matching tool that translates analytical scores into strategic direction. For diversified firms with multiple divisions, the IE Matrix functions similarly to the BCG Matrix but uses a richer data foundation (weighted factor scores rather than just market growth and market share).
+Use the IE Matrix during the matching stage of strategy formulation (David & David, 2017), after you have completed both the IFE Matrix and the EFE Matrix for each division or business unit being analyzed. The IE Matrix depends entirely on those two inputs — without completed IFE and EFE scores, you cannot plot anything. It is typically used alongside the SWOT Matrix and Grand Strategy Matrix as a matching tool that translates analytical scores into strategic direction. For diversified firms with multiple divisions, the IE Matrix functions similarly to the BCG Matrix but uses a richer data foundation (weighted factor scores rather than just market growth and market share).
 
 ## Before You Start
 
@@ -56,13 +56,13 @@ The nine cells map to three strategic regions:
 
 ### Step 5: Evaluate Portfolio Balance
 
-Step back and assess the portfolio as a whole. A healthy portfolio has the majority of revenue concentrated in the Grow and Build or Hold and Maintain regions, with minimal revenue trapped in the Harvest or Divest region. An unhealthy portfolio shows significant revenue in Cells VI, VIII, or IX — capital and management attention locked into divisions that the analysis says should be shrinking or exiting.
+Step back and assess the **portfolio balance** as a whole. A healthy portfolio has the majority of revenue concentrated in the Grow and Build or Hold and Maintain regions, with minimal revenue trapped in the Harvest or Divest region. An unhealthy portfolio shows significant revenue in Cells VI, VIII, or IX — capital and management attention locked into divisions that the analysis says should be shrinking or exiting.
 
-Compare the IE Matrix portfolio view to the BCG Matrix. The two tools should tell a broadly consistent story. If they contradict each other for a specific division, investigate the discrepancy — it usually points to an assumption in one analysis that needs reexamination.
+Compare the IE Matrix portfolio view to the BCG Matrix (Hitt et al., 2020). The two tools should tell a broadly consistent story. If they contradict each other for a specific division, investigate the discrepancy — it usually points to an assumption in one analysis that needs reexamination.
 
 ### Step 6: Develop Division-Level Strategic Recommendations
 
-For each division, translate the strategic region into specific actionable recommendations. A division in Cell I (strong IFE, high EFE) with a large revenue circle warrants the most aggressive investment. A division in Cell IX (weak IFE, low EFE) with a small revenue circle is the most straightforward divestiture candidate. The harder decisions involve divisions in the Hold and Maintain region — these require judgment about whether the division is trending toward Grow and Build or sliding toward Harvest and Divest, which the static matrix alone cannot answer.
+For each division, translate the **strategic region** into specific actionable recommendations. A division in Cell I (strong IFE, high EFE) with a large revenue circle warrants the most aggressive investment. A division in Cell IX (weak IFE, low EFE) with a small revenue circle is the most straightforward divestiture candidate. The harder decisions involve divisions in the Hold and Maintain region — these require judgment about whether the division is trending toward Grow and Build or sliding toward Harvest and Divest, which the static matrix alone cannot answer.
 
 ---
 
@@ -119,7 +119,7 @@ The hardest decisions in the IE Matrix involve divisions that generate significa
 
 ## Real-World Example
 
-Consider General Electric in the mid-2010s, before its major restructuring under CEO John Flannery and later Larry Culp. GE operated across multiple divisions with dramatically different competitive positions and external environments.
+Consider General Electric (General Electric, 2016) in the mid-2010s, before its major restructuring under CEO John Flannery and later Larry Culp. GE operated across multiple divisions with dramatically different competitive positions and external environments.
 
 **Table 2**
 *Illustrative IE Matrix Scores for Select GE Divisions (Mid-2010s)*
@@ -155,7 +155,7 @@ A diversified firm with multiple divisions operating in different industries can
 A division with an IFE score of 2.95 and an EFE score of 2.95 sits in Cell V (Hold and Maintain), just barely missing Cell I (Grow and Build). The 0.05 difference in scores does not represent a meaningful strategic distinction. Divisions near the boundaries between regions should be evaluated with strategies from both adjacent regions in mind. The lines on the grid are conventions, not cliffs.
 
 **Mistake 4: Ignoring Circle Size in Portfolio Analysis**
-The proportional circles represent revenue (or profit) contribution and carry critical strategic information. A small circle in Cell IX is a straightforward divestiture. A large circle in Cell IX is a strategic emergency. The size of the circle determines the urgency and difficulty of the strategic action, not just the direction.
+The **proportional circles** represent revenue (or profit) contribution and carry critical strategic information. A small circle in Cell IX is a straightforward divestiture. A large circle in Cell IX is a strategic emergency. The size of the circle determines the urgency and difficulty of the strategic action, not just the direction.
 
 **Mistake 5: Failing to Compare the IE Matrix with the BCG Matrix**
 The IE Matrix and BCG Matrix should produce broadly consistent portfolio assessments. A division that appears as a Star in the BCG Matrix should generally fall in the Grow and Build region of the IE Matrix. If a division is a Cash Cow on the BCG but sits in Harvest or Divest on the IE Matrix, something is wrong with one of the analyses — possibly the IFE or EFE data, possibly the BCG assumptions about market share and growth. Use the discrepancy as a diagnostic signal, not as a reason to pick whichever answer is more comfortable.
@@ -164,7 +164,7 @@ The IE Matrix and BCG Matrix should produce broadly consistent portfolio assessm
 
 ## A Note on Faithful Stewardship of Resources
 
-The IE Matrix confronts leaders with a specific kind of stewardship decision: how to allocate finite resources across divisions that compete for attention, capital, and talent. The matrix makes the case analytically — some divisions warrant investment, others warrant harvesting, and some should be exited. But acting on those conclusions requires more than analytical skill. It requires the willingness to follow the evidence even when it leads to difficult decisions. Paul's letter to the Corinthians captures the standard plainly: "Now it is required that those who have been given a trust must prove faithful" (1 Corinthians 4:2). Faithfulness in organizational stewardship means directing resources where they can produce the greatest good and withdrawing them from where they cannot — not because the decision is easy, but because the trust demands it. A leader who continues to fund a Cell IX division out of sentimentality or political convenience is not being kind. That leader is misallocating resources that could be strengthening a Cell I division or investing in the organization's future. The IE Matrix does not make this decision painless. But it clarifies the choice and removes the excuse of ignorance. Once you know where your divisions stand, what you do with that knowledge becomes a question of character.
+The IE Matrix confronts leaders with a specific kind of stewardship decision: how to allocate finite resources across divisions that compete for attention, capital, and talent. The matrix makes the case analytically — some divisions warrant investment, others warrant harvesting, and some should be exited. But acting on those conclusions requires more than analytical skill. It requires the willingness to follow the evidence even when it leads to difficult decisions. Paul's letter to the Corinthians captures the standard plainly: "Now it is required that those who have been given a trust must prove faithful" (1 Corinthians 4:2, NIV). Faithfulness in organizational stewardship means directing resources where they can produce the greatest good and withdrawing them from where they cannot — not because the decision is easy, but because the trust demands it. A leader who continues to fund a Cell IX division out of sentimentality or political convenience is not being kind. That leader is misallocating resources that could be strengthening a Cell I division or investing in the organization's future. The IE Matrix does not make this decision painless. But it clarifies the choice and removes the excuse of ignorance. Once you know where your divisions stand, what you do with that knowledge becomes a question of character.
 
 ---
 
@@ -191,7 +191,7 @@ Gryta, T., & Mann, T. (2020). *Lights out: Pride, delusion, and the fall of Gene
 
 Hitt, M. A., Ireland, R. D., & Hoskisson, R. E. (2020). *Strategic management: Competitiveness and globalization* (13th ed.). Cengage Learning.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 

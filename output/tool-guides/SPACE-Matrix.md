@@ -2,11 +2,11 @@
 
 ## What This Tool Does
 
-The **Strategic Position and Action Evaluation (SPACE) Matrix** determines an organization's appropriate strategic posture by evaluating four dimensions: two internal (financial position and competitive advantage) and two external (environmental stability and industry strength). Each dimension is scored, and the scores are plotted on a four-axis graph that identifies one of four strategic postures — aggressive, competitive, conservative, or defensive. The SPACE Matrix answers a question that other tools in the framework do not directly address: What kind of strategic behavior does our overall situation call for? Not which specific strategy to choose, but whether the organization should be attacking, defending, preserving, or competing.
+The Strategic Position and Action Evaluation (SPACE) Matrix (David & David, 2017) determines an organization's appropriate strategic posture by evaluating four dimensions: two internal (financial position and competitive advantage) and two external (environmental stability and industry strength). Each dimension is scored, and the scores are plotted on a four-axis graph that identifies one of four strategic postures — aggressive, competitive, conservative, or defensive. The **SPACE Matrix** answers a question that other tools in the framework do not directly address: What kind of strategic behavior does our overall situation call for? Not which specific strategy to choose, but whether the organization should be attacking, defending, preserving, or competing.
 
 ## When to Use It
 
-Use the SPACE Matrix during the matching stage of strategy formulation, after the input-stage tools (EFE, IFE, CPM) have been completed and before final strategy selection tools like the QSPM. The SPACE Matrix complements the SWOT, IE, and Grand Strategy matrices by providing a different angle on strategic direction — one grounded in financial capacity, competitive standing, industry attractiveness, and environmental volatility rather than in the specific factors those other tools analyze. It is particularly useful when leadership disagrees about how aggressive the firm's strategy should be, because it forces an evidence-based assessment of whether the organization's situation actually supports an aggressive posture or demands a more conservative or defensive one.
+Use the SPACE Matrix during the matching stage of strategy formulation, after the input-stage tools (EFE, IFE, CPM) have been completed and before final strategy selection tools like the QSPM. The SPACE Matrix complements the SWOT, IE, and Grand Strategy matrices (Hitt et al., 2020) by providing a different angle on strategic direction — one grounded in financial capacity, competitive standing, industry attractiveness, and environmental volatility rather than in the specific factors those other tools analyze. It is particularly useful when leadership disagrees about how aggressive the firm's strategy should be, because it forces an evidence-based assessment of whether the organization's situation actually supports an **aggressive posture** or demands a more conservative or defensive one.
 
 ## Before You Start
 
@@ -79,7 +79,7 @@ For each dimension, sum all factor scores and divide by the number of factors to
 
 ### Step 4: Calculate the Directional Vector Coordinates
 
-The SPACE Matrix uses a four-axis chart (like a compass). To determine where the directional vector points, calculate two coordinates:
+The SPACE Matrix uses a four-axis chart (like a compass). To determine where the **directional vector** points, calculate two coordinates:
 
 **X-axis coordinate** = CA average + IS average
 (This combines the two dimensions that determine horizontal position)
@@ -95,8 +95,8 @@ If FP average = +5.0 and ES average = -4.5, the Y-coordinate is +0.5.
 On a four-axis chart with the origin at (0, 0), plot the point at the (X, Y) coordinates calculated in Step 4. Draw an arrow from the origin to that point. The quadrant in which the arrow falls determines the firm's recommended strategic posture:
 
 - **Quadrant I (upper right, X positive, Y positive):** Aggressive posture
-- **Quadrant II (upper left, X negative, Y positive):** Conservative posture
-- **Quadrant III (lower left, X negative, Y negative):** Defensive posture
+- **Quadrant II (upper left, X negative, Y positive):** **Conservative posture**
+- **Quadrant III (lower left, X negative, Y negative):** **Defensive posture**
 - **Quadrant IV (lower right, X positive, Y negative):** Competitive posture
 
 ### Step 6: Interpret the Strategic Posture and Select Appropriate Strategies
@@ -118,7 +118,7 @@ Each posture maps to a set of strategic alternatives. The length and direction o
 | Industry Strength (IS) | External | +1 to +7 | +1 = weakest, +7 = strongest |
 
 **Table 2**
-*SPACE Matrix Strategic Postures and Recommended Strategies*
+*SPACE Matrix **Strategic Posture**s and Recommended Strategies*
 
 | Posture | Quadrant | X-Axis | Y-Axis | Characteristics | Appropriate Strategies |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@ Consider Netflix in 2012, during the period when the company was transitioning f
 | Resource utilization potential (global scalability) | +6 |
 | **IS Average** | **+5.2** |
 
-**Calculating the Vector:**
+Calculating the Vector:
 - X-axis = CA average + IS average = (-2.8) + (+5.2) = **+2.4**
 - Y-axis = FP average + ES average = (+3.2) + (-3.8) = **-0.6**
 
@@ -235,7 +235,7 @@ The SPACE Matrix is a snapshot. Financial positions change, competitive advantag
 
 ## A Note on Strategic Integrity
 
-The SPACE Matrix reveals not just what strategy to pursue but what kind of strategic behavior the organization's situation honestly supports. The temptation is to manipulate the scores until the vector points where leadership wants it to point — typically toward the aggressive quadrant, because aggressive sounds like winning and defensive sounds like losing. But a defensive posture honestly assessed is not failure. It is recognition that the organization's current situation calls for preservation and rebuilding rather than expansion. Micah 6:8 provides a standard that applies directly to this kind of organizational self-assessment: "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God." Walking humbly with the data means accepting the posture the analysis reveals, not the one the ego prefers. Acting justly means allocating resources based on honest assessment rather than political convenience. And loving mercy means treating the people affected by strategic decisions — employees, customers, communities — as stakeholders whose welfare deserves consideration, even when the posture is defensive and the decisions are painful. The SPACE Matrix works best when the people using it value truth more than comfort.
+The SPACE Matrix reveals not just what strategy to pursue but what kind of strategic behavior the organization's situation honestly supports. The temptation is to manipulate the scores until the vector points where leadership wants it to point — typically toward the aggressive quadrant, because aggressive sounds like winning and defensive sounds like losing. But a defensive posture honestly assessed is not failure. It is recognition that the organization's current situation calls for preservation and rebuilding rather than expansion. Micah 6:8 (NIV) provides a standard that applies directly to this kind of organizational self-assessment: "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God." Walking humbly with the data means accepting the posture the analysis reveals, not the one the ego prefers. Acting justly means allocating resources based on honest assessment rather than political convenience. And loving mercy means treating the people affected by strategic decisions — employees, customers, communities — as stakeholders whose welfare deserves consideration, even when the posture is defensive and the decisions are painful. The SPACE Matrix works best when the people using it value truth more than comfort.
 
 ---
 
@@ -265,7 +265,7 @@ Rowe, A. J., Mason, R. O., Dickel, K. E., Mann, R. B., & Mockler, R. J. (1994). 
 
 Thompson, A. A., Peteraf, M. A., Gamble, J. E., & Strickland, A. J. (2022). *Crafting and executing strategy: The quest for competitive advantage* (23rd ed.). McGraw-Hill Education.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 

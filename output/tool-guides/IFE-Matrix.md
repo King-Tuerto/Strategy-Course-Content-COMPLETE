@@ -2,11 +2,11 @@
 
 ## What This Tool Does
 
-The **Internal Factor Evaluation (IFE) Matrix** provides a structured method for identifying, categorizing, and weighing an organization's key internal strengths and weaknesses. It converts subjective assessments of internal capabilities into a quantitative summary score between 1.0 and 4.0 that reveals how strong or weak the organization's overall internal position is. The IFE Matrix forces the kind of honest internal inventory that most leadership teams avoid — and that every credible strategy depends on.
+The **Internal Factor Evaluation (IFE) Matrix** (David & David, 2017) provides a structured method for identifying, categorizing, and weighing an organization's key internal strengths and weaknesses. It converts subjective assessments of internal capabilities into a quantitative summary score between 1.0 and 4.0 that reveals how strong or weak the organization's overall internal position is. The IFE Matrix forces the kind of honest internal inventory that most leadership teams avoid — and that every credible strategy depends on.
 
 ## When to Use It
 
-Use the IFE Matrix during the strategy formulation stage, specifically during internal analysis. It should follow internal auditing work — functional area assessments across management, marketing, finance, production, research and development, and management information systems — and should precede tools that require internal positioning data, such as the Internal-External (IE) Matrix, the SWOT Matrix, or the Quantitative Strategic Planning Matrix (QSPM). The IFE Matrix is most useful when an organization needs to move beyond anecdotal claims about what it does well and where it struggles, toward a disciplined evaluation of which internal factors carry the most strategic weight.
+Use the IFE Matrix during the strategy formulation stage, specifically during internal analysis. It should follow internal auditing work — functional area assessments across management, marketing, finance, production, research and development, and management information systems — and should precede tools that require internal positioning data, such as the Internal-External (IE) Matrix, the SWOT Matrix, or the Quantitative Strategic Planning Matrix (QSPM). The IFE Matrix is most useful when an organization needs to move beyond anecdotal claims about what it does well and where it struggles, toward a disciplined evaluation of which internal factors carry the most strategic weight (Hitt et al., 2020).
 
 ## Before You Start
 
@@ -22,7 +22,7 @@ Use the IFE Matrix during the strategy formulation stage, specifically during in
 
 ### Step 1: Identify Key Internal Factors
 
-List 15 to 20 internal factors, divided between strengths and weaknesses. These should be specific and grounded in evidence, not aspirational. Each factor should represent an internal capability, resource, or condition that materially affects the organization's ability to compete.
+List 15 to 20 internal factors, divided between strengths and weaknesses. These should be specific and grounded in evidence, not aspirational. Each **key internal factor** should represent an internal capability, resource, or condition that materially affects the organization's ability to compete.
 
 Weak factor: "Good management."
 Strong factor: "Executive team averages 18 years of industry experience, with turnover below 5% annually over the past decade."
@@ -41,24 +41,24 @@ The most common error here is assigning higher weights to strengths and lower we
 
 Assign a rating between 1 and 4 to each factor:
 
-- **4** = major strength
+- **4** = **major strength**
 - **3** = minor strength
 - **2** = minor weakness
-- **1** = major weakness
+- **1** = **major weakness**
 
-Strengths must receive ratings of 3 or 4. Weaknesses must receive ratings of 1 or 2. There is no middle ground. A factor is either a strength or a weakness — the rating determines how significant it is within that category.
+**Strength**s must receive ratings of 3 or 4. **Weakness**es must receive ratings of 1 or 2. There is no middle ground. A factor is either a strength or a weakness — the rating determines how significant it is within that category.
 
 Unlike the EFE Matrix, where ratings reflect the firm's response to external conditions, IFE ratings reflect the firm's actual internal position. A rating of 4 means the capability is a decisive competitive advantage. A rating of 1 means the deficiency is a serious competitive liability.
 
 ### Step 4: Calculate Weighted Scores
 
-Multiply each factor's weight by its rating to produce a weighted score. This calculation combines "how important is this capability in our industry?" with "how strong or weak is our firm on this factor?" into a single number per line item.
+Multiply each factor's weight by its rating to produce a **weighted score**. This calculation combines "how important is this capability in our industry?" with "how strong or weak is our firm on this factor?" into a single number per line item.
 
 For example, a strength weighted at 0.10 with a rating of 4 produces a weighted score of 0.40. A weakness weighted at 0.12 with a rating of 1 produces a weighted score of 0.12.
 
 ### Step 5: Sum the Weighted Scores
 
-Add all individual weighted scores to produce a total weighted score. This summary number characterizes the firm's overall internal strategic position.
+Add all individual weighted scores to produce a **total weighted score**. This summary number characterizes the firm's overall internal strategic position.
 
 ### Step 6: Interpret the Total Weighted Score
 
@@ -69,7 +69,7 @@ The total weighted score ranges from 1.0 to 4.0, with 2.5 as the midpoint. A sco
 ## Scoring Guide
 
 **Table 1**
-*IFE Matrix Rating Scale*
+*IFE Matrix **Rating** Scale*
 
 | Rating | Classification | Meaning |
 |---|---|---|
@@ -79,7 +79,7 @@ The total weighted score ranges from 1.0 to 4.0, with 2.5 as the midpoint. A sco
 | 1 | Major weakness | A serious internal deficiency that significantly impairs competitive performance |
 
 **Table 2**
-*IFE Matrix Weight Guidelines*
+*IFE Matrix **Weight** Guidelines*
 
 | Weight Range | Interpretation |
 |---|---|
@@ -94,13 +94,13 @@ The total weighted score ranges from 1.0 to 4.0, with 2.5 as the midpoint. A sco
 
 The total weighted score provides a single-number summary of internal strategic position. Use it as a starting point, then drill into the line items.
 
-**If your total weighted score is 3.0 to 4.0:** The organization has a strong internal position. Key capabilities provide meaningful competitive advantages, and weaknesses are either minor or confined to low-importance areas. This does not mean the firm can become complacent. Internal strengths erode over time if they are not maintained and invested in. Competitors study your advantages and work to neutralize them. A score in this range means the internal foundation is solid — not that it will remain so without continued attention.
+If your total weighted score is 3.0 to 4.0: The organization has a strong internal position. Key capabilities provide meaningful competitive advantages, and weaknesses are either minor or confined to low-importance areas. This does not mean the firm can become complacent. Internal strengths erode over time if they are not maintained and invested in. Competitors study your advantages and work to neutralize them. A score in this range means the internal foundation is solid — not that it will remain so without continued attention.
 
-**If your total weighted score is 2.5 to 2.99:** The internal position is adequate but not distinctive. The firm has some strengths but they are offset by meaningful weaknesses or concentrated in lower-importance areas. Look at the highest-weighted factors and examine where ratings fall. Even modest improvements on heavily weighted weaknesses can shift the total score and, more importantly, shift competitive positioning. This range often characterizes firms that are competent but not differentiated.
+If your total weighted score is 2.5 to 2.99: The internal position is adequate but not distinctive. The firm has some strengths but they are offset by meaningful weaknesses or concentrated in lower-importance areas. Look at the highest-weighted factors and examine where ratings fall. Even modest improvements on heavily weighted weaknesses can shift the total score and, more importantly, shift competitive positioning. This range often characterizes firms that are competent but not differentiated.
 
-**If your total weighted score is 2.0 to 2.49:** The organization's internal position is weak. Weaknesses dominate the profile, particularly in high-importance areas. This score should prompt a focused internal improvement initiative. Identify the highest-weighted factors rated 1 or 2 — these represent the capabilities that matter most in the industry and where the firm is falling short. Strategic plans built on a weak internal foundation are plans built on sand.
+If your total weighted score is 2.0 to 2.49: The organization's internal position is weak. Weaknesses dominate the profile, particularly in high-importance areas. This score should prompt a focused internal improvement initiative. Identify the highest-weighted factors rated 1 or 2 — these represent the capabilities that matter most in the industry and where the firm is falling short. Strategic plans built on a weak internal foundation are plans built on sand.
 
-**If your total weighted score is 1.0 to 1.99:** The organization is in serious internal distress. The firm lacks the basic capabilities required to compete effectively in its industry. This score typically points to systemic problems — leadership deficiencies, chronic underinvestment, organizational dysfunction, or a fundamental misalignment between the firm's capabilities and the requirements of its market. Recovery requires honest diagnosis and likely significant organizational change.
+If your total weighted score is 1.0 to 1.99: The organization is in serious internal distress. The firm lacks the basic capabilities required to compete effectively in its industry. This score typically points to systemic problems — leadership deficiencies, chronic underinvestment, organizational dysfunction, or a fundamental misalignment between the firm's capabilities and the requirements of its market. Recovery requires honest diagnosis and likely significant organizational change.
 
 One insight students consistently miss: the total weighted score is most useful when compared across time or across competitors. A single score in isolation tells you where you stand. A score compared to last year tells you whether you are improving or declining. A score compared to a key competitor tells you where your internal advantages and vulnerabilities actually lie.
 
@@ -162,7 +162,7 @@ One person's view of an organization's strengths and weaknesses is one person's 
 
 ## A Note on Honest Self-Assessment
 
-The IFE Matrix asks organizations to do something that does not come naturally: tell the truth about themselves. Every leadership team has incentives to overstate strengths and minimize weaknesses, whether to reassure boards, motivate employees, or protect individual reputations. The tool is designed to cut through this tendency, but it only succeeds if the people using it are committed to honesty over comfort. Jeremiah 17:9 captures the core difficulty: "The heart is deceitful above all things, and desperately sick; who can understand it?" Applied to organizational life, the principle is direct. Leaders deceive themselves about their organizations for the same reasons individuals deceive themselves about their character — because the truth is uncomfortable, and self-deception is immediately rewarding even when it is ultimately destructive. The IFE Matrix does not eliminate self-deception. But it creates a structured process that makes self-deception harder to sustain, because it forces specific claims (this is a strength, this is a weakness) attached to specific weights (this is how much it matters) and specific ratings (this is how significant it is). When those claims are examined by a team rather than an individual, the worst distortions tend to surface. The tool works best when the people using it want to know the truth more than they want to feel good about the answer.
+The IFE Matrix asks organizations to do something that does not come naturally: tell the truth about themselves. Every leadership team has incentives to overstate strengths and minimize weaknesses, whether to reassure boards, motivate employees, or protect individual reputations. The tool is designed to cut through this tendency, but it only succeeds if the people using it are committed to honesty over comfort. Jeremiah 17:9 (NIV) captures the core difficulty: "The heart is deceitful above all things, and desperately sick; who can understand it?" Applied to organizational life, the principle is direct. Leaders deceive themselves about their organizations for the same reasons individuals deceive themselves about their character — because the truth is uncomfortable, and self-deception is immediately rewarding even when it is ultimately destructive. The IFE Matrix does not eliminate self-deception. But it creates a structured process that makes self-deception harder to sustain, because it forces specific claims (this is a strength, this is a weakness) attached to specific weights (this is how much it matters) and specific ratings (this is how significant it is). When those claims are examined by a team rather than an individual, the worst distortions tend to surface. The tool works best when the people using it want to know the truth more than they want to feel good about the answer.
 
 ---
 
@@ -192,7 +192,7 @@ Hitt, M. A., Ireland, R. D., & Hoskisson, R. E. (2020). *Strategic management: C
 
 Thompson, A. A., Peteraf, M. A., Gamble, J. E., & Strickland, A. J. (2022). *Crafting and executing strategy: The quest for competitive advantage* (23rd ed.). McGraw-Hill Education.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 

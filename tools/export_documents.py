@@ -32,7 +32,7 @@ from PIL import Image
 
 # ── Paths ───────────────────────────────────────────────────────────────
 
-CHAPTERS_DIR = os.path.join(PROJECT_ROOT, 'output', 'chapters-with-figures')
+CHAPTERS_DIR = os.path.join(PROJECT_ROOT, 'output', 'chapters')
 GRAPHICS_DIR = os.path.join(PROJECT_ROOT, 'output', 'graphics')
 OUTPUT_DOCX = os.path.join(PROJECT_ROOT, 'output', 'Strategy-Course-Complete.docx')
 OUTPUT_PDF = os.path.join(PROJECT_ROOT, 'output', 'Strategy-Course-Complete.pdf')

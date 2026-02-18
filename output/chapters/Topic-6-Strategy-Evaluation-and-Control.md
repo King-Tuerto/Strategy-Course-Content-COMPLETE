@@ -1,6 +1,13 @@
-<!-- CWV: 5 -->
-
 # Topic 6: Strategy Evaluation and Control
+
+Essential Questions
+
+- Why does strategy evaluation complete the strategic management process as a continuous loop rather than a terminal step, and what happens to organizations that treat formulation and implementation as sufficient without systematic feedback?
+- How do the three evaluation activities — reviewing bases, measuring performance, and taking corrective action — function as an integrated diagnostic sequence, and why is the failure to act on findings the most common and most damaging evaluation breakdown?
+- What distinguishes an evaluation system that relies on trailing financial indicators from one that uses the Balanced Scorecard's multiple perspectives, and why does that distinction determine whether strategic problems are detected early enough for effective correction?
+- How do Rumelt's four criteria — consistency, consonance, feasibility, and advantage — provide a framework for testing strategic soundness before performance data confirms or denies success, and what makes consonance the most externally vulnerable of the four?
+
+---
 
 ## Opening
 
@@ -19,8 +26,8 @@ This topic examines strategy evaluation and control — the third and final stag
 By the end of this topic, you will be able to:
 
 1. Describe the nature and importance of strategy evaluation as the final stage of strategic management
-2. Explain the three fundamental evaluation activities: reviewing bases, measuring performance, and taking corrective actions
-3. Describe Rumelt's four criteria for strategy evaluation: consistency, consonance, feasibility, and advantage
+2. Explain the three fundamental evaluation activities: **reviewing bases**, measuring performance, and taking corrective actions
+3. Describe Rumelt's (1980) four criteria for strategy evaluation: consistency, consonance, feasibility, and advantage
 4. Construct and interpret a Balanced Scorecard using financial, customer, internal process, and learning/growth perspectives
 5. Explain the role of contingency planning in strategy evaluation
 6. Discuss how auditing supports the strategy evaluation process
@@ -33,7 +40,7 @@ By the end of this topic, you will be able to:
 
 **Strategy evaluation** is the process of reviewing the bases of a strategy, measuring organizational performance against strategic objectives, and taking corrective actions when performance deviates from expectations. It is the final stage in the strategic management process, but calling it "final" is misleading. Strategy evaluation feeds directly back into strategy formulation, creating a continuous loop rather than a linear sequence. Every evaluation cycle generates information that may require revising the strategy, adjusting implementation, or in some cases, starting the formulation process over entirely.
 
-The importance of strategy evaluation rests on a simple reality: the conditions that made a strategy appropriate at the time of its formulation will change. External factors shift. Competitors respond. Technologies evolve. Customer preferences migrate. Internal capabilities strengthen in some areas and weaken in others. A strategy that was optimal when it was chosen may become suboptimal — or outright dangerous — as conditions change. Without systematic evaluation, the organization has no mechanism for detecting these shifts until their consequences become unmistakable, by which point the cost of correction has multiplied.
+The importance of strategy evaluation rests on a simple reality: the conditions that made a strategy appropriate at the time of its formulation will change (David & David, 2020). External factors shift. Competitors respond. Technologies evolve. Customer preferences migrate. Internal capabilities strengthen in some areas and weaken in others. A strategy that was optimal when it was chosen may become suboptimal — or outright dangerous — as conditions change. Without systematic evaluation, the organization has no mechanism for detecting these shifts until their consequences become unmistakable, by which point the cost of correction has multiplied.
 
 Strategy evaluation also matters because success is deceptive. An organization that is performing well may assume its strategy is sound when, in fact, current performance is masking emerging problems. Strong revenue growth can hide deteriorating customer satisfaction. Healthy profit margins can mask declining market share. Short-term financial performance can obscure long-term competitive erosion. Evaluation disciplines the organization to look beyond current results and examine whether the foundations of its strategy remain intact.
 
@@ -45,13 +52,19 @@ The relationship between evaluation and the other stages of strategic management
 
 Strategy evaluation consists of three sequential activities, each essential and each building on the previous one. Skipping any of the three renders the evaluation incomplete and potentially misleading.
 
+
+**Figure 6.1**
+*Strategy Evaluation Framework*
+
+![Flowchart showing the three activities of strategy evaluation: reviewing bases, measuring performance, and taking corrective actions](../graphics/topic-6/fig-6-1-evaluation-framework.png)
+
 ### Reviewing the Bases of Strategy
 
 The first evaluation activity involves re-examining the external and internal factors that formed the foundation for the current strategy. This means returning to the EFE Matrix, the IFE Matrix, and the CPM — the input-stage tools from Topic 4 — and asking whether the factors, weights, and ratings have changed significantly since the strategy was formulated.
 
-**Reviewing external bases** asks: Have the opportunities we identified materialized as expected? Have the threats we anticipated changed in magnitude or character? Have new opportunities or threats emerged that were not present during formulation? Has the competitive landscape shifted through mergers, new entrants, exits, or strategic repositioning by rivals? Have regulatory, technological, economic, or social conditions changed in ways that affect our strategy's assumptions?
+Reviewing external bases asks: Have the opportunities we identified materialized as expected? Have the threats we anticipated changed in magnitude or character? Have new opportunities or threats emerged that were not present during formulation? Has the competitive landscape shifted through mergers, new entrants, exits, or strategic repositioning by rivals? Have regulatory, technological, economic, or social conditions changed in ways that affect our strategy's assumptions?
 
-**Reviewing internal bases** asks: Have our strengths been maintained, enhanced, or eroded? Have we addressed the weaknesses we identified, or have they worsened? Have new internal capabilities emerged that could be leveraged? Have key personnel departed? Has our financial position changed? Has our organizational culture shifted in ways that support or undermine the strategy?
+Reviewing internal bases asks: Have our strengths been maintained, enhanced, or eroded? Have we addressed the weaknesses we identified, or have they worsened? Have new internal capabilities emerged that could be leveraged? Have key personnel departed? Has our financial position changed? Has our organizational culture shifted in ways that support or undermine the strategy?
 
 The review of bases is not a casual exercise. It requires the same rigor that went into the original analysis. Updated EFE and IFE matrices should be constructed and compared against the originals. Significant changes in factor ratings or weights signal that the strategic foundation has shifted and the strategy may need revision.
 
@@ -75,6 +88,12 @@ Performance measurement involves both **quantitative criteria** and **qualitativ
 
 The third evaluation activity — and the one most frequently neglected — involves taking action when the review of bases or performance measurement reveals problems. Identifying that a strategy is underperforming is analytically interesting. Doing something about it is strategically essential.
 
+
+**Figure 6.6**
+*Taking Corrective Actions Decision Flow*
+
+![Decision tree for determining appropriate corrective actions based on evaluation findings](../graphics/topic-6/fig-6-6-corrective-actions.png)
+
 **Corrective actions** can range from minor adjustments to fundamental strategic revision, depending on the nature and severity of the problem identified.
 
 At the most incremental level, corrective actions may involve adjusting annual objectives, revising policies, reallocating resources within existing divisions, modifying compensation structures, or replacing underperforming personnel. These actions address implementation problems while preserving the underlying strategy.
@@ -93,6 +112,12 @@ The corrective action stage is where many organizations fail. Identifying proble
 
 Richard Rumelt proposed four criteria for evaluating whether a strategy is sound. These criteria provide a framework for testing a strategy's logical coherence before performance data is available, making them useful both during formulation (as a quality check) and during evaluation (as a diagnostic tool).
 
+
+**Figure 6.2**
+*Rumelt's Four Criteria for Strategy Evaluation*
+
+![Category grid showing Rumelt's four evaluation criteria: consistency, consonance, feasibility, and advantage](../graphics/topic-6/fig-6-2-rumelt-criteria.png)
+
 ### Consistency
 
 The **consistency** criterion asks whether the strategy presents mutually inconsistent goals or policies. A strategy is inconsistent when it simultaneously pursues objectives that conflict with each other or when its policies contradict its stated goals.
@@ -105,7 +130,7 @@ Organizational conflict that is persistent, systemic, and unresolved often signa
 
 The **consonance** criterion asks whether the strategy is an adaptive response to the external environment and the changes occurring within it. A consonant strategy matches the organization's approach to the realities of its competitive, technological, economic, and social environment.
 
-Consonance is the most externally focused of Rumelt's criteria. A strategy that was consonant when it was formulated can become dissonant as the environment changes. A brick-and-mortar retail strategy was consonant with the environment of the 1990s but increasingly dissonant as e-commerce transformed consumer behavior in the 2000s and 2010s. Evaluating consonance requires ongoing environmental scanning and honest comparison of the strategy's assumptions against current conditions.
+**Consonance** is the most externally focused of **Rumelt's criteria**. A strategy that was consonant when it was formulated can become dissonant as the environment changes. A brick-and-mortar retail strategy was consonant with the environment of the 1990s but increasingly dissonant as e-commerce transformed consumer behavior in the 2000s and 2010s. Evaluating consonance requires ongoing environmental scanning and honest comparison of the strategy's assumptions against current conditions.
 
 The consonance criterion is particularly challenging because environmental change is often gradual. Organizations adapt to incremental shifts without recognizing that the cumulative effect has fundamentally altered the strategic landscape. By the time the dissonance becomes obvious, the organization may have spent years executing a strategy that was slowly becoming irrelevant.
 
@@ -113,7 +138,7 @@ The consonance criterion is particularly challenging because environmental chang
 
 The **feasibility** criterion asks whether the strategy can be accomplished with the available physical, human, and financial resources. A strategy that overtaxes the organization's resources is infeasible regardless of how attractive the strategic direction may be.
 
-Feasibility assessment must be realistic, not aspirational. Organizations frequently adopt strategies that assume resources will materialize through the strategy's own success — "we'll fund the expansion from the profits the expansion generates." While some degree of strategic leverage is appropriate, strategies that depend entirely on future success to fund current commitments are built on circular logic. The feasibility criterion forces an honest accounting of what resources are actually available and whether they are sufficient for the strategy's requirements.
+**Feasibility** assessment must be realistic, not aspirational. Organizations frequently adopt strategies that assume resources will materialize through the strategy's own success — "we'll fund the expansion from the profits the expansion generates." While some degree of strategic leverage is appropriate, strategies that depend entirely on future success to fund current commitments are built on circular logic. The feasibility criterion forces an honest accounting of what resources are actually available and whether they are sufficient for the strategy's requirements.
 
 Feasibility also includes organizational capability. An organization may have the financial resources to pursue a strategy but lack the managerial talent, technological infrastructure, or organizational systems required for successful execution. A company with ample cash but no experience in international markets may have the financial feasibility but not the operational feasibility to pursue international expansion.
 
@@ -129,7 +154,13 @@ The advantage criterion connects strategy evaluation back to the Resource-Based 
 
 ## The Balanced Scorecard
 
-The **Balanced Scorecard**, developed by Robert Kaplan and David Norton, addresses a fundamental limitation of traditional strategy evaluation: the overreliance on financial metrics. Financial measures are necessary but insufficient. They tell you whether the organization has performed well financially, but they do not explain why, and they do not provide early warning of future performance problems. The Balanced Scorecard supplements financial evaluation with three additional perspectives that together provide a more complete picture of strategic health.
+The **Balanced Scorecard**, developed by Robert Kaplan and David Norton (Kaplan & Norton, 1992, 1996), addresses a fundamental limitation of traditional strategy evaluation: the overreliance on financial metrics. Financial measures are necessary but insufficient. They tell you whether the organization has performed well financially, but they do not explain why, and they do not provide early warning of future performance problems. The Balanced Scorecard supplements financial evaluation with three additional perspectives that together provide a more complete picture of strategic health.
+
+
+**Figure 6.3**
+*The Balanced Scorecard*
+
+![Four-perspective Balanced Scorecard with financial, customer, internal process, and learning/growth dimensions](../graphics/topic-6/fig-6-3-balanced-scorecard.png)
 
 ### The Financial Perspective
 
@@ -159,9 +190,15 @@ Each perspective should include specific objectives (what the organization wants
 
 **Contingency planning** involves developing alternative strategies that can be implemented if key events do not occur as expected. Contingency plans are not alternative strategies chosen through the QSPM — they are pre-developed response plans for specific scenarios that would invalidate the current strategy.
 
+
+**Figure 6.5**
+*Contingency Planning Process*
+
+![Flowchart showing the contingency planning process from identifying trigger events to activating alternative strategies](../graphics/topic-6/fig-6-5-contingency-planning.png)
+
 Effective contingency planning begins with identifying the key assumptions and trigger events upon which the current strategy depends. If the strategy assumes moderate economic growth, what happens if a recession occurs? If the strategy assumes a key competitor will not enter the market, what happens if they do? If the strategy assumes regulatory stability, what happens if new regulations are enacted?
 
-For each trigger event, three scenarios should be developed: **best case** (the trigger event occurs in the most favorable possible way), **worst case** (the trigger event occurs in the most unfavorable possible way), and **most likely case** (the most probable outcome based on available information). For each scenario, a pre-planned response should be developed so that the organization can respond quickly rather than beginning the planning process from scratch when the event occurs.
+For each trigger event, three scenarios should be developed: **best case** (the trigger event occurs in the most favorable possible way), **worst case** (the trigger event occurs in the most unfavorable possible way), and most likely case (the most probable outcome based on available information). For each scenario, a pre-planned response should be developed so that the organization can respond quickly rather than beginning the planning process from scratch when the event occurs.
 
 Contingency planning provides several benefits beyond the obvious one of preparedness. The process of identifying trigger events forces strategists to make their assumptions explicit, which often reveals assumptions that were never examined. The process of developing alternative responses builds organizational flexibility and reduces the cognitive lock-in that comes from committing entirely to a single strategic direction. And the existence of contingency plans reduces organizational anxiety about uncertainty, because leaders know that responses have been thought through even if the triggering event has not occurred.
 
@@ -183,7 +220,13 @@ The relationship between auditing and evaluation is complementary. Evaluation as
 
 The pace and complexity of environmental change make strategy evaluation more difficult and more important than at any previous time. Several factors contribute to this increasing difficulty.
 
-**Accelerating environmental change** means that the assumptions underlying a strategy may become invalid more quickly than in the past. Product life cycles are shorter. Technological disruption is faster. Consumer preferences shift more rapidly through social media amplification. Competitive responses are quicker because information travels instantly. The window between strategy formulation and strategy obsolescence is narrowing.
+
+**Figure 6.7**
+*Why Strategy Evaluation Is Increasingly Difficult*
+
+![Category grid showing factors that make strategy evaluation more challenging in modern business](../graphics/topic-6/fig-6-7-evaluation-difficulty.png)
+
+Accelerating environmental change means that the assumptions underlying a strategy may become invalid more quickly than in the past. Product life cycles are shorter. Technological disruption is faster (Christensen, 1997). Consumer preferences shift more rapidly through social media amplification. Competitive responses are quicker because information travels instantly. The window between strategy formulation and strategy obsolescence is narrowing.
 
 **Increasing complexity** means that more variables interact in more ways, making causal relationships harder to identify. When financial performance declines, is the cause internal (operational problems), external (market shifts), competitive (rival actions), regulatory (new compliance costs), or some combination of all four? Isolating causes in a complex system is fundamentally more difficult than in a simple one.
 
@@ -199,19 +242,25 @@ These difficulties do not reduce the importance of strategy evaluation. They inc
 
 An effective strategy-evaluation system exhibits several essential characteristics that distinguish rigorous evaluation from bureaucratic reporting.
 
+
+**Figure 6.4**
+*Characteristics of an Effective Evaluation System*
+
+![Category grid listing key characteristics of effective strategy evaluation systems](../graphics/topic-6/fig-6-4-evaluation-characteristics.png)
+
 **Economical.** Evaluation should provide the information needed for strategic decision-making without consuming excessive resources. Elaborate evaluation systems that cost more to operate than the decisions they inform are counterproductive. The level of evaluation activity should be proportional to the stakes involved and the rate of environmental change.
 
 **Meaningful.** The metrics and criteria used for evaluation should be directly related to strategic objectives. Metrics that are easy to measure but strategically irrelevant provide false comfort. Metrics that are difficult to measure but strategically critical should not be abandoned simply because they require more effort. The evaluation system should measure what matters, not what is convenient.
 
 **Timely.** Evaluation information must be available when decisions need to be made. Annual strategy reviews are insufficient in rapidly changing environments. Quarterly or monthly evaluation of key indicators provides more actionable intelligence. Real-time monitoring of critical metrics is appropriate for fast-moving competitive situations. The frequency of evaluation should match the pace of change in the organization's environment.
 
-**Provide a true picture.** Evaluation must be honest, which means it must include bad news as well as good news, acknowledge uncertainty rather than manufacturing false precision, and resist the organizational tendency to present results in the most favorable light. An evaluation system that consistently reports positive results while competitive position deteriorates is worse than no evaluation system because it creates false confidence.
+Provide a true picture. Evaluation must be honest, which means it must include bad news as well as good news, acknowledge uncertainty rather than manufacturing false precision, and resist the organizational tendency to present results in the most favorable light. An evaluation system that consistently reports positive results while competitive position deteriorates is worse than no evaluation system because it creates false confidence.
 
-**Foster mutual trust.** Evaluation should be perceived as a constructive process that helps the organization improve, not as a punitive process that assigns blame. When managers fear that honest evaluation results will be used against them, they will manage the evaluation rather than manage the strategy. Effective evaluation systems create psychological safety for honest reporting and focus attention on learning and improvement rather than reward and punishment.
+Foster mutual trust. Evaluation should be perceived as a constructive process that helps the organization improve, not as a punitive process that assigns blame. When managers fear that honest evaluation results will be used against them, they will manage the evaluation rather than manage the strategy. Effective evaluation systems create psychological safety for honest reporting and focus attention on learning and improvement rather than reward and punishment.
 
 **Facilitate action.** The purpose of evaluation is not to generate reports but to inform decisions and stimulate action. An evaluation system that produces beautifully formatted dashboards that no one reads or acts upon has failed. Evaluation should be directly connected to decision-making processes, corrective action mechanisms, and resource allocation decisions. Every evaluation should conclude with a clear answer to the question: based on what we have learned, what should we do now?
 
-**Not dominate decisions.** While evaluation informs strategic decisions, it should not replace strategic judgment. Metrics provide data, but data requires interpretation. A single quarter of declining sales does not necessarily require strategic revision. A pattern of declining customer satisfaction across multiple segments probably does. The evaluation system should inform management judgment, not substitute for it.
+Not dominate decisions. While evaluation informs strategic decisions, it should not replace strategic judgment. Metrics provide data, but data requires interpretation. A single quarter of declining sales does not necessarily require strategic revision. A pattern of declining customer satisfaction across multiple segments probably does. The evaluation system should inform management judgment, not substitute for it.
 
 ---
 
@@ -249,9 +298,16 @@ Kodak's failure validates every principle in this topic. Evaluation must examine
 
 Strategy evaluation places a particular ethical demand on leaders: the obligation to be honest about what the data reveals, even when honesty is uncomfortable, politically costly, or personally threatening.
 
-Galatians 6:9 instructs: "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." This passage speaks to the perseverance required in evaluation. Strategy evaluation is not a one-time event. It is an ongoing discipline that requires consistent attention, repeated measurement, and continuous willingness to act on what is discovered. The temptation to abandon rigorous evaluation when short-term results look favorable — to declare victory and move on — must be resisted. The harvest comes from sustained faithfulness to the process, not from periodic bursts of attention.
+Galatians 6:9 (NIV) instructs: "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." This passage speaks to the perseverance required in evaluation. Strategy evaluation is not a one-time event. It is an ongoing discipline that requires consistent attention, repeated measurement, and continuous willingness to act on what is discovered. The temptation to abandon rigorous evaluation when short-term results look favorable — to declare victory and move on — must be resisted. The harvest comes from sustained faithfulness to the process, not from periodic bursts of attention.
 
-James 1:22-25 adds a sharper edge: "Do not merely listen to the word, and so deceive yourselves. Do what it says. Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror and, after looking at himself, goes away and immediately forgets what he looks like." Applied to strategy evaluation, this passage confronts the most common evaluation failure: identifying problems and then failing to act on them. An organization that conducts thorough evaluation and produces detailed reports but never takes corrective action has merely looked in the mirror and walked away. The evaluation has informed no one and changed nothing.
+James 1:22-25 (NIV) adds a sharper edge:
+
+> Do not merely listen to the word, and so deceive yourselves. Do what it says.
+> Anyone who listens to the word but does not do what it says is like someone
+> who looks at his face in a mirror and, after looking at himself, goes away and
+> immediately forgets what he looks like.
+
+Applied to strategy evaluation, this passage confronts the most common evaluation failure: identifying problems and then failing to act on them. An organization that conducts thorough evaluation and produces detailed reports but never takes corrective action has merely looked in the mirror and walked away. The evaluation has informed no one and changed nothing.
 
 The ethical dimension of strategy evaluation extends beyond honesty to stewardship. When leaders evaluate strategy honestly and act on their findings, they are being faithful stewards of the resources, people, and mission entrusted to their care. When they allow biased evaluation to mask strategic problems, they are squandering that trust. The Balanced Scorecard, Rumelt's criteria, contingency planning, and the three evaluation activities are not merely analytical tools. They are mechanisms for organizational accountability. They exist so that leaders cannot claim ignorance of problems that disciplined evaluation would have revealed.
 
@@ -470,3 +526,5 @@ Rumelt, R. P. (1980). The evaluation of business strategy. In W. F. Glueck (Ed.)
 Lewin, K. (1951). *Field theory in social science: Selected theoretical papers*. Harper & Brothers.
 
 Christensen, C. M. (1997). *The innovator's dilemma: When new technologies cause great firms to fail*. Harvard Business School Press.
+
+New International Version Bible. (2011). Zondervan. (Original work published 1978)

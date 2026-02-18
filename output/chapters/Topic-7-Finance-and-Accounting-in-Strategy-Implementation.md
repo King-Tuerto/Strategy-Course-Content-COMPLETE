@@ -1,6 +1,13 @@
-<!-- CWV: 5 -->
-
 # Topic 7: Finance and Accounting in Strategy Implementation
+
+Essential Questions
+
+- Why is financial analysis the discipline that separates strategic aspiration from executable strategy, and what happens to organizations that formulate strategy without grounding it in pro forma projections, financing plans, and valuation rigor?
+- How do pro forma financial statements serve as both a feasibility test and an accountability benchmark for a recommended strategy, and why does the inability to build credible projections reveal that the strategy itself has not been thought through?
+- What determines whether debt or equity financing better serves a particular strategic initiative, and how does EPS/EBIT analysis interact with risk tolerance, current leverage, and market conditions to inform the capital structure decision?
+- How do the four business valuation methods — net worth, market capitalization, price-to-earnings, and discounted cash flow — produce different assessments of the same enterprise, and why does responsible valuation require convergence across multiple methods rather than reliance on whichever method supports a preferred conclusion?
+
+---
 
 ## Opening
 
@@ -8,7 +15,7 @@ Early in my executive career, I watched a promising growth strategy collapse not
 
 The lesson was not subtle. Strategy that is not grounded in financial reality is not strategy. It is aspiration dressed up in PowerPoint slides.
 
-This topic examines the financial and accounting dimensions of strategy implementation — the quantitative backbone that transforms strategic intent into funded, measurable, executable plans. Where earlier topics examined what strategies to pursue and how to organize for execution, this topic examines how to pay for it, how to project its financial impact, how to determine whether debt or equity financing is more advantageous, and how to evaluate the worth of businesses being acquired or divested. These are not optional appendices to the strategic plan. They are the financial architecture without which the strategic plan is an unfunded mandate.
+This topic examines the financial and accounting dimensions of strategy implementation (David & David, 2020) — the quantitative backbone that transforms strategic intent into funded, measurable, executable plans. Where earlier topics examined what strategies to pursue and how to organize for execution, this topic examines how to pay for it, how to project its financial impact, how to determine whether debt or equity financing is more advantageous, and how to evaluate the worth of businesses being acquired or divested. These are not optional appendices to the strategic plan. They are the financial architecture without which the strategic plan is an unfunded mandate.
 
 For many MBA students — particularly those whose strengths lie in marketing, leadership, or organizational behavior — this is the topic where strategy becomes uncomfortably numerical. That discomfort is productive. A strategist who cannot read a pro forma income statement, construct an EPS/EBIT analysis, or evaluate a business valuation is a strategist who cannot implement. And a strategy that cannot be implemented is not a strategy at all.
 
@@ -32,6 +39,12 @@ By the end of this topic, you will be able to:
 ## Projected Financial Statements
 
 **Pro forma financial statements** are projected income statements and balance sheets that forecast the financial impact of a recommended strategy. They represent the most quantitative component of strategy implementation and serve as the bridge between qualitative strategic recommendations ("we should expand into the Southeast market") and quantitative financial reality ("here is what that expansion will cost, what revenue it will generate, and what it will do to our balance sheet over the next three years").
+
+
+**Figure 7.4**
+*Pro Forma Financial Statement Process*
+
+![Flowchart showing the process of creating pro forma income statements and balance sheets](../graphics/topic-7/fig-7-4-pro-forma.png)
 
 ### Pro Forma Income Statements
 
@@ -69,6 +82,12 @@ Third, they provide **accountability benchmarks**. Once a strategy is approved a
 
 **Financial budgets** are detailed plans for obtaining and spending funds to implement the chosen strategy. While pro forma statements provide a high-level financial picture, budgets translate that picture into specific, actionable funding plans at the departmental and project level.
 
+
+**Figure 7.2**
+*Financial Budget Hierarchy*
+
+![Pyramid showing budget hierarchy from master budget down through capital, operating, cash, sales, and profit budgets](../graphics/topic-7/fig-7-2-budget-hierarchy.png)
+
 ### Types of Budgets
 
 Several budget types work together to fund strategy implementation.
@@ -96,6 +115,12 @@ Budget misalignment is among the most common implementation failures. Organizati
 ## EPS/EBIT Analysis
 
 **EPS/EBIT analysis** is a technique for determining whether debt financing or equity financing is more advantageous for the organization given its expected level of operating profitability. This analysis is critical when an organization must raise capital to fund a recommended strategy and must choose between borrowing money (debt) and selling ownership shares (equity).
+
+
+**Figure 7.1**
+*EPS/EBIT Analysis Chart*
+
+![Line chart comparing earnings per share under debt and equity financing across EBIT levels with crossover point](../graphics/topic-7/fig-7-1-eps-ebit.png)
 
 ### The Logic of the Analysis
 
@@ -133,6 +158,12 @@ EPS/EBIT analysis informs the financing decision but does not make it. Several a
 
 Strategy implementation frequently requires evaluating the worth of businesses — the organization's own business, a competitor being considered for acquisition, or a division being considered for divestiture. Four primary methods are used, each with different assumptions, strengths, and limitations.
 
+
+**Figure 7.3**
+*Four Business Valuation Methods*
+
+![Comparison of four valuation methods: net worth, market capitalization, P/E ratio, and discounted cash flow](../graphics/topic-7/fig-7-3-valuation-methods.png)
+
 ### Net Worth Method
 
 The **net worth method** (also called the book value method) values a business based on its stockholders' equity as reported on the balance sheet: total assets minus total liabilities. This method is simple and objective because it relies on audited financial data.
@@ -147,7 +178,7 @@ Market capitalization has the advantage of reflecting all available information 
 
 ### Price-to-Earnings Method
 
-The **price-to-earnings (P/E) method** estimates business value by multiplying the company's earnings per share by an appropriate price-to-earnings ratio. The P/E ratio can be drawn from the company's own historical P/E, the industry average P/E, or the P/E of comparable companies.
+The price-to-earnings (P/E) method estimates business value by multiplying the company's earnings per share by an appropriate price-to-earnings ratio. The P/E ratio can be drawn from the company's own historical P/E, the industry average P/E, or the P/E of comparable companies.
 
 The P/E method's strength is that it incorporates both current earnings performance and market expectations about future growth (reflected in the P/E multiple). A high P/E ratio indicates that the market expects strong future earnings growth. A low P/E ratio indicates limited growth expectations. The P/E method is widely used in acquisition analysis because it provides a straightforward way to estimate what a company is worth based on its earnings power and comparable market valuations.
 
@@ -155,7 +186,7 @@ The P/E method's limitation is its sensitivity to the P/E multiple selected. Sma
 
 ### Discounted Cash Flow Method
 
-The **discounted cash flow (DCF) method** values a business based on the present value of its expected future cash flows, discounted at an appropriate rate that reflects the time value of money and the riskiness of those cash flows. DCF is considered the most theoretically sound valuation method because it directly measures what a business is worth: the cash it will generate for its owners over time.
+The **discounted cash flow (DCF) method** values a business based on the present value of its expected future cash flows, discounted at an appropriate rate that reflects the time value of money and the riskiness of those cash flows. DCF is considered the most theoretically sound valuation method (Damodaran, 2012) because it directly measures what a business is worth: the cash it will generate for its owners over time.
 
 The DCF calculation requires projecting free cash flows for a defined forecast period (typically five to ten years), estimating a terminal value representing the business's value beyond the forecast period, and discounting all cash flows back to the present using a discount rate that reflects the cost of capital.
 
@@ -172,6 +203,12 @@ In acquisition analysis, the valuation establishes the range within which negoti
 ## Acquiring Capital
 
 Strategy implementation requires capital, and the source of that capital — **debt**, **equity**, or **hybrid instruments** — carries strategic implications beyond the immediate financing need.
+
+
+**Figure 7.5**
+*Capital Structure Decision Framework*
+
+![Comparison of debt and equity financing with advantages, disadvantages, and considerations](../graphics/topic-7/fig-7-5-capital-structure.png)
 
 ### Debt Financing
 
@@ -205,6 +242,12 @@ The optimal capital structure depends on the organization's industry (capital-in
 
 Two mechanisms distribute value to shareholders: **dividends** and **stock buybacks**. The choice between them carries strategic implications.
 
+
+**Figure 7.7**
+*Dividend and Stock Buyback Decision Factors*
+
+![Radial diagram showing factors influencing dividend and stock buyback decisions](../graphics/topic-7/fig-7-7-dividend-decisions.png)
+
 ### Dividend Policy
 
 A **dividend** is a cash payment from the corporation to its shareholders, typically paid quarterly. **Dividend policy** — the organization's approach to determining how much of its earnings to distribute as dividends versus reinvesting in the business — reflects a fundamental strategic trade-off.
@@ -229,6 +272,12 @@ The strategic criticism of stock buybacks is that they may reflect a lack of att
 
 Financial ratios, introduced in Topic 3 as part of internal assessment, serve a different function during implementation: they become the quantitative monitoring system for tracking whether the strategy is producing expected financial results.
 
+
+**Figure 7.6**
+*Financial Ratio Monitoring in Implementation*
+
+![Category grid showing key financial ratios monitored during strategy implementation](../graphics/topic-7/fig-7-6-ratio-monitoring.png)
+
 The ratios most relevant to implementation monitoring include:
 
 **Liquidity ratios** (current ratio, quick ratio) monitor whether the organization can meet short-term obligations during the implementation period, which may involve significant cash outflows before revenue increases materialize.
@@ -248,6 +297,12 @@ The critical discipline is comparing actual ratios against the pro forma project
 ## Integrating Financial Analysis with Strategic Recommendations
 
 In case analysis and in practice, financial analysis is not a separate exercise performed after the strategic analysis is complete. It is an integral component of the strategic recommendation. A strategic recommendation that does not include financial projections, financing plans, and valuation analysis is incomplete.
+
+
+**Figure 7.8**
+*Integrating Financial Analysis with Strategy*
+
+![Flowchart showing how financial analysis integrates with strategic recommendations](../graphics/topic-7/fig-7-8-financial-integration.png)
 
 The integration follows a logical sequence. Strategic analysis (SWOT, SPACE, BCG, IE, QSPM) identifies the recommended strategy. Pro forma financial statements project the strategy's financial impact. EPS/EBIT analysis determines the optimal financing approach. Valuation analysis evaluates acquisition targets or divestiture candidates. Budget analysis allocates resources to specific implementation activities. And ratio monitoring provides the ongoing measurement system.
 
@@ -291,11 +346,11 @@ WeWork's experience validates a principle that should guide every financial anal
 
 The financial tools in this topic carry substantial ethical weight because they determine how organizational resources are allocated, how business value is assessed, and how the interests of different stakeholders are balanced.
 
-The Parable of the Talents in Matthew 25:14-30 provides the foundational principle. The master entrusts servants with resources ("talents") and expects a return. The servants who invest wisely and generate returns are commended. The servant who buries his talent out of fear is condemned — not for losing money, but for failing to deploy the resources entrusted to him. The parable is about stewardship: the obligation to use what you have been given productively and faithfully.
+The Parable of the Talents in Matthew 25:14-30 (NIV) provides the foundational principle. The master entrusts servants with resources ("talents") and expects a return. The servants who invest wisely and generate returns are commended. The servant who buries his talent out of fear is condemned — not for losing money, but for failing to deploy the resources entrusted to him. The parable is about stewardship: the obligation to use what you have been given productively and faithfully.
 
 Applied to corporate finance, this parable reframes every financial decision in this topic. Pro forma projections are not merely forecasting exercises; they are stewardship plans that articulate how the organization intends to deploy entrusted resources. EPS/EBIT analysis is not merely a technical calculation; it is a stewardship decision about how to fund the deployment of those resources in the way that best serves the organization's mission. Valuation is not merely a pricing exercise; it is an assessment of how faithfully a business's resources have been deployed and what they are worth as a result.
 
-Deuteronomy 8:17-18 adds a complementary dimension: "You may say to yourself, 'My power and the strength of my hands have produced this wealth for me.' But remember the Lord your God, for it is he who gives you the ability to produce wealth." This passage guards against the arrogance that financial success can produce. Organizations that generate strong returns, achieve high valuations, and access capital easily may begin to attribute their success entirely to management brilliance. The passage reminds the strategist that the ability to produce wealth — the market conditions, the technological infrastructure, the educated workforce, the legal systems that enable commerce — is not of the organization's own making. Financial stewardship begins with humility about the sources of financial success.
+Deuteronomy 8:17-18 (NIV) adds a complementary dimension: "You may say to yourself, 'My power and the strength of my hands have produced this wealth for me.' But remember the Lord your God, for it is he who gives you the ability to produce wealth." This passage guards against the arrogance that financial success can produce. Organizations that generate strong returns, achieve high valuations, and access capital easily may begin to attribute their success entirely to management brilliance. The passage reminds the strategist that the ability to produce wealth — the market conditions, the technological infrastructure, the educated workforce, the legal systems that enable commerce — is not of the organization's own making. Financial stewardship begins with humility about the sources of financial success.
 
 This stewardship perspective has practical implications. Pro forma projections should be honest, not optimistic. Organizations that inflate projections to justify a preferred strategy are not practicing good financial planning — they are deceiving their boards, their investors, and themselves. Valuation analysis should be rigorous, not advocacy. When the valuation of an acquisition target depends entirely on aggressive assumptions, the acquirer is not conducting due diligence — they are rationalizing a decision already made. And capital structure decisions should balance risk and return rather than maximizing short-term EPS through aggressive leverage. Overleveraging to boost EPS may reward current shareholders at the expense of long-term organizational stability, which is not stewardship but extraction.
 
@@ -518,3 +573,5 @@ Damodaran, A. (2012). *Investment valuation: Tools and techniques for determinin
 Koller, T., Goedhart, M., & Wessels, D. (2020). *Valuation: Measuring and managing the value of companies* (7th ed.). Wiley.
 
 Kaplan, S. N., & Stromberg, P. (2009). Leveraged buyouts and private equity. *Journal of Economic Perspectives*, *23*(1), 121-146.
+
+New International Version Bible. (2011). Zondervan. (Original work published 1978)

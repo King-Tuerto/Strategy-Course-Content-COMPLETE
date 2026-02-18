@@ -1,4 +1,3 @@
-<!-- CWV: 5 -->
 # Topic 2: External Analysis and International Strategy
 
 Essential Questions
@@ -61,9 +60,9 @@ External forces affecting organizations can be organized into five categories. E
 
 **Economic forces** include interest rates, inflation, GDP growth, unemployment, currency exchange rates, tax policies, and fiscal and monetary policies. These forces affect the cost of capital, consumer purchasing power, and the relative attractiveness of investment alternatives. A rising interest rate environment, for example, increases borrowing costs for expansion while simultaneously reducing consumer demand for credit-dependent purchases.
 
-**Social, cultural, demographic, and environmental forces** include population trends, age distribution, cultural attitudes, lifestyle changes, environmental consciousness, and geographic population shifts. These forces shape consumer demand, labor market conditions, and societal expectations of corporate behavior. An aging population in developed economies creates opportunities in healthcare and retirement services while threatening industries dependent on younger demographics.
+Social, cultural, demographic, and environmental forces include population trends, age distribution, cultural attitudes, lifestyle changes, environmental consciousness, and geographic population shifts. These forces shape consumer demand, labor market conditions, and societal expectations of corporate behavior. An aging population in developed economies creates opportunities in healthcare and retirement services while threatening industries dependent on younger demographics.
 
-**Political, governmental, and legal forces** include government regulations, tax laws, trade policies, antitrust enforcement, environmental regulations, and political stability. These forces define the legal boundaries within which organizations compete and can create or destroy entire market opportunities through regulatory action. The legalization of cannabis in multiple U.S. states created a multi-billion-dollar industry virtually overnight; a regulatory reversal could destroy it equally quickly.
+Political, governmental, and legal forces include government regulations, tax laws, trade policies, antitrust enforcement, environmental regulations, and political stability. These forces define the legal boundaries within which organizations compete and can create or destroy entire market opportunities through regulatory action. The legalization of cannabis in multiple U.S. states created a multi-billion-dollar industry virtually overnight; a regulatory reversal could destroy it equally quickly.
 
 **Technological forces** include the pace of technological change, research and development spending, automation trends, digital transformation, and technology transfer rates. These forces create opportunities for organizations that adopt new technologies effectively and threaten those that fail to adapt. The shift from physical retail to e-commerce, from internal servers to cloud computing, from human-operated to autonomous systems — each of these technological transitions has created winners and losers based on the speed and accuracy of external analysis.
 
@@ -74,6 +73,12 @@ External forces affecting organizations can be organized into five categories. E
 ## Porter's Five Forces Model
 
 **Porter's Five Forces Model** provides a structured framework for analyzing the competitive intensity and attractiveness of an industry. Developed by Michael Porter, the model identifies five forces that collectively determine the level of competition and profitability within any industry (Porter, 1980).
+
+
+**Figure 2.2**
+*Porter's Five Forces Model*
+
+![Diagram showing five competitive forces: rivalry, new entrants, substitutes, buyer power, and supplier power](../graphics/topic-2/fig-2-2-five-forces.png)
 
 ### Rivalry Among Existing Competitors
 
@@ -101,6 +106,12 @@ The Five Forces Model is not a checklist to be completed mechanically. It is an 
 
 ---
 
+
+**Figure 2.1**
+*External Factor Evaluation Process*
+
+![Flowchart showing the five steps of constructing an EFE Matrix](../graphics/topic-2/fig-2-1-efe-process.png)
+
 ## The External Factor Evaluation Matrix
 
 The **External Factor Evaluation (EFE) Matrix** provides a quantitative summary of an organization's external opportunities and threats and the organization's response to them. The EFE Matrix translates qualitative external analysis into a weighted numerical assessment that facilitates comparison across time periods, business units, and competing strategic alternatives.
@@ -116,6 +127,12 @@ The EFE Matrix is most valuable not as a standalone score but as a comparative t
 ## The Competitive Profile Matrix
 
 The **Competitive Profile Matrix (CPM)** compares an organization to its major competitors on **critical success factors** — the key areas where satisfactory performance ensures successful competitive positioning within an industry. Unlike the EFE Matrix, which focuses on external opportunities and threats, the CPM evaluates how effectively the organization and its competitors address the factors that determine competitive success.
+
+
+**Figure 2.4**
+*Competitive Profile Matrix Overview*
+
+![Table showing CPM structure with critical success factors, weights, ratings, and scores for multiple competitors](../graphics/topic-2/fig-2-4-cpm-overview.png)
 
 Construction follows a similar methodology: identify eight to twelve critical success factors, assign weights reflecting relative importance (summing to 1.0), and rate each firm on each factor (typically on a 1-4 scale). The resulting total weighted scores provide a quantitative comparison of competitive positioning.
 
@@ -136,6 +153,12 @@ The sources of legitimate competitive intelligence are extensive: industry publi
 ## PESTEL Analysis
 
 **PESTEL analysis** provides a structured framework for examining macro-environmental forces across six categories: Political, Economic, Social, Technological, Environmental, and Legal. PESTEL overlaps with the five categories of key external forces but adds explicit attention to environmental and legal factors as distinct analytical categories.
+
+
+**Figure 2.3**
+*PESTEL Analysis Framework*
+
+![Hexagonal diagram showing six PESTEL factors: political, economic, social, technological, environmental, and legal](../graphics/topic-2/fig-2-3-pestel.png)
 
 Political factors include government stability, regulatory posture, trade policy, and political ideology. Economic factors include growth rates, inflation, interest rates, exchange rates, and economic development stage. Social factors include demographic trends, cultural values, education levels, and lifestyle patterns. Technological factors include innovation rates, automation, digital infrastructure, and technology adoption patterns. Environmental factors include climate change, sustainability requirements, resource scarcity, and environmental regulation. Legal factors include employment law, consumer protection, antitrust regulation, health and safety requirements, and intellectual property protection.
 
@@ -191,6 +214,12 @@ A **multidomestic strategy** customizes products, operations, and competitive ap
 
 The **integration-responsiveness framework** maps these strategic choices on two dimensions: the pressure for global integration (standardization and efficiency) and the pressure for local responsiveness (customization and adaptation). This framework produces four strategic postures:
 
+
+**Figure 2.5**
+*Integration-Responsiveness Framework*
+
+![Two-by-two matrix showing four international strategies based on global integration and local responsiveness](../graphics/topic-2/fig-2-5-integration-responsiveness.png)
+
 Organizations facing high integration pressure and low responsiveness pressure pursue global strategies. Organizations facing low integration pressure and high responsiveness pressure pursue multidomestic strategies. Organizations facing high pressure on both dimensions pursue transnational strategies — attempting to achieve both global efficiency and local responsiveness simultaneously, the most organizationally demanding approach. Organizations facing low pressure on both dimensions pursue international strategies — primarily exporting domestic products to foreign markets with minimal adaptation.
 
 The integration-responsiveness framework is diagnostic, not prescriptive. It helps leaders understand the pressures their industry and markets create, but the strategic response to those pressures requires judgment that the framework alone cannot provide.
@@ -198,6 +227,12 @@ The integration-responsiveness framework is diagnostic, not prescriptive. It hel
 ### Foreign Market Entry Strategies
 
 Organizations entering foreign markets choose from a spectrum of entry modes that trade off risk, investment, and control.
+
+
+**Figure 2.6**
+*International Market Entry Modes*
+
+![Spectrum showing market entry modes from low to high commitment: exporting, licensing, joint ventures, acquisition, greenfield](../graphics/topic-2/fig-2-6-entry-modes.png)
 
 **Exporting** — selling domestically produced goods in foreign markets — represents the lowest-risk, lowest-investment entry mode. Exporting requires minimal organizational change and preserves the option to withdraw from foreign markets quickly. However, exporting provides limited control over distribution, marketing, and customer experience in the target market.
 
@@ -223,7 +258,7 @@ The political and legal environment varies dramatically across national markets 
 
 Trade agreements — USMCA, the European Union single market, ASEAN, RCEP — create preferential trading conditions among member nations while simultaneously creating competitive disadvantages for non-member firms. **Tariffs** and trade barriers alter the cost structure of international operations in ways that can make otherwise sound strategies unprofitable. Intellectual property protection varies widely across legal systems, and organizations operating in jurisdictions with weak IP enforcement face the risk of technology theft and counterfeit competition.
 
-The **Foreign Corrupt Practices Act** (FCPA), introduced in Topic 1, carries particular significance in international operations. Business practices that constitute normal relationship-building in some cultures may constitute criminal bribery under U.S. law. Strategic leaders must navigate this tension without either violating the law or crippling their competitive effectiveness in markets where competitors face fewer constraints.
+The Foreign Corrupt Practices Act (FCPA), introduced in Topic 1, carries particular significance in international operations. Business practices that constitute normal relationship-building in some cultures may constitute criminal bribery under U.S. law. Strategic leaders must navigate this tension without either violating the law or crippling their competitive effectiveness in markets where competitors face fewer constraints.
 
 ### Currency Risk
 
@@ -253,9 +288,9 @@ The Starbucks case demonstrates that international strategy is iterative, not fo
 
 External analysis raises ethical questions that the analytical tools themselves do not answer. Competitive intelligence gathering operates on a boundary between legitimate research and unethical intrusion. The question of how much to customize products for foreign markets intersects with questions about cultural respect and the ethics of exporting values alongside products. The decision to enter markets with weak labor protections, environmental regulations, or human rights records forces strategic leaders to confront whether profitability justifies participation in systems they would not accept at home.
 
-Proverbs 3:5-6 counsels: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight." For the strategic leader navigating external analysis, this passage speaks to a fundamental posture. The external environment is vast, complex, and ultimately beyond any leader's capacity to fully understand or control. Analytical tools reduce uncertainty, but they do not eliminate it. The leader who trusts only in the analysis — who believes that sufficient data eliminates the need for moral judgment — builds strategy on a foundation that cannot bear the weight of genuinely difficult decisions. Strategic wisdom requires acknowledging the limits of human understanding and maintaining ethical commitments that persist even when the external analysis suggests that compromise would be more profitable.
+Proverbs 3:5-6 (NIV) counsels: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight." For the strategic leader navigating external analysis, this passage speaks to a fundamental posture. The external environment is vast, complex, and ultimately beyond any leader's capacity to fully understand or control. Analytical tools reduce uncertainty, but they do not eliminate it. The leader who trusts only in the analysis — who believes that sufficient data eliminates the need for moral judgment — builds strategy on a foundation that cannot bear the weight of genuinely difficult decisions. Strategic wisdom requires acknowledging the limits of human understanding and maintaining ethical commitments that persist even when the external analysis suggests that compromise would be more profitable.
 
-Matthew 7:12 extends this principle to competitive relationships: "In everything, do to others what you would have them do to you." Applied to competitive intelligence, this principle does not prohibit gathering information about competitors. It prohibits gathering information through methods you would consider unacceptable if applied to your own organization. Applied to international operations, it asks whether the labor conditions, environmental standards, and business practices you accept in foreign markets are ones you would find acceptable if your own employees and communities were affected. The Golden Rule does not simplify external analysis. It complicates it — appropriately — by insisting that strategic effectiveness and ethical integrity are not competing objectives but complementary commitments.
+Matthew 7:12 (NIV) extends this principle to competitive relationships: "In everything, do to others what you would have them do to you." Applied to competitive intelligence, this principle does not prohibit gathering information about competitors. It prohibits gathering information through methods you would consider unacceptable if applied to your own organization. Applied to international operations, it asks whether the labor conditions, environmental standards, and business practices you accept in foreign markets are ones you would find acceptable if your own employees and communities were affected. The Golden Rule does not simplify external analysis. It complicates it — appropriately — by insisting that strategic effectiveness and ethical integrity are not competing objectives but complementary commitments.
 
 ---
 
@@ -506,3 +541,5 @@ Netflix. (2023). *Netflix annual report 2023*. Netflix, Inc.
 Porter, M. E. (1980). *Competitive strategy: Techniques for analyzing industries and competitors*. Free Press.
 
 Starbucks. (2023). *Starbucks fiscal 2023 annual report*. Starbucks Corporation.
+
+New International Version Bible. (2011). Zondervan. (Original work published 1978)

@@ -2,11 +2,11 @@
 
 ## What This Tool Does
 
-The **External Factor Evaluation (EFE) Matrix** provides a structured method for identifying, categorizing, and weighing the external opportunities and threats facing an organization. It converts qualitative environmental scanning into a quantitative summary score that reveals how effectively a company responds to the conditions in its external environment. The output is a single weighted score between 1.0 and 4.0 that tells you whether the organization is capitalizing on opportunities and defending against threats, or whether the external environment is outrunning management's ability to respond.
+The **External Factor Evaluation (EFE) Matrix** provides a structured method for identifying, categorizing, and weighing the external opportunities and threats facing an organization. It converts qualitative **environmental scanning** into a quantitative summary score that reveals how effectively a company responds to the conditions in its external environment. The output is a single **weighted score** between 1.0 and 4.0 that tells you whether the organization is capitalizing on opportunities and defending against threats, or whether the external environment is outrunning management's ability to respond.
 
 ## When to Use It
 
-Use the EFE Matrix during the strategy formulation stage, specifically during external analysis. It should follow environmental scanning work — industry analysis, competitor assessment, political-legal-economic-social-technological (PEST) scanning — and should precede tools that require external input for strategic positioning, such as the Internal-External (IE) Matrix or the SWOT Matrix. The EFE Matrix is most useful when an organization needs to move beyond a general awareness of external conditions to a disciplined, weighted assessment of which factors matter most and how well management is responding.
+Use the EFE Matrix during the strategy formulation stage (David & David, 2017), specifically during external analysis. It should follow environmental scanning work — industry analysis, competitor assessment, political-legal-economic-social-technological (PEST) scanning — and should precede tools that require external input for strategic positioning, such as the Internal-External (IE) Matrix or the SWOT Matrix. The EFE Matrix is most useful when an organization needs to move beyond a general awareness of external conditions to a disciplined, weighted assessment of which factors matter most and how well management is responding.
 
 ## Before You Start
 
@@ -22,7 +22,7 @@ Use the EFE Matrix during the strategy formulation stage, specifically during ex
 
 ### Step 1: Identify Key External Factors
 
-List 15 to 20 external factors, divided between opportunities and threats. These should be specific and actionable, not vague. Each factor should represent a condition in the external environment that could materially affect the organization's strategic position.
+List 15 to 20 external factors, divided between opportunities and threats. These should be specific and actionable, not vague. Each **key external factor** should represent a condition in the external environment that could materially affect the organization's strategic position.
 
 Weak factor: "Technology is changing."
 Strong factor: "Artificial intelligence automation is reducing labor costs in the logistics industry by 12-18% annually, creating cost pressure for firms that have not adopted AI-driven supply chain tools."
@@ -33,7 +33,7 @@ Include both opportunities (favorable external conditions the firm could exploit
 
 Assign a weight between 0.0 and 1.0 to each factor based on its relative importance to success in the industry. The weight reflects how much that factor matters to any firm competing in this industry, regardless of the specific company being evaluated. All weights must sum to exactly 1.00.
 
-A factor with a weight of 0.15 matters considerably more than a factor weighted at 0.03. The weight is an industry-level judgment: if an opportunity or threat would affect every competitor in this market, it deserves a higher weight. If it is only marginally relevant to industry success, it gets a lower weight.
+A factor with a weight of 0.15 matters considerably more than a factor weighted at 0.03. The weight is an industry-level judgment: if an **opportunity** or threat would affect every competitor in this market, it deserves a higher weight. If it is only marginally relevant to industry success, it gets a lower weight.
 
 Common mistake: distributing weights evenly across all factors. This defeats the purpose. The whole point is to force prioritization. Some external conditions matter far more than others, and the weights should reflect that reality.
 
@@ -56,7 +56,7 @@ For example, an opportunity weighted at 0.12 with a rating of 3 produces a weigh
 
 ### Step 5: Sum the Weighted Scores
 
-Add all individual weighted scores to produce a total weighted score. This is the single summary number that characterizes the firm's external strategic position.
+Add all individual weighted scores to produce a **total weighted score**. This is the single summary number that characterizes the firm's external strategic position.
 
 ### Step 6: Interpret the Total Weighted Score
 
@@ -67,7 +67,7 @@ The total weighted score ranges from 1.0 to 4.0, with 2.5 as the midpoint. A sco
 ## Scoring Guide
 
 **Table 1**
-*EFE Matrix Rating Scale*
+*EFE Matrix **Rating** Scale*
 
 | Rating | Meaning | Application |
 |---|---|---|
@@ -77,7 +77,7 @@ The total weighted score ranges from 1.0 to 4.0, with 2.5 as the midpoint. A sco
 | 1 | Poor response | The firm has no meaningful strategy addressing this factor |
 
 **Table 2**
-*EFE Matrix Weight Guidelines*
+*EFE Matrix **Weight** Guidelines*
 
 | Weight Range | Interpretation |
 |---|---|
@@ -92,13 +92,13 @@ The total weighted score ranges from 1.0 to 4.0, with 2.5 as the midpoint. A sco
 
 The total weighted score tells you how well the organization is positioned relative to its external environment.
 
-**If your total weighted score is 3.0 to 4.0:** The organization responds effectively to external conditions. Current strategies capitalize on major opportunities and manage key threats. This does not mean the external environment is favorable — it means management is handling whatever the environment presents. Maintain strategic vigilance. External conditions shift, and today's effective response becomes tomorrow's outdated assumption.
+If your total weighted score is 3.0 to 4.0: The organization responds effectively to external conditions. Current strategies capitalize on major opportunities and manage key threats. This does not mean the external environment is favorable — it means management is handling whatever the environment presents. Maintain strategic vigilance. External conditions shift, and today's effective response becomes tomorrow's outdated assumption.
 
-**If your total weighted score is 2.5 to 2.99:** The organization's response is adequate but unremarkable. The firm is not failing, but it is not distinguishing itself from competitors in how it handles external factors. Look for specific factors where ratings are 1 or 2 — these represent the clearest opportunities for strategic improvement. Even a modest increase in response effectiveness on a heavily weighted factor can move the total score meaningfully.
+If your total weighted score is 2.5 to 2.99: The organization's response is adequate but unremarkable. The firm is not failing, but it is not distinguishing itself from competitors in how it handles external factors. Look for specific factors where ratings are 1 or 2 — these represent the clearest opportunities for strategic improvement. Even a modest increase in response effectiveness on a heavily weighted factor can move the total score meaningfully.
 
-**If your total weighted score is 2.0 to 2.49:** The organization is underperforming in its response to external conditions. Threats are not being managed effectively, opportunities are being missed, or both. This score should trigger a serious strategic review. Identify the highest-weighted factors with the lowest ratings — these are where the firm is most exposed. Prioritize strategic initiatives that address these gaps.
+If your total weighted score is 2.0 to 2.49: The organization is underperforming in its response to external conditions. **Threat**s are not being managed effectively, opportunities are being missed, or both. This score should trigger a serious strategic review. Identify the highest-weighted factors with the lowest ratings — these are where the firm is most exposed. Prioritize strategic initiatives that address these gaps.
 
-**If your total weighted score is 1.0 to 1.99:** The organization is in strategic distress relative to its external environment. Management is failing to respond to the conditions that matter most. This score calls for urgent strategic action, potentially including leadership changes, major strategy reformulation, or repositioning. In extreme cases, it may indicate that the firm's business model is fundamentally misaligned with its environment.
+If your total weighted score is 1.0 to 1.99: The organization is in strategic distress relative to its external environment. Management is failing to respond to the conditions that matter most. This score calls for urgent strategic action, potentially including leadership changes, major strategy reformulation, or repositioning. In extreme cases, it may indicate that the firm's business model is fundamentally misaligned with its environment.
 
 A critical point students miss: the EFE score is relative, not absolute. A score of 3.2 does not mean the external environment is good. It means the firm responds well to whatever environment it faces. A company operating in a hostile environment full of severe threats can still score above 2.5 if its strategies effectively address those threats.
 
@@ -106,7 +106,7 @@ A critical point students miss: the EFE score is relative, not absolute. A score
 
 ## Real-World Example
 
-Consider Starbucks Corporation in the mid-2010s, a period when the company was navigating significant shifts in consumer behavior, competitive intensity, and global expansion challenges.
+Consider Starbucks (Starbucks, 2016) Corporation in the mid-2010s, a period when the company was navigating significant shifts in consumer behavior, competitive intensity, and global expansion challenges.
 
 **Table 3**
 *EFE Matrix for Starbucks Corporation (Illustrative, Mid-2010s)*
@@ -161,7 +161,7 @@ The total weighted score is not a report card. A score of 2.96 does not mean the
 
 ## A Note on Wisdom in External Analysis
 
-External analysis demands a particular kind of intellectual honesty. Every leader enters the process with assumptions about the environment — assumptions shaped by experience, industry narratives, and confirmation bias. The EFE Matrix is supposed to challenge those assumptions, but it only works if the people constructing it are willing to see what is actually there rather than what they expect to find. Proverbs 15:22 addresses this directly: "Plans fail for lack of counsel, but with many advisers they succeed." The implication for external analysis is practical. No single executive has full visibility into the political, technological, economic, social, and competitive forces shaping an industry. The EFE Matrix improves in direct proportion to the diversity of perspectives brought to bear on it. When one person constructs the matrix alone, it reflects one person's blind spots. When a cross-functional team debates the factors, the weights, and the ratings, the result approximates something closer to reality. Seeking counsel is not a sign of indecision. It is the discipline that separates analysis from wishful thinking.
+External analysis demands a particular kind of intellectual honesty. Every leader enters the process with assumptions about the environment — assumptions shaped by experience, industry narratives, and confirmation bias. The EFE Matrix is supposed to challenge those assumptions, but it only works if the people constructing it are willing to see what is actually there rather than what they expect to find. Proverbs 15:22 (NIV) addresses this directly: "Plans fail for lack of counsel, but with many advisers they succeed." The implication for external analysis is practical. No single executive has full visibility into the political, technological, economic, social, and competitive forces shaping an industry. The EFE Matrix improves in direct proportion to the diversity of perspectives brought to bear on it. When one person constructs the matrix alone, it reflects one person's blind spots. When a cross-functional team debates the factors, the weights, and the ratings, the result approximates something closer to reality. Seeking counsel is not a sign of indecision. It is the discipline that separates analysis from wishful thinking.
 
 ---
 
@@ -189,7 +189,7 @@ Starbucks Corporation. (2016). *Fiscal 2016 annual report*. Starbucks Corporatio
 
 Thompson, A. A., Peteraf, M. A., Gamble, J. E., & Strickland, A. J. (2022). *Crafting and executing strategy: The quest for competitive advantage* (23rd ed.). McGraw-Hill Education.
 
----
+New International Version Bible. (2011). Zondervan. (Original work published 1978)
 
 ## Knowledge Check
 
